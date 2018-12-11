@@ -15,6 +15,10 @@ Journal papers:
 
 Conference papers:
 
-1. M. Niepert, M. Ahmed, K. Kutzkov, **Learning Convolutional Neural Networks for Graphs**, ICML 2016. [paper](http://proceedings.mlr.press/v48/niepert16.pdf).
+1. Duvenaud D, Maclaurin D, Aguilera-Iparraguirre J, et al. **Convolutional networks on graphs for learning molecular fingerprints**, NIPS 2015.  [paper](http://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf).[code](https://github.com/HIPS/neural-fingerprint).
 
-2. R. Li, S. Wang, F. Zhu, J. Huang, **Adaptive Graph Convolutional Neural Networks**, AAAI 2018
+2. M. Niepert, M. Ahmed, K. Kutzkov, **Learning Convolutional Neural Networks for Graphs**, ICML 2016. [paper](http://proceedings.mlr.press/v48/niepert16.pdf).
+
+3. R. Li, S. Wang, F. Zhu, J. Huang, **Adaptive Graph Convolutional Neural Networks**, AAAI 2018. [paper] (https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16642)
+
+
