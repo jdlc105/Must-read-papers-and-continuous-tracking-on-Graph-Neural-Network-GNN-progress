@@ -6,3 +6,15 @@ Many important real-world applications and questions come in the form of graphs,
 This project focuses on GNN, lists relevant must-read papers and keeps track of progress.  We look forward to promoting this direction and providing some help to researchers in this direction.
 
 Contributed by Allen Bluce, If there is something wrong, please contact me via the email(Address: jdlc105@qq.com)
+
+
+Journal papers:
+
+1. F. Scarselli, M. Gori, A.C. Tsoi, M. Hagenbuchner, G. Monfardini, **The graph neural network model**, IEEE Transactions on Neural Networks, 2009.
+
+
+Conference papers:
+
+1. M. Niepert, M. Ahmed, K. Kutzkov, **Learning Convolutional Neural Networks for Graphs**, ICML 2016
+
+2. R. Li, S. Wang, F. Zhu, J. Huang, **Adaptive Graph Convolutional Neural Networks**, AAAI 2018
