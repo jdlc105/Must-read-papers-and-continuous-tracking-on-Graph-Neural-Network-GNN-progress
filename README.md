@@ -5,4 +5,4 @@ Many important real-world applications and questions come in the form of graphs,
 
 This project focuses on GNN, lists relevant must-read papers and keeps track of progress.  We look forward to promoting this direction and providing some help to researchers in this direction.
 
-Contributed by Allen Bluce, If there is something wrong, please contact me via the email(Address:jdlc105@qq.com)
+Contributed by Allen Bluce, If there is something wrong, please contact me via the email(Address: jdlc105@qq.com)
