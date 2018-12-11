@@ -10,7 +10,7 @@ Contributed by Allen Bluce, If there is something wrong, please contact me via t
 
 Journal papers:
 
-1. F. Scarselli, M. Gori, A.C. Tsoi, M. Hagenbuchner, G. Monfardini, **The graph neural network model**, IEEE Transactions on Neural Networks, 2009.
+1. F. Scarselli, M. Gori, A.C. Tsoi, M. Hagenbuchner, G. Monfardini, **The graph neural network model**, IEEE Transactions on Neural Networks, 2009. paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287&tag=1
 
 
 Conference papers:
