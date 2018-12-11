@@ -15,6 +15,6 @@ Journal papers:
 
 Conference papers:
 
-1. M. Niepert, M. Ahmed, K. Kutzkov, **Learning Convolutional Neural Networks for Graphs**, ICML 2016
+1. M. Niepert, M. Ahmed, K. Kutzkov, **Learning Convolutional Neural Networks for Graphs**, ICML 2016. [paper](http://proceedings.mlr.press/v48/niepert16.pdf).
 
 2. R. Li, S. Wang, F. Zhu, J. Huang, **Adaptive Graph Convolutional Neural Networks**, AAAI 2018
