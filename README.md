@@ -60,7 +60,7 @@ Conference papers:
 
 15. P. Veličković, G. Cucurull, A. Casanova, A. Romero, P. Liò, Y. Bengio, **Graph Attention Networks**, ICLR, 2018. [paper](https://arxiv.org/pdf/1710.10903.pdf)
 
-16. 
+16. Beck, Daniel Edward Robert, Gholamreza Haffari and Trevor Cohn. **Graph-to-Sequence Learning using Gated Graph Neural Networks.** ACL 2018. [paper](https://arxiv.org/pdf/1806.09835.pdf)
 
 ArXiv papers:
 
