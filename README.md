@@ -64,6 +64,13 @@ Conference papers:
 
 16. Beck, Daniel Edward Robert, Gholamreza Haffari and Trevor Cohn. **Graph-to-Sequence Learning using Gated Graph Neural Networks.** ACL 2018. [paper](https://arxiv.org/pdf/1806.09835.pdf)
 
+17. Marcheggiani D , Bastings J , Titov I . **Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks**. NAACL 2018. [paper](https://arxiv.org/pdf/1804.08313.pdf)
+
+18. Chen J , Zhu J , Song L . **Stochastic Training of Graph Convolutional Networks with Variance Reduction**. ICML 2018. [paper](http://proceedings.mlr.press/v80/chen18p.html)
+
+19. Gusi Te, Wei Hu, Amin Zheng, Zongming Guo, **RGCNN: Regularized Graph CNN for Point Cloud Segmentation**. ACM Multimedia 2018. [paper](http://www.icst.pku.edu.cn/F/intro/huwei/index_files/papers/ACMMM18_Te.pdf), [code](https://github.com/tegusi/RGCNN), 
+
+
 ArXiv papers:
 
 1. Li Y, Tarlow D, Brockschmidt M, et al. **Gated graph sequence neural networks**. arXiv 2015. [paper](https://arxiv.org/abs/1511.05493)
@@ -84,6 +91,18 @@ ArXiv papers:
 9. Zhang T , Zheng W , Cui Z , et al. **Tensor graph convolutional neural network**. arXiv 2018. [paper](https://arxiv.org/pdf/1803.10071.pdf)
 
 10. Zou D, Lerman G. **Graph Convolutional Neural Networks via Scattering**.  arXiv 2018. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%287cdb7eb72b8fb59d6b831fe7b9dd3cc6%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1804.00099&ie=utf-8&sc_us=16682575734158616085&sc_as_para=sc_lib%3A)
+
+11. Du J , Zhang S , Wu G , et al. **Topology Adaptive Graph Convolutional Networks**. arXiv 2018. [paper](https://arxiv.org/pdf/1710.10370.pdf).
+
+12. Shang C , Liu Q , Chen K S , et al. **Edge Attention-based Multi-Relational Graph Convolutional Networks**. arXiv 2018. [paper](https://arxiv.org/abs/1802.04944).
+
+13. Scardapane S , Vaerenbergh S V , Comminiello D , et al. **Improving Graph Convolutional Networks with Non-Parametric Activation Functions**. arXiv 2018. [paper](https://arxiv.org/pdf/1802.09405.pdf).
+
+14. Wang Y , Sun Y , Liu Z , et al. **Dynamic Graph CNN for Learning on Point Clouds**. arXiv 2018. [paper](https://arxiv.org/pdf/1801.07829.pdf).
+
+15. Ryu S , Lim J , Hong S H , et al. **Deeply learning molecular structure-property relationships using attention- and gate-augmented graph convolutional network**. arXiv 2018. [paper](https://arxiv.org/abs/1805.10988).
+
+16. Cui Z , Henrickson K , Ke R , et al. **High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting**. arXiv 2018. [paper](https://arxiv.org/abs/1802.07007).
 
 
 
