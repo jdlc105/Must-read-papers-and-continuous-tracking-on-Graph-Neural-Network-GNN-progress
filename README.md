@@ -143,7 +143,7 @@ ArXiv papers:
 
 3. **Graph_nets**
 
-  Graph_nets is developed and maintained by [DeepMind](https://deepmind.com/)
+  Graph_nets is developed and maintained by [DeepMind](https://deepmind.com/), Google Corp.
 
   Initiation time:2018
 
