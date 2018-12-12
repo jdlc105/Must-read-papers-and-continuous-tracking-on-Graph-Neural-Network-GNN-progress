@@ -70,6 +70,12 @@ Conference papers:
 
 19. Gusi Te, Wei Hu, Amin Zheng, Zongming Guo, **RGCNN: Regularized Graph CNN for Point Cloud Segmentation**. ACM Multimedia 2018. [paper](http://www.icst.pku.edu.cn/F/intro/huwei/index_files/papers/ACMMM18_Te.pdf), [code](https://github.com/tegusi/RGCNN), 
 
+20. Talukdar, Partha, Shikhar Vashishth, Shib Sankar Dasgupta and Swayambhu Nath Ray. **Dating Documents using Graph Convolution Networks.** ACL 2018. [paper](http://anthology.aclweb.org/attachments/P/P18/P18-1149.Poster.pdf), [code](http://github.com/malllabiisc/neuraldater)
+
+21. Sanchez-Gonzalez A , Heess N , Springenberg J T , et al. **Graph networks as learnable physics engines for inference and control**. ICML 2018. [paper](http://proceedings.mlr.press/v80/sanchez-gonzalez18a/sanchez-gonzalez18a.pdf)
+
+22. Muhan Zhang, Yixin Chen. **Link Prediction Based on Graph Neural Networks**.  NeurIPS(NIPS) 2018. [paper](https://arxiv.org/pdf/1802.09691.pdf) 
+
 
 ArXiv papers:
 
@@ -103,6 +109,8 @@ ArXiv papers:
 15. Ryu S , Lim J , Hong S H , et al. **Deeply learning molecular structure-property relationships using attention- and gate-augmented graph convolutional network**. arXiv 2018. [paper](https://arxiv.org/abs/1805.10988).
 
 16. Cui Z , Henrickson K , Ke R , et al. **High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting**. arXiv 2018. [paper](https://arxiv.org/abs/1802.07007).
+
+17. Shchur O , Mumme M , Bojchevski A , et al. **Pitfalls of Graph Neural Network Evaluation**. arXiv 2018. [paper](https://arxiv.org/abs/1811.05868).
 
 
 
