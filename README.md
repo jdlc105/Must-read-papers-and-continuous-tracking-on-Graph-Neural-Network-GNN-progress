@@ -31,7 +31,7 @@ Journal papers:
 10. Sofia Ira Ktena, Sarah Parisot, Enzo Ferrante, Martin Rajchl, Matthew Lee, Ben Glocker, Daniel Rueckert, **Metric learning with spectral graph convolutions on brain connectivity networks**, NeuroImage, 2018. [paper](https://www.sciencedirect.com/science/article/pii/S1053811917310765).
 
 11. Xie T , Grossman J C . **Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties**. Physical Review Letters, 2018. [paper](http://dspace.mit.edu/bitstream/handle/1721.1/114632/PhysRevLett.120.145301.pdf;jsessionid=21377E3B0A383EDFAF9C4C0C9D9A05A0?sequence=1).
-12. Levie R, Monti F, Bresson X, et al. **Cayleynets: Graph convolutional neural networks with complex rational spectral filters**. arXiv 2019. [paper](https://ieeexplore.ieee.org/document/8521593)
+12. Levie R, Monti F, Bresson X, et al. **Cayleynets: Graph convolutional neural networks with complex rational spectral filters**. IEEE Transactions on Signal Processing 2019. [paper](https://ieeexplore.ieee.org/document/8521593)
 
 
 
