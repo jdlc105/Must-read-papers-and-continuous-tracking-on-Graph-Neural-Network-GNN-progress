@@ -45,6 +45,8 @@ Conference papers:
 
 12. D. Zügner, A. Akbarnejad, S. Günnemann, **Adversarial Attacks on Neural Networks for Graph Data**, KDD 2018. [paper](https://dl.acm.org/citation.cfm?doid=3219819.3220078)
 
+13. Ying R , He R , Chen K , et al. **Graph Convolutional Neural Networks for Web-Scale Recommender Systems**. KDD 2018.  [paper](https://cs.stanford.edu/people/jure/pubs/pinsage-kdd18.pdf)
+
 
 
 
