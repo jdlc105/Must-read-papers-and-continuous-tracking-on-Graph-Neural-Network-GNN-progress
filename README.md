@@ -10,9 +10,9 @@ Contributed by Allen Bluce, If there is something wrong, please contact me via t
 
 Journal papers:
 
-1. F. Scarselli, M. Gori, A.C. Tsoi, M. Hagenbuchner, G. Monfardini, **The graph neural network model**, IEEE Transactions on Neural Networks, 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287&tag=1).
+1. F. Scarselli, M. Gori, A.C. Tsoi, M. Hagenbuchner, G. Monfardini, **The graph neural network model**, IEEE Transactions on Neural Networks(IEEE Transactions on Neural Networks and Learning Systems), 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287&tag=1).
 
-2. Scarselli F, Gori M, Tsoi A C, et al. **Computational capabilities of graph neural networks**, IEEE Transactions on Neural Networks, 2009. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28805e5d5918a5146f2869293957ff0613%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F4703190%2F&ie=utf-8&sc_us=16054091727677360492).
+2. Scarselli F, Gori M, Tsoi A C, et al. **Computational capabilities of graph neural networks**, IEEE Transactions on Neural Networks(IEEE Transactions on Neural Networks and Learning Systems), 2009. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28805e5d5918a5146f2869293957ff0613%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F4703190%2F&ie=utf-8&sc_us=16054091727677360492).
 
 3. Z. Luo, L. Liu, J. Yin, Y. Li, Z. Wu, **Deep Learning of Graphs with Ngram Convolutional Neural Networks**, IEEE Transactions on Knowledge & Data Engineering, 2017. [paper](https://ieeexplore.ieee.org/document/7961216). [code](https://github.com/zhilingluo/NgramCNN).
 
