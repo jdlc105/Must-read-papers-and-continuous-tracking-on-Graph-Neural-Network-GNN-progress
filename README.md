@@ -16,6 +16,7 @@ Journal papers:
 
 3. Z. Luo, L. Liu, J. Yin, Y. Li, Z. Wu, **Deep Learning of Graphs with Ngram Convolutional Neural Networks**, IEEE Transactions on Knowledge & Data Engineering, 2017. [paper](https://ieeexplore.ieee.org/document/7961216). [code](https://github.com/zhilingluo/NgramCNN).
 
+4. D.M. Camacho, K.M. Collins, R.K. Powers, J.C. Costello, J.J. Collins, **Next-Generation Machine Learning for Biological Networks**, Cell, 2018. [paper](https://www.cell.com/cell/fulltext/S0092-8674(18)30592-0?rss=yes).
 
 Conference papers:
 
@@ -43,6 +44,7 @@ Conference papers:
 11. H. Gao, Z. Wang, S. Ji, **Large-Scale Learnable Graph Convolutional Networks**, KDD 2018. [paper](https://dl.acm.org/citation.cfm?doid=3219819.3219947)
 
 12. D. Zügner, A. Akbarnejad, S. Günnemann, **Adversarial Attacks on Neural Networks for Graph Data**, KDD 2018. [paper](https://dl.acm.org/citation.cfm?doid=3219819.3220078)
+
 
 
 
