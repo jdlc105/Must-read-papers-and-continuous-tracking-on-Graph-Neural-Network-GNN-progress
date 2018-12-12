@@ -47,6 +47,8 @@ Conference papers:
 
 13. Ying R , He R , Chen K , et al. **Graph Convolutional Neural Networks for Web-Scale Recommender Systems**. KDD 2018.  [paper](https://cs.stanford.edu/people/jure/pubs/pinsage-kdd18.pdf)
 
+14. P. Veličković, G. Cucurull, A. Casanova, A. Romero, P. Liò, Y. Bengio, **Graph Attention Networks**, ICLR, 2018. [paper](https://arxiv.org/pdf/1710.10903.pdf)
+
 
 
 
