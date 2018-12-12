@@ -38,7 +38,7 @@ Journal papers:
 
 14. Levie R, Monti F, Bresson X, et al. **Cayleynets: Graph convolutional neural networks with complex rational spectral filters**. IEEE Transactions on Signal Processing 2019. [paper](https://ieeexplore.ieee.org/document/8521593)
 
-15. Zhang, Zhihong, Dongdong Chen, Jianjia Wang, Lu Bai, and Edwin R. Hancock. 2019. **Quantum-Based Subgraph Convolutional Neural Networks.** Pattern Recognition, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0031320318303820)
+15. Zhang, Zhihong, Dongdong Chen, Jianjia Wang, Lu Bai, and Edwin R. Hancock. **Quantum-Based Subgraph Convolutional Neural Networks.** Pattern Recognition, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0031320318303820)
 
 
 
