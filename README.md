@@ -42,5 +42,7 @@ Conference papers:
 
 11. H. Gao, Z. Wang, S. Ji, **Large-Scale Learnable Graph Convolutional Networks**, KDD 2018. [paper](https://dl.acm.org/citation.cfm?doid=3219819.3219947)
 
+12. D. Zügner, A. Akbarnejad, S. Günnemann, **Adversarial Attacks on Neural Networks for Graph Data**, KDD 2018. [paper](https://dl.acm.org/citation.cfm?doid=3219819.3220078)
+
 
 
