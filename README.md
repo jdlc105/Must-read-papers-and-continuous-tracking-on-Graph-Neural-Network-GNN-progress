@@ -127,21 +127,27 @@ ArXiv papers:
 
 1. **Deep Graph Library（DGL)**
 
-DGL is developed and maintained by New York University, New York University Shanghai, AWS Shanghai Research Institute and AWS MXNet Science Team. 
-Initiation time: 2018.
-Source: [URL](https://www.dgl.ai/)
+  DGL is developed and maintained by New York University, New York University Shanghai, AWS Shanghai Research Institute and AWS MXNet     Science Team. 
+
+  Initiation time: 2018.
+
+  Source: [URL](https://www.dgl.ai/)
 
 2. **NGra**
 
-NGra is developed and maintained by Peking University and Microsoft Asia Research Institute. 
-Initiation time:2018
-Source: [pdf](https://arxiv.org/pdf/1810.08403.pdf)
+  NGra is developed and maintained by Peking University and Microsoft Asia Research Institute. 
+
+  Initiation time:2018
+
+  Source: [pdf](https://arxiv.org/pdf/1810.08403.pdf)
 
 3. **Graph_nets**
 
-NGra is developed and maintained by DeepMind
-Initiation time:2018
-Source: [github](https://github.com/deepmind/graph_nets)
+  NGra is developed and maintained by DeepMind
+
+  Initiation time:2018
+
+  Source: [github](https://github.com/deepmind/graph_nets)
 
 
 
