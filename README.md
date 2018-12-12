@@ -131,7 +131,7 @@ ArXiv papers:
 
   Initiation time: 2018.
 
-  Source: [URL](https://www.dgl.ai/)
+  Source: [URL](https://www.dgl.ai/), [github](https://github.com/jermainewang/dgl)
 
 2. **NGra**
 
@@ -143,7 +143,7 @@ ArXiv papers:
 
 3. **Graph_nets**
 
-  Graph_nets is developed and maintained by DeepMind
+  Graph_nets is developed and maintained by [DeepMind](https://deepmind.com/)
 
   Initiation time:2018
 
