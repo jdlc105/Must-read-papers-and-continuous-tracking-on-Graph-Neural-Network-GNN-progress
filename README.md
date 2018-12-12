@@ -26,6 +26,8 @@ Journal papers:
 
 8. Sofia Ira Ktena, Sarah Parisot, Enzo Ferrante, Martin Rajchl, Matthew Lee, Ben Glocker, Daniel Rueckert, **Metric learning with spectral graph convolutions on brain connectivity networks**, NeuroImage, 2018. [paper](https://www.sciencedirect.com/science/article/pii/S1053811917310765).
 
+9. Xie T , Grossman J C . **Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties**. Physical Review Letters, 2018. [paper](http://dspace.mit.edu/bitstream/handle/1721.1/114632/PhysRevLett.120.145301.pdf;jsessionid=21377E3B0A383EDFAF9C4C0C9D9A05A0?sequence=1).
+
 
 
 Conference papers:
@@ -77,7 +79,11 @@ ArXiv papers:
 6. Battaglia P W, Hamrick J B, Bapst V, et al. **Relational inductive biases, deep learning, and graph networks**, arXiv 2018. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28965a67685f0a5180ada2c6adaa15dc38%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1806.01261&ie=utf-8&sc_us=8121954972779087681&sc_as_para=sc_lib%3A)
 7. Xu K, Hu W, Leskovec J, et al. **How Powerful are Graph Neural Networks?**, arXiv 2018. [paper](https://arxiv.org/pdf/1810.00826.pdf)
 
-8. Verma S, Zhang Z L. **Graph Capsule Convolutional Neural Networks**. 2018. [paper](https://arxiv.org/pdf/1805.08090.pdf)
+8. Verma S, Zhang Z L. **Graph Capsule Convolutional Neural Networks**. arXiv 2018. [paper](https://arxiv.org/pdf/1805.08090.pdf)
+
+9. Zhang T , Zheng W , Cui Z , et al. **Tensor graph convolutional neural network**. arXiv 2018. [paper](https://arxiv.org/pdf/1803.10071.pdf)
+
+10. Zou D, Lerman G. **Graph Convolutional Neural Networks via Scattering**.  arXiv 2018. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%287cdb7eb72b8fb59d6b831fe7b9dd3cc6%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1804.00099&ie=utf-8&sc_us=16682575734158616085&sc_as_para=sc_lib%3A)
 
 
 
