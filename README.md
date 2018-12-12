@@ -12,21 +12,26 @@ Journal papers:
 
 1. F. Scarselli, M. Gori, A.C. Tsoi, M. Hagenbuchner, G. Monfardini, **The graph neural network model**, IEEE Transactions on Neural Networks(IEEE Transactions on Neural Networks and Learning Systems), 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287&tag=1).
 
-2. Scarselli F, Gori M, Tsoi A C, et al. **Computational capabilities of graph neural networks**, IEEE Transactions on Neural Networks(IEEE Transactions on Neural Networks and Learning Systems), 2009. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28805e5d5918a5146f2869293957ff0613%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F4703190%2F&ie=utf-8&sc_us=16054091727677360492).
+2. Scarselli F, Gori M, Tsoi A C, et al. **Computational capabilities of graph neural networks**, IEEE Transactions on Neural Networks, 2009. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28805e5d5918a5146f2869293957ff0613%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F4703190%2F&ie=utf-8&sc_us=16054091727677360492).
 
-3. Z. Luo, L. Liu, J. Yin, Y. Li, Z. Wu, **Deep Learning of Graphs with Ngram Convolutional Neural Networks**, IEEE Transactions on Knowledge & Data Engineering, 2017. [paper](https://ieeexplore.ieee.org/document/7961216). [code](https://github.com/zhilingluo/NgramCNN).
+3. Micheli A . **Neural Network for Graphs: A Contextual Constructive Approach**. IEEE Transactions on Neural Networks, 2009. [paper](https://ieeexplore.ieee.org/document/4773279).
 
-4. Kawahara J, Brown C J, Miller S P, et al. **BrainNetCNN: convolutional neural networks for brain networks; towards predicting neurodevelopment**. NeuroImage, 2017. [paper](https://www.sciencedirect.com/science/article/pii/S1053811916305237).
+4. Z. Luo, L. Liu, J. Yin, Y. Li, Z. Wu, **Deep Learning of Graphs with Ngram Convolutional Neural Networks**, IEEE Transactions on Knowledge & Data Engineering, 2017. [paper](https://ieeexplore.ieee.org/document/7961216). [code](https://github.com/zhilingluo/NgramCNN).
 
-5. D.M. Camacho, K.M. Collins, R.K. Powers, J.C. Costello, J.J. Collins, **Next-Generation Machine Learning for Biological Networks**, Cell, 2018. [paper](https://www.cell.com/cell/fulltext/S0092-8674(18)30592-0?rss=yes).
+5. Petroski Such F , Sah S , Dominguez M A , et al. **Robust Spatial Filtering with Graph Convolutional Neural Networks**. IEEE Journal of Selected Topics in Signal Processing, 2017. [paper](https://ieeexplore.ieee.org/document/7979525).
 
-6. Marinka Z , Monica A , Jure L . **Modeling polypharmacy side effects with graph convolutional networks**. Bioinformatics, 2018. [paper](https://cs.stanford.edu/people/jure/pubs/drugcomb-ismb18.pdf).
+6. Kawahara J, Brown C J, Miller S P, et al. **BrainNetCNN: convolutional neural networks for brain networks; towards predicting neurodevelopment**. NeuroImage, 2017. [paper](https://www.sciencedirect.com/science/article/pii/S1053811916305237).
 
-7. Sarah P , Ira K S , Enzo F , et al. **Disease Prediction using Graph Convolutional Networks: Application to Autism Spectrum Disorder and Alzheimer’s Disease**. Medical Image Analysis, 2018. [paper](https://www.sciencedirect.com/science/article/pii/S1361841518303554).
+7. D.M. Camacho, K.M. Collins, R.K. Powers, J.C. Costello, J.J. Collins, **Next-Generation Machine Learning for Biological Networks**, Cell, 2018. [paper](https://www.cell.com/cell/fulltext/S0092-8674(18)30592-0?rss=yes).
 
-8. Sofia Ira Ktena, Sarah Parisot, Enzo Ferrante, Martin Rajchl, Matthew Lee, Ben Glocker, Daniel Rueckert, **Metric learning with spectral graph convolutions on brain connectivity networks**, NeuroImage, 2018. [paper](https://www.sciencedirect.com/science/article/pii/S1053811917310765).
+8. Marinka Z , Monica A , Jure L . **Modeling polypharmacy side effects with graph convolutional networks**. Bioinformatics, 2018. [paper](https://cs.stanford.edu/people/jure/pubs/drugcomb-ismb18.pdf).
 
-9. Xie T , Grossman J C . **Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties**. Physical Review Letters, 2018. [paper](http://dspace.mit.edu/bitstream/handle/1721.1/114632/PhysRevLett.120.145301.pdf;jsessionid=21377E3B0A383EDFAF9C4C0C9D9A05A0?sequence=1).
+9. Sarah P , Ira K S , Enzo F , et al. **Disease Prediction using Graph Convolutional Networks: Application to Autism Spectrum Disorder and Alzheimer’s Disease**. Medical Image Analysis, 2018. [paper](https://www.sciencedirect.com/science/article/pii/S1361841518303554).
+
+10. Sofia Ira Ktena, Sarah Parisot, Enzo Ferrante, Martin Rajchl, Matthew Lee, Ben Glocker, Daniel Rueckert, **Metric learning with spectral graph convolutions on brain connectivity networks**, NeuroImage, 2018. [paper](https://www.sciencedirect.com/science/article/pii/S1053811917310765).
+
+11. Xie T , Grossman J C . **Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties**. Physical Review Letters, 2018. [paper](http://dspace.mit.edu/bitstream/handle/1721.1/114632/PhysRevLett.120.145301.pdf;jsessionid=21377E3B0A383EDFAF9C4C0C9D9A05A0?sequence=1).
+12. Levie R, Monti F, Bresson X, et al. **Cayleynets: Graph convolutional neural networks with complex rational spectral filters**. arXiv 2019. [paper](https://ieeexplore.ieee.org/document/8521593)
 
 
 
@@ -85,32 +90,30 @@ ArXiv papers:
 
 3. Hechtlinger Y, Chakravarti P, Qin J. **A generalization of convolutional neural networks to graph-structured data**. arXiv 2017. [paper](https://arxiv.org/abs/1704.08165)
 
-4. Levie R, Monti F, Bresson X, et al. **Cayleynets: Graph convolutional neural networks with complex rational spectral filters**. arXiv 2017. [paper](https://arxiv.org/abs/1705.07664)
+4. Marcheggiani D, Titov I. **Encoding sentences with graph convolutional networks for semantic role labeling**. arXiv 2017. [paper](https://arxiv.org/pdf/1703.04826.pdf)
 
-5. Marcheggiani D, Titov I. **Encoding sentences with graph convolutional networks for semantic role labeling**. arXiv 2017. [paper](https://arxiv.org/pdf/1703.04826.pdf)
+5. Battaglia P W, Hamrick J B, Bapst V, et al. **Relational inductive biases, deep learning, and graph networks**, arXiv 2018. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28965a67685f0a5180ada2c6adaa15dc38%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1806.01261&ie=utf-8&sc_us=8121954972779087681&sc_as_para=sc_lib%3A)
+6. Xu K, Hu W, Leskovec J, et al. **How Powerful are Graph Neural Networks?**, arXiv 2018. [paper](https://arxiv.org/pdf/1810.00826.pdf)
 
-6. Battaglia P W, Hamrick J B, Bapst V, et al. **Relational inductive biases, deep learning, and graph networks**, arXiv 2018. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28965a67685f0a5180ada2c6adaa15dc38%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1806.01261&ie=utf-8&sc_us=8121954972779087681&sc_as_para=sc_lib%3A)
-7. Xu K, Hu W, Leskovec J, et al. **How Powerful are Graph Neural Networks?**, arXiv 2018. [paper](https://arxiv.org/pdf/1810.00826.pdf)
+7. Verma S, Zhang Z L. **Graph Capsule Convolutional Neural Networks**. arXiv 2018. [paper](https://arxiv.org/pdf/1805.08090.pdf)
 
-8. Verma S, Zhang Z L. **Graph Capsule Convolutional Neural Networks**. arXiv 2018. [paper](https://arxiv.org/pdf/1805.08090.pdf)
+8. Zhang T , Zheng W , Cui Z , et al. **Tensor graph convolutional neural network**. arXiv 2018. [paper](https://arxiv.org/pdf/1803.10071.pdf)
 
-9. Zhang T , Zheng W , Cui Z , et al. **Tensor graph convolutional neural network**. arXiv 2018. [paper](https://arxiv.org/pdf/1803.10071.pdf)
+9. Zou D, Lerman G. **Graph Convolutional Neural Networks via Scattering**.  arXiv 2018. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%287cdb7eb72b8fb59d6b831fe7b9dd3cc6%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1804.00099&ie=utf-8&sc_us=16682575734158616085&sc_as_para=sc_lib%3A)
 
-10. Zou D, Lerman G. **Graph Convolutional Neural Networks via Scattering**.  arXiv 2018. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%287cdb7eb72b8fb59d6b831fe7b9dd3cc6%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1804.00099&ie=utf-8&sc_us=16682575734158616085&sc_as_para=sc_lib%3A)
+10. Du J , Zhang S , Wu G , et al. **Topology Adaptive Graph Convolutional Networks**. arXiv 2018. [paper](https://arxiv.org/pdf/1710.10370.pdf).
 
-11. Du J , Zhang S , Wu G , et al. **Topology Adaptive Graph Convolutional Networks**. arXiv 2018. [paper](https://arxiv.org/pdf/1710.10370.pdf).
+11. Shang C , Liu Q , Chen K S , et al. **Edge Attention-based Multi-Relational Graph Convolutional Networks**. arXiv 2018. [paper](https://arxiv.org/abs/1802.04944).
 
-12. Shang C , Liu Q , Chen K S , et al. **Edge Attention-based Multi-Relational Graph Convolutional Networks**. arXiv 2018. [paper](https://arxiv.org/abs/1802.04944).
+12. Scardapane S , Vaerenbergh S V , Comminiello D , et al. **Improving Graph Convolutional Networks with Non-Parametric Activation Functions**. arXiv 2018. [paper](https://arxiv.org/pdf/1802.09405.pdf).
 
-13. Scardapane S , Vaerenbergh S V , Comminiello D , et al. **Improving Graph Convolutional Networks with Non-Parametric Activation Functions**. arXiv 2018. [paper](https://arxiv.org/pdf/1802.09405.pdf).
+13. Wang Y , Sun Y , Liu Z , et al. **Dynamic Graph CNN for Learning on Point Clouds**. arXiv 2018. [paper](https://arxiv.org/pdf/1801.07829.pdf).
 
-14. Wang Y , Sun Y , Liu Z , et al. **Dynamic Graph CNN for Learning on Point Clouds**. arXiv 2018. [paper](https://arxiv.org/pdf/1801.07829.pdf).
+14. Ryu S , Lim J , Hong S H , et al. **Deeply learning molecular structure-property relationships using attention- and gate-augmented graph convolutional network**. arXiv 2018. [paper](https://arxiv.org/abs/1805.10988).
 
-15. Ryu S , Lim J , Hong S H , et al. **Deeply learning molecular structure-property relationships using attention- and gate-augmented graph convolutional network**. arXiv 2018. [paper](https://arxiv.org/abs/1805.10988).
+15. Cui Z , Henrickson K , Ke R , et al. **High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting**. arXiv 2018. [paper](https://arxiv.org/abs/1802.07007).
 
-16. Cui Z , Henrickson K , Ke R , et al. **High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting**. arXiv 2018. [paper](https://arxiv.org/abs/1802.07007).
-
-17. Shchur O , Mumme M , Bojchevski A , et al. **Pitfalls of Graph Neural Network Evaluation**. arXiv 2018. [paper](https://arxiv.org/abs/1811.05868).
+16. Shchur O , Mumme M , Bojchevski A , et al. **Pitfalls of Graph Neural Network Evaluation**. arXiv 2018. [paper](https://arxiv.org/abs/1811.05868).
 
 
 
