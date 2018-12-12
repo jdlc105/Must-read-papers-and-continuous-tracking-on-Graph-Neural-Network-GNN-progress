@@ -18,6 +18,10 @@ Journal papers:
 
 4. D.M. Camacho, K.M. Collins, R.K. Powers, J.C. Costello, J.J. Collins, **Next-Generation Machine Learning for Biological Networks**, Cell, 2018. [paper](https://www.cell.com/cell/fulltext/S0092-8674(18)30592-0?rss=yes).
 
+5. Marinka Z , Monica A , Jure L . **Modeling polypharmacy side effects with graph convolutional networks**. Bioinformatics, 2018. [paper](https://cs.stanford.edu/people/jure/pubs/drugcomb-ismb18.pdf).
+
+6. Sarah P , Ira K S , Enzo F , et al. **Disease Prediction using Graph Convolutional Networks: Application to Autism Spectrum Disorder and Alzheimer’s Disease**. Medical Image Analysis, 2018. [paper](https://www.sciencedirect.com/science/article/pii/S1361841518303554).
+
 Conference papers:
 
 1. Duvenaud D, Maclaurin D, Aguilera-Iparraguirre J, et al. **Convolutional networks on graphs for learning molecular fingerprints**, NeurIPS(NIPS) 2015.  [paper](http://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf). [code](https://github.com/HIPS/neural-fingerprint).
@@ -35,7 +39,7 @@ Conference papers:
 
 7. R. Li, S. Wang, F. Zhu, J. Huang, **Adaptive Graph Convolutional Neural Networks**, AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16642)
 
-8. Battaglia P W, Hamrick J B, Bapst V, et al. **Relational inductive biases, deep learning, and graph networks**, arXiv 2018. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28965a67685f0a5180ada2c6adaa15dc38%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1806.01261&ie=utf-8&sc_us=8121954972779087681&sc_as_para=sc_lib%3A)
+8.
 
 9. J. You, B. Liu, R. Ying, V. Pande, J. Leskovec, **Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation**, NeurIPS(NIPS) 2018.  [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28dd21a587e909dfc3a0159ca428d3580a%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1806.02473&ie=utf-8&sc_us=3351961245348982134&sc_as_para=sc_lib%3A).
 
@@ -49,6 +53,10 @@ Conference papers:
 
 14. P. Veličković, G. Cucurull, A. Casanova, A. Romero, P. Liò, Y. Bengio, **Graph Attention Networks**, ICLR, 2018. [paper](https://arxiv.org/pdf/1710.10903.pdf)
 
+15. 
 
+ArXiv papers:
 
+1. Battaglia P W, Hamrick J B, Bapst V, et al. **Relational inductive biases, deep learning, and graph networks**, arXiv 2018. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28965a67685f0a5180ada2c6adaa15dc38%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1806.01261&ie=utf-8&sc_us=8121954972779087681&sc_as_para=sc_lib%3A)
+2. Xu K , Hu W , Leskovec J , et al. **How Powerful are Graph Neural Networks?**, arXiv 2018. [paper](https://arxiv.org/pdf/1810.00826.pdf)
 
