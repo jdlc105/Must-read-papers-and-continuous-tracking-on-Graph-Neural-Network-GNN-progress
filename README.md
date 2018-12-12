@@ -22,6 +22,8 @@ Journal papers:
 
 6. Sarah P , Ira K S , Enzo F , et al. **Disease Prediction using Graph Convolutional Networks: Application to Autism Spectrum Disorder and Alzheimer’s Disease**. Medical Image Analysis, 2018. [paper](https://www.sciencedirect.com/science/article/pii/S1361841518303554).
 
+7. Kawahara J, Brown C J, Miller S P, et al. **BrainNetCNN: convolutional neural networks for brain networks; towards predicting neurodevelopment**. NeuroImage, 2017. [paper](https://www.sciencedirect.com/science/article/pii/S1053811916305237).
+
 Conference papers:
 
 1. Duvenaud D, Maclaurin D, Aguilera-Iparraguirre J, et al. **Convolutional networks on graphs for learning molecular fingerprints**, NeurIPS(NIPS) 2015.  [paper](http://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf). [code](https://github.com/HIPS/neural-fingerprint).
@@ -37,9 +39,9 @@ Conference papers:
 6. A. Fout, B. Shariat, J. Byrd, A. Benhur, **Protein Interface Prediction using Graph Convolutional Networks**, NeurIPS(NIPS) 2017. [paper](http://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks).
 
 
-7. R. Li, S. Wang, F. Zhu, J. Huang, **Adaptive Graph Convolutional Neural Networks**, AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16642)
+7. Simonovsky M, Komodakis N. **Dynamic edgeconditioned filters in convolutional neural networks on graphs**, CVPR. 2017. [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Simonovsky_Dynamic_Edge-Conditioned_Filters_CVPR_2017_paper.pdf)
 
-8.
+8. R. Li, S. Wang, F. Zhu, J. Huang, **Adaptive Graph Convolutional Neural Networks**, AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16642)
 
 9. J. You, B. Liu, R. Ying, V. Pande, J. Leskovec, **Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation**, NeurIPS(NIPS) 2018.  [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28dd21a587e909dfc3a0159ca428d3580a%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1806.02473&ie=utf-8&sc_us=3351961245348982134&sc_as_para=sc_lib%3A).
 
@@ -57,6 +59,18 @@ Conference papers:
 
 ArXiv papers:
 
-1. Battaglia P W, Hamrick J B, Bapst V, et al. **Relational inductive biases, deep learning, and graph networks**, arXiv 2018. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28965a67685f0a5180ada2c6adaa15dc38%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1806.01261&ie=utf-8&sc_us=8121954972779087681&sc_as_para=sc_lib%3A)
-2. Xu K , Hu W , Leskovec J , et al. **How Powerful are Graph Neural Networks?**, arXiv 2018. [paper](https://arxiv.org/pdf/1810.00826.pdf)
+1. Hechtlinger Y, Chakravarti P, Qin J. **A generalization of convolutional neural networks to graph-structured data**. arXiv 2017. [paper](https://arxiv.org/abs/1704.08165)
+
+2. Battaglia P W, Hamrick J B, Bapst V, et al. **Relational inductive biases, deep learning, and graph networks**, arXiv 2018. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28965a67685f0a5180ada2c6adaa15dc38%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1806.01261&ie=utf-8&sc_us=8121954972779087681&sc_as_para=sc_lib%3A)
+3. Xu K , Hu W , Leskovec J , et al. **How Powerful are Graph Neural Networks?**, arXiv 2018. [paper](https://arxiv.org/pdf/1810.00826.pdf)
+
+4. Henaff M, Bruna J, LeCun Y. **Deep convolutional networks on graph-structured data**, arXiv 2015. [paper](https://arxiv.org/abs/1506.05163)
+
+5. Levie R, Monti F, Bresson X, et al. **Cayleynets: Graph convolutional neural networks with complex rational spectral filters**. arXiv 2017. [paper](https://arxiv.org/abs/1705.07664)
+
+6. Li Y, Tarlow D, Brockschmidt M, et al. **Gated graph sequence neural networks**. arXiv 2015. [paper](https://arxiv.org/abs/1511.05493)
+
+
+
+
 
