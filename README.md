@@ -143,7 +143,7 @@ ArXiv papers:
 
 3. **Graph_nets**
 
-  NGra is developed and maintained by DeepMind
+  Graph_nets is developed and maintained by DeepMind
 
   Initiation time:2018
 
