@@ -23,21 +23,23 @@ Journal papers:
 
 7. Kawahara J, Brown C J, Miller S P, et al. **BrainNetCNN: convolutional neural networks for brain networks; towards predicting neurodevelopment**. NeuroImage, 2017. [paper](https://www.sciencedirect.com/science/article/pii/S1053811916305237).
 
-8. D.M. Camacho, K.M. Collins, R.K. Powers, J.C. Costello, J.J. Collins, **Next-Generation Machine Learning for Biological Networks**, Cell, 2018. [paper](https://www.cell.com/cell/fulltext/S0092-8674(18)30592-0?rss=yes).
+8. Muscoloni A , Thomas J M , Ciucci S , et al. **Machine learning meets complex networks via coalescent embedding in the hyperbolic space**. Nature Communications, 2017. [paper](https://www.nature.com/articles/s41467-017-01825-5).
 
-9. Marinka Z , Monica A , Jure L . **Modeling polypharmacy side effects with graph convolutional networks**. Bioinformatics, 2018. [paper](https://cs.stanford.edu/people/jure/pubs/drugcomb-ismb18.pdf).
+9. D.M. Camacho, K.M. Collins, R.K. Powers, J.C. Costello, J.J. Collins, **Next-Generation Machine Learning for Biological Networks**, Cell, 2018. [paper](https://www.cell.com/cell/fulltext/S0092-8674(18)30592-0?rss=yes).
 
-10. Sarah P , Ira K S , Enzo F , et al. **Disease Prediction using Graph Convolutional Networks: Application to Autism Spectrum Disorder and Alzheimer’s Disease**. Medical Image Analysis, 2018. [paper](https://www.sciencedirect.com/science/article/pii/S1361841518303554).
+10. Marinka Z , Monica A , Jure L . **Modeling polypharmacy side effects with graph convolutional networks**. Bioinformatics, 2018. [paper](https://cs.stanford.edu/people/jure/pubs/drugcomb-ismb18.pdf).
 
-11. Sofia Ira Ktena, Sarah Parisot, Enzo Ferrante, Martin Rajchl, Matthew Lee, Ben Glocker, Daniel Rueckert, **Metric learning with spectral graph convolutions on brain connectivity networks**, NeuroImage, 2018. [paper](https://www.sciencedirect.com/science/article/pii/S1053811917310765).
+11. Sarah P , Ira K S , Enzo F , et al. **Disease Prediction using Graph Convolutional Networks: Application to Autism Spectrum Disorder and Alzheimer’s Disease**. Medical Image Analysis, 2018. [paper](https://www.sciencedirect.com/science/article/pii/S1361841518303554).
 
-12. Xie T , Grossman J C . **Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties**. Physical Review Letters, 2018. [paper](http://dspace.mit.edu/bitstream/handle/1721.1/114632/PhysRevLett.120.145301.pdf;jsessionid=21377E3B0A383EDFAF9C4C0C9D9A05A0?sequence=1).
+12. Sofia Ira Ktena, Sarah Parisot, Enzo Ferrante, Martin Rajchl, Matthew Lee, Ben Glocker, Daniel Rueckert, **Metric learning with spectral graph convolutions on brain connectivity networks**, NeuroImage, 2018. [paper](https://www.sciencedirect.com/science/article/pii/S1053811917310765).
 
-13. Phan, Anh Viet, Minh Le Nguyen, Yen Lam Hoang Nguyen, and Lam Thu Bui. **DGCNN: A Convolutional Neural Network over Large-Scale Labeled Graphs**. Neural Networks, 2018. [paper](https://www.sciencedirect.com/science/article/pii/S0893608018302636) 
+13. Xie T , Grossman J C . **Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties**. Physical Review Letters, 2018. [paper](http://dspace.mit.edu/bitstream/handle/1721.1/114632/PhysRevLett.120.145301.pdf;jsessionid=21377E3B0A383EDFAF9C4C0C9D9A05A0?sequence=1).
 
-14. Levie R, Monti F, Bresson X, et al. **Cayleynets: Graph convolutional neural networks with complex rational spectral filters**. IEEE Transactions on Signal Processing 2019. [paper](https://ieeexplore.ieee.org/document/8521593)
+14. Phan, Anh Viet, Minh Le Nguyen, Yen Lam Hoang Nguyen, and Lam Thu Bui. **DGCNN: A Convolutional Neural Network over Large-Scale Labeled Graphs**. Neural Networks, 2018. [paper](https://www.sciencedirect.com/science/article/pii/S0893608018302636) 
 
-15. Zhang, Zhihong, Dongdong Chen, Jianjia Wang, Lu Bai, and Edwin R. Hancock. **Quantum-Based Subgraph Convolutional Neural Networks.** Pattern Recognition, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0031320318303820)
+15. Levie R, Monti F, Bresson X, et al. **Cayleynets: Graph convolutional neural networks with complex rational spectral filters**. IEEE Transactions on Signal Processing 2019. [paper](https://ieeexplore.ieee.org/document/8521593)
+
+16. Zhang, Zhihong, Dongdong Chen, Jianjia Wang, Lu Bai, and Edwin R. Hancock. **Quantum-Based Subgraph Convolutional Neural Networks.** Pattern Recognition, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0031320318303820)
 
 
 
