@@ -43,6 +43,8 @@ Journal papers:
 
 
 
+
+
 Conference papers:
 
 1. Duvenaud D, Maclaurin D, Aguilera-Iparraguirre J, et al. **Convolutional networks on graphs for learning molecular fingerprints**, NeurIPS(NIPS) 2015.  [paper](http://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf). [code](https://github.com/HIPS/neural-fingerprint).
@@ -89,6 +91,10 @@ Conference papers:
 
 22. Muhan Zhang, Yixin Chen. **Link Prediction Based on Graph Neural Networks**.  NeurIPS(NIPS) 2018. [paper](https://arxiv.org/pdf/1802.09691.pdf) 
 
+23. Chen, Jie, Tengfei Ma, and Cao Xiao. **FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling.** ICLR 2018. [paper](https://arxiv.org/pdf/1801.10247.pdf)
+
+24. Zhang, Zhen, Hongxia Yang, Jiajun Bu, Sheng Zhou, Pinggang Yu, Jianwei Zhang, Martin Ester, and Can Wang. **ANRL: Attributed Network Representation Learning via Deep Neural Networks.**. IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/438) 
+
 
 ArXiv papers:
 
@@ -122,6 +128,8 @@ ArXiv papers:
 15. Cui Z , Henrickson K , Ke R , et al. **High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting**. arXiv 2018. [paper](https://arxiv.org/abs/1802.07007).
 
 16. Shchur O , Mumme M , Bojchevski A , et al. **Pitfalls of Graph Neural Network Evaluation**. arXiv 2018. [paper](https://arxiv.org/abs/1811.05868).
+
+17. Bai Y , Ding H , Bian S , et al. **Graph Edit Distance Computation via Graph Neural Networks**. arXiv 2018. [paper](https://arxiv.org/abs/1808.05689).
 
 
 **Open source platform on GNN**
