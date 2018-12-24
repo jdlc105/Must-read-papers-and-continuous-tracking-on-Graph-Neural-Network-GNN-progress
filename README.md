@@ -12,7 +12,7 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
  
  ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig1.jpg)
  
- **The categorization of deep learning methods on graphs[1] from Tsinghua University **.
+ **The categorization of deep learning methods on graphs[1] from Tsinghua University**.
 
 2. Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun, **Graph Neural Networks: A Review of Methods and Applications**, ArXiv, 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf).
 
