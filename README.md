@@ -6,6 +6,10 @@ This project focuses on GNN, lists relevant must-read papers and keeps track of 
 
 Contributed by Allen Bluce, If there is something wrong or GNN-related issue, welcome to contact me via the email(Address: jdlc105@qq.com)
 
+Survey papers:
+
+1. Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun, **Graph Neural Networks: A Review of Methods and Applications**, ArXiv, 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf).
+2. Ziwei Zhang, Peng Cui, Wenwu Zhu, **Deep Learning on Graphs: A Survey**, ArXiv, 2018. [paper](https://arxiv.org/pdf/1812.04202.pdf).
 
 Journal papers:
 
@@ -130,6 +134,14 @@ ArXiv papers:
 16. Shchur O , Mumme M , Bojchevski A , et al. **Pitfalls of Graph Neural Network Evaluation**. arXiv 2018. [paper](https://arxiv.org/abs/1811.05868).
 
 17. Bai Y , Ding H , Bian S , et al. **Graph Edit Distance Computation via Graph Neural Networks**. arXiv 2018. [paper](https://arxiv.org/abs/1808.05689).
+
+18. Pedro H. C. Avelar, Henrique Lemos, Marcelo O. R. Prates, Luis Lamb, **Multitask Learning on Graph Neural Networks - Learning Multiple Graph Centrality Measures with a Unified Network**.  arXiv 2018. [paper](https://arxiv.org/pdf/1809.07695.pdf).
+
+19. Matthew Baron, **Topology and Prediction Focused Research on Graph Convolutional Neural Networks**.  arXiv 2018. [paper](https://arxiv.org/pdf/1808.07769.pdf).
+
+20. Wenting Zhao, Chunyan Xu, Zhen Cui, Tong Zhang, Jiatao Jiang, Zhenyu Zhang, Jian Yang, **When Work Matters: Transforming Classical Network Structures to Graph CNN**. arXiv 2018. [paper](https://arxiv.org/pdf/1807.02653.pdf).
+
+21. Xavier Bresson, Thomas Laurent, **Residual Gated Graph ConvNets**. arXiv 2018. [paper](https://arxiv.org/pdf/1711.07553.pdf). 
 
 
 **Open source platform on GNN**
