@@ -6,18 +6,24 @@ This project focuses on GNN, lists relevant must-read papers and keeps track of 
 
 Contributed by Allen Bluce, If there is something wrong or GNN-related issue, welcome to contact me via the email(Address: jdlc105@qq.com)
 
-Survey papers:
+## Survey papers:
 
-1. Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun, **Graph Neural Networks: A Review of Methods and Applications**, ArXiv, 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf).
-2. Ziwei Zhang, Peng Cui, Wenwu Zhu, **Deep Learning on Graphs: A Survey**, ArXiv, 2018. [paper](https://arxiv.org/pdf/1812.04202.pdf).
+1. Ziwei Zhang, Peng Cui, Wenwu Zhu, **Deep Learning on Graphs: A Survey**, ArXiv, 2018. [paper](https://arxiv.org/pdf/1812.04202.pdf).
  
  ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig1.jpg)
  
- The categorization of deep learning methods on graphs from the survey papers[2].
+ **The categorization of deep learning methods on graphs from the survey papers[1]**.
+
+2. Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun, **Graph Neural Networks: A Review of Methods and Applications**, ArXiv, 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf).
+
+ ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig2.jpg)
+ 
+ **Some typical application of GNN from the survey papers[2]**.
 
 
 
-Journal papers:
+
+## Journal papers:
 
 1. F. Scarselli, M. Gori, A.C. Tsoi, M. Hagenbuchner, G. Monfardini, **The graph neural network model**, IEEE Transactions on Neural Networks(IEEE Transactions on Neural Networks and Learning Systems), 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287&tag=1).
 
@@ -55,7 +61,7 @@ Journal papers:
 
 
 
-Conference papers:
+## Conference papers:
 
 1. Duvenaud D, Maclaurin D, Aguilera-Iparraguirre J, et al. **Convolutional networks on graphs for learning molecular fingerprints**, NeurIPS(NIPS) 2015.  [paper](http://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf). [code](https://github.com/HIPS/neural-fingerprint).
 
@@ -108,7 +114,7 @@ Conference papers:
 25. Morris C , Ritzert M , Fey M , et al.**Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks.**. AAAI 2019. [paper](https://arxiv.org/abs/1810.02244v1) 
 
 
-ArXiv papers:
+## ArXiv papers:
 
 1. Li Y, Tarlow D, Brockschmidt M, et al. **Gated graph sequence neural networks**. arXiv 2015. [paper](https://arxiv.org/abs/1511.05493)
 
@@ -152,7 +158,7 @@ ArXiv papers:
 21. Xavier Bresson, Thomas Laurent, **Residual Gated Graph ConvNets**. arXiv 2018. [paper](https://arxiv.org/pdf/1711.07553.pdf). 
 
 
-**Open source platform on GNN**
+## Open source platform on GNN
 
 1. **Deep Graph Library（DGL)**
 
