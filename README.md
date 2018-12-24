@@ -99,6 +99,8 @@ Conference papers:
 
 24. Zhang, Zhen, Hongxia Yang, Jiajun Bu, Sheng Zhou, Pinggang Yu, Jianwei Zhang, Martin Ester, and Can Wang. **ANRL: Attributed Network Representation Learning via Deep Neural Networks.**. IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/438) 
 
+25. Morris C , Ritzert M , Fey M , et al.**Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks.**. AAAI 2019. [paper](https://arxiv.org/abs/1810.02244v1) 
+
 
 ArXiv papers:
 
