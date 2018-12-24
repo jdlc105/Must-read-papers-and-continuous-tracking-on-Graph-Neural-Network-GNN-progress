@@ -12,6 +12,8 @@ Survey papers:
 2. Ziwei Zhang, Peng Cui, Wenwu Zhu, **Deep Learning on Graphs: A Survey**, ArXiv, 2018. [paper](https://arxiv.org/pdf/1812.04202.pdf).
  
  ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig1.jpg)
+ 
+ The categorization of deep learning methods on graphs from the survey papers[2].
 
 
 
