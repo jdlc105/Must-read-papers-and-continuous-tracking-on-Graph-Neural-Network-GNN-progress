@@ -113,6 +113,7 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 25. Morris C , Ritzert M , Fey M , et al.**Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks.**. AAAI 2019. [paper](https://arxiv.org/abs/1810.02244v1) 
 
+26. Xu K, Hu W, Leskovec J, et al. **How Powerful are Graph Neural Networks?**, ICLR 2019. [paper](https://arxiv.org/pdf/1810.00826.pdf)
 
 ## ArXiv papers:
 
@@ -125,37 +126,36 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 4. Marcheggiani D, Titov I. **Encoding sentences with graph convolutional networks for semantic role labeling**. arXiv 2017. [paper](https://arxiv.org/pdf/1703.04826.pdf)
 
 5. Battaglia P W, Hamrick J B, Bapst V, et al. **Relational inductive biases, deep learning, and graph networks**, arXiv 2018. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28965a67685f0a5180ada2c6adaa15dc38%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1806.01261&ie=utf-8&sc_us=8121954972779087681&sc_as_para=sc_lib%3A)
-6. Xu K, Hu W, Leskovec J, et al. **How Powerful are Graph Neural Networks?**, arXiv 2018. [paper](https://arxiv.org/pdf/1810.00826.pdf)
 
-7. Verma S, Zhang Z L. **Graph Capsule Convolutional Neural Networks**. arXiv 2018. [paper](https://arxiv.org/pdf/1805.08090.pdf)
+6. Verma S, Zhang Z L. **Graph Capsule Convolutional Neural Networks**. arXiv 2018. [paper](https://arxiv.org/pdf/1805.08090.pdf)
 
-8. Zhang T , Zheng W , Cui Z , et al. **Tensor graph convolutional neural network**. arXiv 2018. [paper](https://arxiv.org/pdf/1803.10071.pdf)
+7. Zhang T , Zheng W , Cui Z , et al. **Tensor graph convolutional neural network**. arXiv 2018. [paper](https://arxiv.org/pdf/1803.10071.pdf)
 
-9. Zou D, Lerman G. **Graph Convolutional Neural Networks via Scattering**.  arXiv 2018. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%287cdb7eb72b8fb59d6b831fe7b9dd3cc6%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1804.00099&ie=utf-8&sc_us=16682575734158616085&sc_as_para=sc_lib%3A)
+8. Zou D, Lerman G. **Graph Convolutional Neural Networks via Scattering**.  arXiv 2018. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%287cdb7eb72b8fb59d6b831fe7b9dd3cc6%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1804.00099&ie=utf-8&sc_us=16682575734158616085&sc_as_para=sc_lib%3A)
 
-10. Du J , Zhang S , Wu G , et al. **Topology Adaptive Graph Convolutional Networks**. arXiv 2018. [paper](https://arxiv.org/pdf/1710.10370.pdf).
+9. Du J , Zhang S , Wu G , et al. **Topology Adaptive Graph Convolutional Networks**. arXiv 2018. [paper](https://arxiv.org/pdf/1710.10370.pdf).
 
-11. Shang C , Liu Q , Chen K S , et al. **Edge Attention-based Multi-Relational Graph Convolutional Networks**. arXiv 2018. [paper](https://arxiv.org/abs/1802.04944).
+10. Shang C , Liu Q , Chen K S , et al. **Edge Attention-based Multi-Relational Graph Convolutional Networks**. arXiv 2018. [paper](https://arxiv.org/abs/1802.04944).
 
-12. Scardapane S , Vaerenbergh S V , Comminiello D , et al. **Improving Graph Convolutional Networks with Non-Parametric Activation Functions**. arXiv 2018. [paper](https://arxiv.org/pdf/1802.09405.pdf).
+11. Scardapane S , Vaerenbergh S V , Comminiello D , et al. **Improving Graph Convolutional Networks with Non-Parametric Activation Functions**. arXiv 2018. [paper](https://arxiv.org/pdf/1802.09405.pdf).
 
-13. Wang Y , Sun Y , Liu Z , et al. **Dynamic Graph CNN for Learning on Point Clouds**. arXiv 2018. [paper](https://arxiv.org/pdf/1801.07829.pdf).
+12. Wang Y , Sun Y , Liu Z , et al. **Dynamic Graph CNN for Learning on Point Clouds**. arXiv 2018. [paper](https://arxiv.org/pdf/1801.07829.pdf).
 
-14. Ryu S , Lim J , Hong S H , et al. **Deeply learning molecular structure-property relationships using attention- and gate-augmented graph convolutional network**. arXiv 2018. [paper](https://arxiv.org/abs/1805.10988).
+13. Ryu S , Lim J , Hong S H , et al. **Deeply learning molecular structure-property relationships using attention- and gate-augmented graph convolutional network**. arXiv 2018. [paper](https://arxiv.org/abs/1805.10988).
 
-15. Cui Z , Henrickson K , Ke R , et al. **High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting**. arXiv 2018. [paper](https://arxiv.org/abs/1802.07007).
+14. Cui Z , Henrickson K , Ke R , et al. **High-Order Graph Convolutional Recurrent Neural Network: A Deep Learning Framework for Network-Scale Traffic Learning and Forecasting**. arXiv 2018. [paper](https://arxiv.org/abs/1802.07007).
 
-16. Shchur O , Mumme M , Bojchevski A , et al. **Pitfalls of Graph Neural Network Evaluation**. arXiv 2018. [paper](https://arxiv.org/abs/1811.05868).
+15. Shchur O , Mumme M , Bojchevski A , et al. **Pitfalls of Graph Neural Network Evaluation**. arXiv 2018. [paper](https://arxiv.org/abs/1811.05868).
 
-17. Bai Y , Ding H , Bian S , et al. **Graph Edit Distance Computation via Graph Neural Networks**. arXiv 2018. [paper](https://arxiv.org/abs/1808.05689).
+16. Bai Y , Ding H , Bian S , et al. **Graph Edit Distance Computation via Graph Neural Networks**. arXiv 2018. [paper](https://arxiv.org/abs/1808.05689).
 
-18. Pedro H. C. Avelar, Henrique Lemos, Marcelo O. R. Prates, Luis Lamb, **Multitask Learning on Graph Neural Networks - Learning Multiple Graph Centrality Measures with a Unified Network**.  arXiv 2018. [paper](https://arxiv.org/pdf/1809.07695.pdf).
+17. Pedro H. C. Avelar, Henrique Lemos, Marcelo O. R. Prates, Luis Lamb, **Multitask Learning on Graph Neural Networks - Learning Multiple Graph Centrality Measures with a Unified Network**.  arXiv 2018. [paper](https://arxiv.org/pdf/1809.07695.pdf).
 
-19. Matthew Baron, **Topology and Prediction Focused Research on Graph Convolutional Neural Networks**.  arXiv 2018. [paper](https://arxiv.org/pdf/1808.07769.pdf).
+18. Matthew Baron, **Topology and Prediction Focused Research on Graph Convolutional Neural Networks**.  arXiv 2018. [paper](https://arxiv.org/pdf/1808.07769.pdf).
 
-20. Wenting Zhao, Chunyan Xu, Zhen Cui, Tong Zhang, Jiatao Jiang, Zhenyu Zhang, Jian Yang, **When Work Matters: Transforming Classical Network Structures to Graph CNN**. arXiv 2018. [paper](https://arxiv.org/pdf/1807.02653.pdf).
+19. Wenting Zhao, Chunyan Xu, Zhen Cui, Tong Zhang, Jiatao Jiang, Zhenyu Zhang, Jian Yang, **When Work Matters: Transforming Classical Network Structures to Graph CNN**. arXiv 2018. [paper](https://arxiv.org/pdf/1807.02653.pdf).
 
-21. Xavier Bresson, Thomas Laurent, **Residual Gated Graph ConvNets**. arXiv 2018. [paper](https://arxiv.org/pdf/1711.07553.pdf). 
+20. Xavier Bresson, Thomas Laurent, **Residual Gated Graph ConvNets**. arXiv 2018. [paper](https://arxiv.org/pdf/1711.07553.pdf). 
 
 
 ## Open source platform on GNN
