@@ -190,6 +190,11 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
   Source: [github](https://github.com/deepmind/graph_nets)
 
 
+***all the things are not the simple finale, maybe just grand beginning   ----Mysterious sayings by (you guess)***
+
+  ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig4.jpg)
+ 
+ 1. **The beauty of the Biological Network**.
 
 
 
