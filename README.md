@@ -24,7 +24,7 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
  
   ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig5.jpg)
  
- **Some open-source codes of the state-of-the-art methods**.
+ **Some open-source codes of the state-of-the-art methods[3]**.
 
 
 
