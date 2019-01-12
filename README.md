@@ -5,7 +5,8 @@ Many important real-world applications and questions come in the form of graphs,
 This project focuses on GNN, lists relevant must-read papers and keeps track of progress.  We look forward to promoting this direction and providing some help to researchers in this direction.
 
 Contributed by Allen Bluce, If there is something wrong or GNN-related issue, welcome to contact me via the email(Address: jdlc105@qq.com)
-  ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/fig6.gif)
+
+![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/fig6.gif)
 
 ## Survey papers:
 
