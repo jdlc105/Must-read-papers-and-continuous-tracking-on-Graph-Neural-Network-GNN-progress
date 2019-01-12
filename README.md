@@ -194,7 +194,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 ## Appetizer for you：Art Exhibition in the High Dimensional Network/Graph Structured Space
 
-  ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig3.gif&fig6.gif)
+  ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig3.gif)
+  ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/fig6.gif)
  
  1. **The interesting Social Network**.
 
