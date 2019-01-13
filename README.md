@@ -24,8 +24,6 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
  
  3. Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu(Fellow,IEEE), **A Comprehensive Survey on Graph Neural Networks**, ArXiv, 2019. [paper](https://arxiv.org/pdf/1901.00596v1.pdf).
  
-  ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig5.jpg)
- 
  **Some open-source codes of the state-of-the-art methods[3]**.
 
 
@@ -192,7 +190,7 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
   Source: [github](https://github.com/deepmind/graph_nets)
 
 
-***all the things are not the simple finale, maybe just grand beginning   ----Mysterious sayings by (you guess)***
+***All the things are not the simple finale, maybe just grand beginning   ----Mysterious sayings by (you guess)***
 
 ## Appetizer for you：Art Exhibition in the High Dimensional Network/Graph Structured Space
 
