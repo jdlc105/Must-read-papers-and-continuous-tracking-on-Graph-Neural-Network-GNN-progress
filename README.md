@@ -6,7 +6,6 @@ This project focuses on GNN, lists relevant must-read papers and keeps track of 
 
 Contributed by Allen Bluce, If there is something wrong or GNN-related issue, welcome to contact me via the email(Address: jdlc105@qq.com)
 
-![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/fig6.gif)
 
 ## Survey papers:
 
@@ -23,6 +22,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
  **Some typical application of GNN[2] from Tsinghua University**.
  
  3. Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu(Fellow,IEEE), **A Comprehensive Survey on Graph Neural Networks**, ArXiv, 2019. [paper](https://arxiv.org/pdf/1901.00596v1.pdf).
+ 
+ ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig5.jpg)
  
  **Some open-source codes of the state-of-the-art methods[3]**.
 
