@@ -125,6 +125,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 28. Daniel Zügner, Stephan Günnemann. **Adversarial Attacks on Graph Neural Networks via Meta Learning**,  ICLR 2019. [paper](https://openreview.net/pdf?id=Bylnx209YX)
 
+29. Zhang Xinyi, Lihui Chen. **Capsule Graph Neural Network**, ICLR 2019. [paper](https://openreview.net/pdf?id=Byl8BnRcYm)
+
 ## ArXiv papers:
 
 1. Li Y, Tarlow D, Brockschmidt M, et al. **Gated graph sequence neural networks**. arXiv 2015. [paper](https://arxiv.org/abs/1511.05493)
