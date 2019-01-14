@@ -121,6 +121,10 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 26. Xu K, Hu W, Leskovec J, et al. **How Powerful are Graph Neural Networks?**, ICLR 2019. [paper](https://arxiv.org/pdf/1810.00826.pdf)
 
+27. Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann. **Combining Neural Networks with Personalized PageRank for Classification on Graphs**, ICLR 2019. [paper](https://arxiv.org/pdf/1810.05997.pdf)
+
+28. Daniel Zügner, Stephan Günnemann. **Adversarial Attacks on Graph Neural Networks via Meta Learning**,  ICLR 2019. [paper](https://openreview.net/pdf?id=Bylnx209YX)
+
 ## ArXiv papers:
 
 1. Li Y, Tarlow D, Brockschmidt M, et al. **Gated graph sequence neural networks**. arXiv 2015. [paper](https://arxiv.org/abs/1511.05493)
