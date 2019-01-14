@@ -169,6 +169,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 20. Xavier Bresson, Thomas Laurent, **Residual Gated Graph ConvNets**. arXiv 2018. [paper](https://arxiv.org/pdf/1711.07553.pdf). 
 
+21. Kun XuLingfei WuZhiguo WangYansong FengVadim Sheinin, **Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks**. arXiv 2018. [paper](https://arxiv.org/pdf/1804.00823.pdf). 
+
 
 ## Open source platform on GNN
 
