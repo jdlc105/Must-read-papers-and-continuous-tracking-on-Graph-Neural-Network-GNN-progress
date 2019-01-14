@@ -171,6 +171,9 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 21. Kun XuLingfei WuZhiguo WangYansong FengVadim Sheinin, **Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks**. arXiv 2018. [paper](https://arxiv.org/pdf/1804.00823.pdf). 
 
+22. Xiaojie GuoLingfei WuLiang Zhao. **Deep Graph Translation**. arXiv 2018. [paper](https://arxiv.org/pdf/1805.09980.pdf). 
+
+
 
 ## Open source platform on GNN
 
