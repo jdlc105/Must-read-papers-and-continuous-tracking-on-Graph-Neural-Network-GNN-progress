@@ -1,6 +1,6 @@
 # Must-read papers and continuous tracking on Graph Neural Network(GNN) progress
 
-Many important real-world applications and questions come in the form of graphs, such as social network, protein-protein interaction network, brain network, chemical molecular graph and 3D point cloud. Therefore, driven by interdisciplinary research, the neural network model for graph data-oriented has become an emerging research hotspot. Among them, two of the three pioneers of deep learning, Professor Yann LeCun, Professor Yoshua Bengio and famous Professor Jure Leskovec from Stanford University AI lab also participated in it.
+Many important real-world applications and questions come in the form of graphs, such as social network, protein-protein interaction network, brain network, chemical molecular graph and 3D point cloud. Therefore, driven by interdisciplinary research, the neural network model for graph data-oriented has become an emerging research hotspot. Among them, two of the three pioneers of deep learning, Professor ***Yann LeCun***, Professor ***Yoshua Bengio*** and famous Professor ***Jure Leskovec*** from Stanford University AI lab also participated in it.
 
 This project focuses on GNN, lists relevant must-read papers and keeps track of progress.  We look forward to promoting this direction and providing some help to researchers in this direction.
 
