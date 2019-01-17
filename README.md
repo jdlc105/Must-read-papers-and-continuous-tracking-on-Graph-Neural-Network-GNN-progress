@@ -173,6 +173,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 22. Xiaojie GuoLingfei WuLiang Zhao. **Deep Graph Translation**. arXiv 2018. [paper](https://arxiv.org/pdf/1805.09980.pdf). 
 
+21. Choma, Nicholas, et al. **Graph Neural Networks for IceCube Signal Classification.** ArXiv 2018. [paper](https://arxiv.org/pdf/1809.06166.pdf).
+
 
 
 ## Open source platform on GNN
