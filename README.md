@@ -202,6 +202,16 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
   Initiation time:2018
 
   Source: [github](https://github.com/deepmind/graph_nets)
+  
+4. **Euler**
+
+  Euler is developed and maintained by Alimama, which belongs to Alibaba Group.
+
+  Initiation time:2019
+
+  Source: [github](https://github.com/alibaba/euler)
+  
+  
 
 
 ***All the things are not the simple finale, maybe just grand beginning   ----Mysterious sayings by (you guess)***
