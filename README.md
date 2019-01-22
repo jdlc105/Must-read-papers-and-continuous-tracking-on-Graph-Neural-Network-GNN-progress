@@ -175,6 +175,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 21. Choma, Nicholas, et al. **Graph Neural Networks for IceCube Signal Classification.** ArXiv 2018. [paper](https://arxiv.org/pdf/1809.06166.pdf).
 
+22. Tyler Derr, Yao Ma, Jiliang Tang. **Signed Graph Convolutional Network** ArXiv 2018. [paper](https://arxiv.org/pdf/1809.06166.pdf).
+
 
 
 ## Open source platform on GNN
