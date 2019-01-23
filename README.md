@@ -177,6 +177,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 22. Tyler Derr, Yao Ma, Jiliang Tang. **Signed Graph Convolutional Network** ArXiv 2018. [paper](https://arxiv.org/pdf/1809.06166.pdf).
 
+23. Yawei Luo, Tao Guan, Junqing Yu, Ping Liu, Yi Yang. **Every Node Counts: Self-Ensembling Graph Convolutional Networks for Semi-Supervised Learning** ArXiv 2018. [paper](https://arxiv.org/pdf/1809.09925.pdf).
+
 
 
 ## Open source platform on GNN
