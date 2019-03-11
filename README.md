@@ -127,6 +127,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 29. Zhang Xinyi, Lihui Chen. **Capsule Graph Neural Network**, ICLR 2019. [paper](https://openreview.net/pdf?id=Byl8BnRcYm)
 
+30. Liao, R., Zhao, Z., Urtasun, R., and Zemel, R. Lanczosnet. **LanczosNet: Multi-Scale Deep Graph Convolutional Networks**, ICLR 2019, [paper](https://arxiv.org/abs/1901.01484)
+
 ## ArXiv papers:
 
 1. Li Y, Tarlow D, Brockschmidt M, et al. **Gated graph sequence neural networks**. arXiv 2015. [paper](https://arxiv.org/abs/1511.05493)
@@ -215,6 +217,13 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
   Source: [github](https://github.com/alibaba/euler)
   
+5. **PyTorch Geometric**
+  
+  PyTorch Geometric is developed and maintained by TU Dortmund University, Germany.
+  
+  Initiation time:2019
+  
+  Source: [github](https://github.com/rusty1s/pytorch_geometric) [paper](https://arxiv.org/abs/1903.02428?context=cs.LG)
   
 
 
