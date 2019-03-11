@@ -127,7 +127,7 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 29. Zhang Xinyi, Lihui Chen. **Capsule Graph Neural Network**, ICLR 2019. [paper](https://openreview.net/pdf?id=Byl8BnRcYm)
 
-30. Liao, R., Zhao, Z., Urtasun, R., and Zemel, R. Lanczosnet. **LanczosNet: Multi-Scale Deep Graph Convolutional Networks**, ICLR 2019, [paper](https://arxiv.org/abs/1901.01484)
+30. Liao, R., Zhao, Z., Urtasun, R., and Zemel, R. **LanczosNet: Multi-Scale Deep Graph Convolutional Networks**, ICLR 2019, [paper](https://arxiv.org/abs/1901.01484)
 
 ## ArXiv papers:
 
