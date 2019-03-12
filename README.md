@@ -129,6 +129,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 30. Liao, R., Zhao, Z., Urtasun, R., and Zemel, R. **LanczosNet: Multi-Scale Deep Graph Convolutional Networks**, ICLR 2019, [paper](https://arxiv.org/abs/1901.01484)
 
+31. Bingbing Xu, Huawei Shen, Qi Cao, Yunqi Qiu, Xueqi Cheng. **Graph Wavelet Neural Network**, ICLR 2019, [paper](https://openreview.net/forum?id=H1ewdiR5tQ)
+
 ## ArXiv papers:
 
 1. Li Y, Tarlow D, Brockschmidt M, et al. **Gated graph sequence neural networks**. arXiv 2015. [paper](https://arxiv.org/abs/1511.05493)
