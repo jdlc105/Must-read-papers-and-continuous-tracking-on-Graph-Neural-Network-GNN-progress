@@ -6,6 +6,8 @@ This project focuses on GNN, lists relevant must-read papers and keeps track of 
 
 Contributed by Allen Bluce, If there is something wrong or GNN-related issue, welcome to contact me via the email(Address: jdlc105@qq.com)
 
+***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention, Graph auto-encoder,...
+
 
 ## Survey papers:
 
@@ -182,6 +184,20 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 22. Tyler Derr, Yao Ma, Jiliang Tang. **Signed Graph Convolutional Network** ArXiv 2018. [paper](https://arxiv.org/pdf/1809.06166.pdf).
 
 23. Yawei Luo, Tao Guan, Junqing Yu, Ping Liu, Yi Yang. **Every Node Counts: Self-Ensembling Graph Convolutional Networks for Semi-Supervised Learning** ArXiv 2018. [paper](https://arxiv.org/pdf/1809.09925.pdf).
+
+24. Sun K, Koniusz P, Wang J. **Fisher-Bures Adversary Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/pdf/1903.04154.pdf).
+
+25. Kazi A, Burwinkel H, Vivar G, et al. **InceptionGCN: Receptive Field Aware Graph Convolutional Network for Disease Prediction**. arXiv 2019. [paper](https://arxiv.org/abs/1903.04233).
+
+26. Lemos H, Prates M, Avelar P, et al. **Graph Colouring Meets Deep Learning: Effective Graph Neural Network Models for Combinatorial Problems**. arXiv 2019. [paper](https://arxiv.org/pdf/1903.04598.pdf).
+
+27. Diehl F, Brunner T, Le M T, et al. **Graph Neural Networks for Modelling Traffic Participant Interaction**. arXiv 2019. [paper](https://arxiv.org/abs/1903.01254).
+
+28. Murphy R L, Srinivasan B, Rao V, et al. **Relational Pooling for Graph Representations**. arXiv 2019. [paper](https://arxiv.org/pdf/1903.02541.pdf).
+
+29. Zhang W, Shu K, Liu H, et al. **Graph Neural Networks for User Identity Linkage**. arXiv 2019. [paper](https://arxiv.org/pdf/1903.02174.pdf).
+
+30. Ruiz L, Gama F, Ribeiro A. **Gated Graph Convolutional Recurrent Neural Networks**. arXiv 2019. [paper](https://arxiv.org/pdf/1903.01888.pdf).
 
 
 
