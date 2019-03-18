@@ -67,6 +67,11 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 17. Zhang, Zhihong, Dongdong Chen, Jianjia Wang, Lu Bai, and Edwin R. Hancock. **Quantum-Based Subgraph Convolutional Neural Networks.** Pattern Recognition, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0031320318303820)
 
+18. Qin A, Shang Z, Tian J, et al. **Spectral–Spatial Graph Convolutional Networks for Semisupervised Hyperspectral Image Classification**. IEEE Geoscience and Remote Sensing Letters, 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8474300)
+
+19. Coley C W, Jin W, Rogers L, et al. **A graph-convolutional neural network model for the prediction of chemical reactivity**. Chemical Science, 2019. [paper](https://pubs.rsc.org/en/content/articlehtml/2019/sc/c8sc04228d)
+
+20. Zhang Z, Chen D, Wang Z, et al. **Depth-based Subgraph Convolutional Auto-Encoder for Network Representation Learning**. Pattern Recognition, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0031320319300354)
 
 
 
@@ -135,6 +140,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 31. Bingbing Xu, Huawei Shen, Qi Cao, Yunqi Qiu, Xueqi Cheng. **Graph Wavelet Neural Network**, ICLR 2019, [paper](https://openreview.net/forum?id=H1ewdiR5tQ)
 
+32. Hu J, Guo C, Yang B, et al. **Stochastic Weight Completion for Road Networks using Graph Convolutional Networks** ICDE. 2019. [paper](https://openreview.net/forum?id=H1ewdiR5tQ)
+
 ## ArXiv papers:
 
 1. Li Y, Tarlow D, Brockschmidt M, et al. **Gated graph sequence neural networks**. arXiv 2015. [paper](https://arxiv.org/abs/1511.05493)
@@ -201,6 +208,9 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 30. Ruiz L, Gama F, Ribeiro A. **Gated Graph Convolutional Recurrent Neural Networks**. arXiv 2019. [paper](https://arxiv.org/pdf/1903.01888.pdf).
 
+31. Wu F, Zhang T, Souza Jr A H, et al. **Simplifying Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1902.07153).
+
+32. Phillips S, Daniilidis K. **All Graphs Lead to Rome: Learning Geometric and Cycle-Consistent Representations with Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1901.02078).
 
 
 ## Open source platform on GNN
