@@ -61,9 +61,11 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 14. Phan, Anh Viet, Minh Le Nguyen, Yen Lam Hoang Nguyen, and Lam Thu Bui. **DGCNN: A Convolutional Neural Network over Large-Scale Labeled Graphs**. Neural Networks, 2018. [paper](https://www.sciencedirect.com/science/article/pii/S0893608018302636) 
 
-15. Levie R, Monti F, Bresson X, et al. **Cayleynets: Graph convolutional neural networks with complex rational spectral filters**. IEEE Transactions on Signal Processing 2019. [paper](https://ieeexplore.ieee.org/document/8521593)
+15. Song T, Zheng W, Song P, et al. **Eeg emotion recognition using dynamical graph convolutional neural networks**. IEEE Transactions on Affective Computing, 2018. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8320798) 
 
-16. Zhang, Zhihong, Dongdong Chen, Jianjia Wang, Lu Bai, and Edwin R. Hancock. **Quantum-Based Subgraph Convolutional Neural Networks.** Pattern Recognition, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0031320318303820)
+16. Levie R, Monti F, Bresson X, et al. **Cayleynets: Graph convolutional neural networks with complex rational spectral filters**. IEEE Transactions on Signal Processing 2019. [paper](https://ieeexplore.ieee.org/document/8521593)
+
+17. Zhang, Zhihong, Dongdong Chen, Jianjia Wang, Lu Bai, and Edwin R. Hancock. **Quantum-Based Subgraph Convolutional Neural Networks.** Pattern Recognition, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0031320318303820)
 
 
 
