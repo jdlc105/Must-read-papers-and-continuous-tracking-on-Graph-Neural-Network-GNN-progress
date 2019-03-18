@@ -6,7 +6,7 @@ This project focuses on GNN, lists relevant must-read papers and keeps track of 
 
 Contributed by Allen Bluce, If there is something wrong or GNN-related issue, welcome to contact me via the email(Address: jdlc105@qq.com)
 
-***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention, Graph auto-encoder,...
+***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention, Graph auto-encoder,...***
 
 
 ## Survey papers:
