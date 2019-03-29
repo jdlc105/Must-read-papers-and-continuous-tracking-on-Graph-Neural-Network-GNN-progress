@@ -142,6 +142,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 32. Hu J, Guo C, Yang B, et al. **Stochastic Weight Completion for Road Networks using Graph Convolutional Networks** ICDE. 2019. [paper](https://openreview.net/forum?id=H1ewdiR5tQ)
 
+33. Yao L, Mao C, Luo Y . **Graph Convolutional Networks for Text Classification**. AAAI 2019. [paper](https://arxiv.org/pdf/1809.05679.pdf)
+
 ## ArXiv papers:
 
 1. Li Y, Tarlow D, Brockschmidt M, et al. **Gated graph sequence neural networks**. arXiv 2015. [paper](https://arxiv.org/abs/1511.05493)
