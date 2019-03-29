@@ -9,6 +9,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention, Graph auto-encoder,...***
 
  ***Start time: 11 Dec 2018, Latest updated time: 29 Mar 2019***
+ ***More about GCN models and their applications will come from CVPR 2019, AAAI 2019, .... We are waiting for the paper to be released.***
+
  
 
 ## Survey papers:
