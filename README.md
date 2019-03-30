@@ -13,8 +13,6 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
  ***More papers about GCN models and their applications will come from CVPR 2019, AAAI 2019, .... We are waiting for the paper to be released.***
 
 
-<font color=#008000>News!!!</font>
-
 ## Survey papers:
 
 1. Ziwei Zhang, Peng Cui, Wenwu Zhu, **Deep Learning on Graphs: A Survey**, ArXiv, 2018. [paper](https://arxiv.org/pdf/1812.04202.pdf).
