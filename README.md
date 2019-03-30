@@ -13,7 +13,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
  ***More papers about GCN models and their applications will come from CVPR 2019, AAAI 2019, .... We are waiting for the paper to be released.***
 
  
-<font color=gray size=72>color=gray</font>
+
+<font color=#00ffff size=72>color=#00ffff</font>
 
 ## Survey papers:
 
