@@ -130,23 +130,25 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 24. Zhang, Zhen, Hongxia Yang, Jiajun Bu, Sheng Zhou, Pinggang Yu, Jianwei Zhang, Martin Ester, and Can Wang. **ANRL: Attributed Network Representation Learning via Deep Neural Networks.**. IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/438) 
 
-25. Morris C , Ritzert M , Fey M , et al.**Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks.**. AAAI 2019. [paper](https://arxiv.org/abs/1810.02244v1) 
+25. Rahimi A , Cohn T , Baldwin T . **Semi-supervised User Geolocation via Graph Convolutional Networks.** ACL 2018. [paper](https://arxiv.org/pdf/1804.08049.pdf)
 
-26. Xu K, Hu W, Leskovec J, et al. **How Powerful are Graph Neural Networks?**, ICLR 2019. [paper](https://arxiv.org/pdf/1810.00826.pdf)
+26. Morris C , Ritzert M , Fey M , et al.**Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks.**. AAAI 2019. [paper](https://arxiv.org/abs/1810.02244v1) 
 
-27. Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann. **Combining Neural Networks with Personalized PageRank for Classification on Graphs**, ICLR 2019. [paper](https://arxiv.org/pdf/1810.05997.pdf)
+27. Xu K, Hu W, Leskovec J, et al. **How Powerful are Graph Neural Networks?**, ICLR 2019. [paper](https://arxiv.org/pdf/1810.00826.pdf)
 
-28. Daniel Zügner, Stephan Günnemann. **Adversarial Attacks on Graph Neural Networks via Meta Learning**,  ICLR 2019. [paper](https://openreview.net/pdf?id=Bylnx209YX)
+28. Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann. **Combining Neural Networks with Personalized PageRank for Classification on Graphs**, ICLR 2019. [paper](https://arxiv.org/pdf/1810.05997.pdf)
 
-29. Zhang Xinyi, Lihui Chen. **Capsule Graph Neural Network**, ICLR 2019. [paper](https://openreview.net/pdf?id=Byl8BnRcYm)
+29. Daniel Zügner, Stephan Günnemann. **Adversarial Attacks on Graph Neural Networks via Meta Learning**,  ICLR 2019. [paper](https://openreview.net/pdf?id=Bylnx209YX)
 
-30. Liao, R., Zhao, Z., Urtasun, R., and Zemel, R. **LanczosNet: Multi-Scale Deep Graph Convolutional Networks**, ICLR 2019, [paper](https://arxiv.org/abs/1901.01484)
+30. Zhang Xinyi, Lihui Chen. **Capsule Graph Neural Network**, ICLR 2019. [paper](https://openreview.net/pdf?id=Byl8BnRcYm)
 
-31. Bingbing Xu, Huawei Shen, Qi Cao, Yunqi Qiu, Xueqi Cheng. **Graph Wavelet Neural Network**, ICLR 2019, [paper](https://openreview.net/forum?id=H1ewdiR5tQ)
+31. Liao, R., Zhao, Z., Urtasun, R., and Zemel, R. **LanczosNet: Multi-Scale Deep Graph Convolutional Networks**, ICLR 2019, [paper](https://arxiv.org/abs/1901.01484)
 
-32. Hu J, Guo C, Yang B, et al. **Stochastic Weight Completion for Road Networks using Graph Convolutional Networks** ICDE. 2019. [paper](https://openreview.net/forum?id=H1ewdiR5tQ)
+32. Bingbing Xu, Huawei Shen, Qi Cao, Yunqi Qiu, Xueqi Cheng. **Graph Wavelet Neural Network**, ICLR 2019, [paper](https://openreview.net/forum?id=H1ewdiR5tQ)
 
-33. Yao L, Mao C, Luo Y . **Graph Convolutional Networks for Text Classification**. AAAI 2019. [paper](https://arxiv.org/pdf/1809.05679.pdf)
+33. Hu J, Guo C, Yang B, et al. **Stochastic Weight Completion for Road Networks using Graph Convolutional Networks** ICDE. 2019. [paper](https://openreview.net/forum?id=H1ewdiR5tQ)
+
+34. Yao L, Mao C, Luo Y . **Graph Convolutional Networks for Text Classification**. AAAI 2019. [paper](https://arxiv.org/pdf/1809.05679.pdf)
 
 ## ArXiv papers:
 
