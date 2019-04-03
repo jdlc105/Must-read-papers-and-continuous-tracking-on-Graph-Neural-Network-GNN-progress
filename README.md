@@ -263,6 +263,14 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
   
   Source: [github](https://github.com/rusty1s/pytorch_geometric) [paper](https://arxiv.org/abs/1903.02428?context=cs.LG)
   
+6. **PyTorch-BigGraph（PBG）**
+
+  PBG is developed and maintained by Facebook AI Research.
+
+  Initiation time:2019
+
+  Source: [github](https://github.com/facebookresearch/PyTorch-BigGraph) [paper](https://arxiv.org/abs/1903.12287) 
+  
 
 
 ***All the things are not the simple finale, maybe just grand beginning   ----Mysterious sayings by (you guess)***
