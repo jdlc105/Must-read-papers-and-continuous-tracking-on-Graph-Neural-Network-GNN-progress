@@ -8,9 +8,9 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention, Graph auto-encoder,...***
 
- ***Start time: 11 Dec 2018, Latest updated time: 3 April 2019***
+ ***Start time: 11 Dec 2018, Latest updated time: 10 April 2019***
  
- ***More papers about GCN models and their applications will come from CVPR 2019, AAAI 2019, .... We are waiting for the paper to be released.***
+ ***More papers about GCN models and their applications will come from CVPR 2019, .... We are waiting for the paper to be released.***
 
 
 ## Survey papers:
@@ -149,6 +149,26 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 33. Hu J, Guo C, Yang B, et al. **Stochastic Weight Completion for Road Networks using Graph Convolutional Networks** ICDE. 2019. [paper](https://openreview.net/forum?id=H1ewdiR5tQ)
 
 34. Yao L, Mao C, Luo Y . **Graph Convolutional Networks for Text Classification**. AAAI 2019. [paper](https://arxiv.org/pdf/1809.05679.pdf)
+
+35.  Landrieu L , Boussaha M . **Point Cloud Oversegmentation with Graph-Structured Deep Metric Learning**. CVPR 2019. [paper](https://arxiv.org/abs/1904.02113)
+
+36.  Si C , Chen W , Wang W , et al. **An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition**. CVPR 2019. [paper](https://arxiv.org/abs/1902.09130)
+
+37.  Cucurull G , Taslakian P , Vazquez D . **Context-Aware Visual Compatibility Prediction**.  CVPR 2019. [paper](https://arxiv.org/pdf/1902.03646.pdf)
+
+38. Jia-Xing Zhong, Nannan Li, Weijie Kong, Shan Liu, Thomas H. Li, Ge Li. **Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection**. CVPR 2019. [paper](https://arxiv.org/abs/1903.07256)
+
+39. Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing. **Rethinking Knowledge Graph Propagation for Zero-Shot Learning**.  CVPR 2019. [paper](https://arxiv.org/abs/1805.11724v3)
+
+40. Arushi Goel, Keng Teck Ma, Cheston Tan. **An End-to-End Network for Generating Social Relationship Graphs**. CVPR 2019. [paper](https://arxiv.org/abs/1903.09784)
+
+41. Yichao Yan, Qiang Zhang, Bingbing Ni, Wendong Zhang, Minghao Xu, Xiaokang Yang. **Learning Context Graph for Person Search**. CVPR 2019 [paper](https://arxiv.org/pdf/1904.01830.pdf)
+
+42. Zhongdao Wang, Liang Zheng, Yali Li, Shengjin Wang. **Linkage Based Face Clustering via Graph Convolution Network**.  CVPR 2019 [paper](https://arxiv.org/abs/1903.11306)
+
+43. Lei Yang, Xiaohang Zhan, Dapeng Chen, Junjie Yan, Chen Change Loy, Dahua Lin. **Learning to Cluster Faces on an Affinity Graph**. CVPR 2019 [paper](https://arxiv.org/pdf/1904.02749.pdf)
+
+
 
 ## ArXiv papers:
 
