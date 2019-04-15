@@ -240,6 +240,9 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 32. Phillips S, Daniilidis K. **All Graphs Lead to Rome: Learning Geometric and Cycle-Consistent Representations with Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1901.02078).
 
+33. Guohao Li, Matthias Müller, Ali Thabet, Bernard Ghanem. **Can GCNs Go as Deep as CNNs?.**
+arXiv 2019. [paper](https://arxiv.org/abs/1904.03751).
+
 
 ## Open source platform on GNN
 
