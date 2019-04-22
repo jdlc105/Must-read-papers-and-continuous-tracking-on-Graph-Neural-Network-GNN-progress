@@ -240,6 +240,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 32. Phillips S, Daniilidis K. **All Graphs Lead to Rome: Learning Geometric and Cycle-Consistent Representations with Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1901.02078).
 
+33. Junhyun Lee, Inyeop Lee, Jaewoo Kang. **Self-Attention Graph Pooling**. arXiv 2019. [paper](https://arxiv.org/pdf/1904.08082.pdf).
+
 
 ## Open source platform on GNN
 
