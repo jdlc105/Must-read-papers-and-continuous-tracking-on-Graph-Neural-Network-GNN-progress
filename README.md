@@ -8,7 +8,7 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention, Graph auto-encoder,...***
 
- ***Start time: 11 Dec 2018, Latest updated time: 22 April 2019***
+ ***Start time: 11 Dec 2018, Latest updated time: 01 May 2019***
  
  ***More papers about GCN models and their applications will come from CVPR 2019, .... We are waiting for the paper to be released.***
 
@@ -77,6 +77,9 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 20. Zhang Z, Chen D, Wang Z, et al. **Depth-based Subgraph Convolutional Auto-Encoder for Network Representation Learning**. Pattern Recognition, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0031320319300354)
 
+21. Hong Y, Kim J, Chen G, et al. **Longitudinal Prediction of Infant Diffusion MRI Data via Graph Convolutional Adversarial Networks**. IEEE transactions on medical imaging, 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8691605)
+
+22. Khodayar M, Mohammadi S, Khodayar M E, et al. **Convolutional Graph Autoencoder: A Generative Deep Neural Network for Probabilistic Spatio-temporal Solar Irradiance Forecasting**. IEEE Transactions on Sustainable Energy, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8663347)
 
 
 
@@ -241,6 +244,12 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 32. Phillips S, Daniilidis K. **All Graphs Lead to Rome: Learning Geometric and Cycle-Consistent Representations with Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1901.02078).
 
 33. Junhyun Lee, Inyeop Lee, Jaewoo Kang. **Self-Attention Graph Pooling**. arXiv 2019. [paper](https://arxiv.org/pdf/1904.08082.pdf).
+
+34. Hu F, Zhu Y, Wu S, et al. **Semi-supervised Node Classification via Hierarchical Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1902.06667).
+
+35. Deng Z, Dong Y, Zhu J. **Batch Virtual Adversarial Training for Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1902.09192).
+
+36. Chen Z M, Wei X S, Wang P, et al.**Multi-Label Image Recognition with Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1904.03582).
 
 
 ## Open source platform on GNN
