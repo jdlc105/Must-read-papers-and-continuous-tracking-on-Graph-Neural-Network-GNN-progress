@@ -10,7 +10,7 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
  ***Start time: 11 Dec 2018, Latest updated time: 01 May 2019***
  
- ***More papers about GCN models and their applications will come from CVPR 2019, .... We are waiting for the paper to be released.***
+ ***More papers about GCN models and their applications will come from CVPR 2019, WWW2019, SIGKDD2019 .... We are waiting for the paper to be released.***
 
 
 ## Survey papers:
@@ -170,6 +170,10 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 42. Zhongdao Wang, Liang Zheng, Yali Li, Shengjin Wang. **Linkage Based Face Clustering via Graph Convolution Network**.  CVPR 2019 [paper](https://arxiv.org/abs/1903.11306)
 
 43. Lei Yang, Xiaohang Zhan, Dapeng Chen, Junjie Yan, Chen Change Loy, Dahua Lin. **Learning to Cluster Faces on an Affinity Graph**. CVPR 2019 [paper](https://arxiv.org/pdf/1904.02749.pdf)
+
+44. Yao Ma, Suhang Wang, Charu C. Aggarwal, Jiliang Tang. **Graph Convolutional Networks with EigenPooling**. KDD2019, [paper](https://arxiv.org/pdf/1904.13107.pdf)
+
+45. Wenqi Fan, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, Dawei Yin. **Graph Neural Networks for Social Recommendation**. WWW2019, [paper](https://arxiv.org/pdf/1902.07243.pdf)
 
 
 
