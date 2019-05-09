@@ -8,7 +8,7 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention, Graph auto-encoder,...***
 
- ***Start time: 11 Dec 2018, Latest updated time: 06 May 2019***
+ ***Start time: 11 Dec 2018, Latest updated time: 09 May 2019***
  
  ***More papers about GCN models and their applications will come from CVPR 2019, WWW2019, SIGKDD2019 .... We are waiting for the paper to be released.***
 
@@ -254,6 +254,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 35. Deng Z, Dong Y, Zhu J. **Batch Virtual Adversarial Training for Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1902.09192).
 
 36. Chen Z M, Wei X S, Wang P, et al.**Multi-Label Image Recognition with Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1904.03582).
+
+37. Mallea M D G, Meltzer P, Bentley P J. Capsule Neural Networks for Graph Classification using Explicit Tensorial Graph Representations. arXiv 2019.  [paper](https://arxiv.org/pdf/1902.08399.pdf).
 
 
 ## Open source platform on GNN
