@@ -6,9 +6,9 @@ This project focuses on GNN, lists relevant must-read papers and keeps track of 
 
 Contributed by Allen Bluce, If there is something wrong or GNN-related issue, welcome to contact me via the email(Address: jdlc105@qq.com)
 
-***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention, Graph auto-encoder,...***
+***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention network, Graph auto-encoder,...***
 
-***Very very very hot research topic: the representative work--Graph convolutional networks by T.N. Kipf and M. Welling (ICLR2017) has been cited 1020 times in Google Scholar(by the date 09 May 2019).***
+***Very hot research topic: the representative work--Graph convolutional networks by T.N. Kipf and M. Welling (ICLR2017) has been cited 1,020 times in Google Scholar(by the date 09 May 2019).***
 
 ***Project Start time: 11 Dec 2018, Latest updated time: 09 May 2019***
  
