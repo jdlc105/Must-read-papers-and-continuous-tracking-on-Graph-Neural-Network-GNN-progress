@@ -317,8 +317,6 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
   
 
 
-***All the things are not the simple finale, maybe just grand beginning   ----Mysterious sayings by (you guess)***
-
 ## Appetizer for you：Art Exhibition in the Ultra-High Dimensional Network/Graph Structured Space
 
   ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig3.gif)
