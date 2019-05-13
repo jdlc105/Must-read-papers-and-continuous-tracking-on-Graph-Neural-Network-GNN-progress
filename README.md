@@ -177,6 +177,9 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 45. Wenqi Fan, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, Dawei Yin. **Graph Neural Networks for Social Recommendation**. WWW2019, [paper](https://arxiv.org/pdf/1902.07243.pdf)
 
+46. Kim J, Kim T, Kim S, et al. **Edge-labeling Graph Neural Network for Few-shot Learning**. CVPR 2019. [paper](https://arxiv.org/pdf/1905.01436.pdf)
+
+
 
 
 ## ArXiv papers:
@@ -258,6 +261,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 36. Chen Z M, Wei X S, Wang P, et al.**Multi-Label Image Recognition with Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1904.03582).
 
 37. Mallea M D G, Meltzer P, Bentley P J. **Capsule Neural Networks for Graph Classification using Explicit Tensorial Graph Representations**. arXiv 2019.  [paper](https://arxiv.org/pdf/1902.08399.pdf).
+
+38. Peter Meltzer, Marcelo Daniel Gutierrez Mallea and Peter J. Bentley. **PiNet: A Permutation Invariant Graph Neural Network for Graph Classification**. arXiv 2019.  [paper](https://arxiv.org/pdf/1905.03046.pdf).
 
 
 ## Open source platform on GNN
