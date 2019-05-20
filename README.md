@@ -8,9 +8,10 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention network, Graph auto-encoder,...***
 
-***Very hot research topic: the representative work--Graph convolutional networks proposed by T.N. Kipf and M. Welling (ICLR2017) has been cited 1,020 times in Google Scholar(by the date 09 May 2019).***
+***Very hot research topic: the representative work--Graph convolutional networks proposed by T.N. Kipf and M. Welling (ICLR2017) has been cited 1,020 times in Google Scholar(by the date 09 May 2019).*** ***Update: 1, 065 times (by the date 20 May 2019).***
 
-***Project Start time: 11 Dec 2018, Latest updated time: 13 May 2019***
+
+***Project Start time: 11 Dec 2018, Latest updated time: 20 May 2019***
  
  ***More papers about GCN models and their applications will come from CVPR 2019, WWW2019, SIGKDD2019, ICML2019 .... We are waiting for the paper to be released.***
 
@@ -179,6 +180,15 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 46. Kim J, Kim T, Kim S, et al. **Edge-labeling Graph Neural Network for Few-shot Learning**. CVPR 2019. [paper](https://arxiv.org/pdf/1905.01436.pdf)
 
+47. Jessica V. Schrouff, Kai Wohlfahrt, Bruno Marnette, Liam Atkinson. **INFERRING JAVASCRIPT TYPES USING GRAPH NEURAL NETWORKS**.  ICLR 2019. [paper](https://arxiv.org/pdf/1905.06707.pdf)
+
+48. Emanuele Rossi, Federico Monti, Michael Bronstein, Pietro liò. **ncRNA Classification with Graph Convolutional Networks**. SIGKDD 2019. [paper](https://arxiv.org/pdf/1905.06515.pdf)
+
+49. Wu F, Zhang T, Souza Jr A H, et al. **Simplifying Graph Convolutional Networks**. ICML 2019. [paper](https://arxiv.org/abs/1902.07153).
+
+50. Junhyun Lee, Inyeop Lee, Jaewoo Kang. **Self-Attention Graph Pooling**. ICML 2019. [paper](https://arxiv.org/pdf/1904.08082.pdf).
+
+
 
 
 
@@ -248,21 +258,19 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 30. Ruiz L, Gama F, Ribeiro A. **Gated Graph Convolutional Recurrent Neural Networks**. arXiv 2019. [paper](https://arxiv.org/pdf/1903.01888.pdf).
 
-31. Wu F, Zhang T, Souza Jr A H, et al. **Simplifying Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1902.07153).
+31. Phillips S, Daniilidis K. **All Graphs Lead to Rome: Learning Geometric and Cycle-Consistent Representations with Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1901.02078).
 
-32. Phillips S, Daniilidis K. **All Graphs Lead to Rome: Learning Geometric and Cycle-Consistent Representations with Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1901.02078).
+32. Hu F, Zhu Y, Wu S, et al. **Semi-supervised Node Classification via Hierarchical Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1902.06667).
 
-33. Junhyun Lee, Inyeop Lee, Jaewoo Kang. **Self-Attention Graph Pooling**. arXiv 2019. [paper](https://arxiv.org/pdf/1904.08082.pdf).
+33. Deng Z, Dong Y, Zhu J. **Batch Virtual Adversarial Training for Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1902.09192).
 
-34. Hu F, Zhu Y, Wu S, et al. **Semi-supervised Node Classification via Hierarchical Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1902.06667).
+34. Chen Z M, Wei X S, Wang P, et al.**Multi-Label Image Recognition with Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1904.03582).
 
-35. Deng Z, Dong Y, Zhu J. **Batch Virtual Adversarial Training for Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1902.09192).
+35. Mallea M D G, Meltzer P, Bentley P J. **Capsule Neural Networks for Graph Classification using Explicit Tensorial Graph Representations**. arXiv 2019.  [paper](https://arxiv.org/pdf/1902.08399.pdf).
 
-36. Chen Z M, Wei X S, Wang P, et al.**Multi-Label Image Recognition with Graph Convolutional Networks**. arXiv 2019. [paper](https://arxiv.org/abs/1904.03582).
+36. Peter Meltzer, Marcelo Daniel Gutierrez Mallea and Peter J. Bentley. **PiNet: A Permutation Invariant Graph Neural Network for Graph Classification**. arXiv 2019.  [paper](https://arxiv.org/pdf/1905.03046.pdf).
 
-37. Mallea M D G, Meltzer P, Bentley P J. **Capsule Neural Networks for Graph Classification using Explicit Tensorial Graph Representations**. arXiv 2019.  [paper](https://arxiv.org/pdf/1902.08399.pdf).
-
-38. Peter Meltzer, Marcelo Daniel Gutierrez Mallea and Peter J. Bentley. **PiNet: A Permutation Invariant Graph Neural Network for Graph Classification**. arXiv 2019.  [paper](https://arxiv.org/pdf/1905.03046.pdf).
+37. Padraig Corcoran. **Function Space Pooling For Graph Convolutional Networks**. arXiv 2019.  [paper](https://arxiv.org/pdf/1905.06259.pdf).
 
 
 ## Open source platform on GNN
