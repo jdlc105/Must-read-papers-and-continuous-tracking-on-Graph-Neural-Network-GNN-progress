@@ -188,7 +188,9 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 50. Junhyun Lee, Inyeop Lee, Jaewoo Kang. **Self-Attention Graph Pooling**. ICML 2019. [paper](https://arxiv.org/pdf/1904.08082.pdf).
 
+51. Chiang W L, Liu X, Si S, et al. **Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks.** SIGKDD 2019. [paper](https://arxiv.org/pdf/1905.07953.pdf).
 
+52. Namyong Park, Andrey Kan, Xin Luna Dong, Tong Zhao, Christos Faloutsos, **Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks**. SIGKDD 2019. [paper](https://arxiv.org/pdf/1905.08865.pdf).
 
 
 
@@ -271,6 +273,9 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 36. Peter Meltzer, Marcelo Daniel Gutierrez Mallea and Peter J. Bentley. **PiNet: A Permutation Invariant Graph Neural Network for Graph Classification**. arXiv 2019.  [paper](https://arxiv.org/pdf/1905.03046.pdf).
 
 37. Padraig Corcoran. **Function Space Pooling For Graph Convolutional Networks**. arXiv 2019.  [paper](https://arxiv.org/pdf/1905.06259.pdf).
+
+38. Sbastien Lerique, Jacob Levy Abitbol, and Mrton Karsai. **Joint embedding of structure and features via graph convolutional networks**. arXiv 2019.  [paper](https://arxiv.org/pdf/1905.08636.pdf).
+
 
 
 ## Open source platform on GNN
