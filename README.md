@@ -11,6 +11,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 ***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (by the date 09 May 2019).*** ***Update: 1, 065 times (by the date 20 May 2019).***
 
 
+***Thanks to the developer in Github for giving me so many stars and support！！！ I will continue to update the project.***
+
 ***Project Start time: 11 Dec 2018, Latest updated time: 27 May 2019***
  
  ***More papers about GCN models and their applications will come from CVPR 2019, WWW2019, SIGKDD2019, ICML2019 .... We are waiting for the paper to be released.***
