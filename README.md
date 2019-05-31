@@ -194,6 +194,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 52. Namyong Park, Andrey Kan, Xin Luna Dong, Tong Zhao, Christos Faloutsos, **Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks**. SIGKDD 2019. [paper](https://arxiv.org/pdf/1905.08865.pdf).
 
+53. Wu S, Tang Y, Zhu Y, et al. **Session-based Recommendation with Graph Neural Networks**. AAAI 2019. [paper](https://arxiv.org/pdf/1811.00855.pdf).
+
 
 
 ## ArXiv papers:
