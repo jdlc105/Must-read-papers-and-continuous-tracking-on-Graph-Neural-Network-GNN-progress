@@ -220,7 +220,7 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 65. Chang Li, Dan Goldwasser. **Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media** ACL 2019. [paper](https://www.cs.purdue.edu/homes/dgoldwas//downloads/papers/LiG_acl_2019.pdf). 
 
-66. Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-seng Chua, **Maosong SunGraph Neural Networks with Generated Parameters for Relation Extraction** ACL 2019. [paper](https://arxiv.org/abs/1902.00756).  
+66. Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-seng Chua, Maosong Sun. **Graph Neural Networks with Generated Parameters for Relation Extraction** ACL 2019. [paper](https://arxiv.org/abs/1902.00756).  
 
 67. Shikhar Vashishth, Manik Bhandari, Prateek Yadav, Piyush Rai, Chiranjib Bhattacharyya, Partha Talukdar. **Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks** ACL 2019. [paper](https://arxiv.org/abs/1809.04283). 
 
