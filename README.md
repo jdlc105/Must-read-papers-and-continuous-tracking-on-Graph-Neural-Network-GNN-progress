@@ -37,6 +37,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
  ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig5.jpg)
  
  **Some open-source codes of the state-of-the-art methods[3]**.
+ 
+ 4. Battaglia P W, Hamrick J B, Bapst V, et al. **Relational inductive biases, deep learning, and graph networks**, arXiv 2018. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28965a67685f0a5180ada2c6adaa15dc38%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1806.01261&ie=utf-8&sc_us=8121954972779087681&sc_as_para=sc_lib%3A)
 
 
 
