@@ -8,12 +8,12 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention network, Graph auto-encoder,...***
 
-***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (by the date 09 May 2019).*** ***Update: 1, 065 times (by the date 20 May 2019).*** ***Update: 1, 106 times (by the date 27 May 2019).***
+***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (by the date 09 May 2019).*** ***Update: 1, 065 times (by the date 20 May 2019).*** ***Update: 1, 106 times (by the date 27 May 2019).*** ***Update: 1, 227 times (by the date 19 June 2019)***
 
 
 ***Thanks to so many developers and scientists in Github for giving me so many stars and support！！！ I will continue to make this project better.***
 
-***Project Start time: 11 Dec 2018, Latest updated time: 27 May 2019***
+***Project Start time: 11 Dec 2018, Latest updated time: 19 June 2019***
  
  ***More papers about GCN models and their applications will come from CVPR 2019, WWW2019, SIGKDD2019, ICML2019 .... We are waiting for the paper to be released.***
 
@@ -195,6 +195,34 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 52. Namyong Park, Andrey Kan, Xin Luna Dong, Tong Zhao, Christos Faloutsos, **Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks**. SIGKDD 2019. [paper](https://arxiv.org/pdf/1905.08865.pdf).
 
 53. Wu S, Tang Y, Zhu Y, et al. **Session-based Recommendation with Graph Neural Networks**. AAAI 2019. [paper](https://arxiv.org/pdf/1811.00855.pdf).
+
+54. Qu M, Bengio Y, Tang J. **GMNN: Graph Markov Neural Networks**. ICML 2019. [paper](https://arxiv.org/abs/1905.06214)[coder](https://github.com/DeepGraphLearning/GMNN).
+
+55. Li Y, Gu C, Dullien T, et al. **Graph Matching Networks for Learning the Similarity of Graph Structured Objects**, ICML 2019.[paper](https://arxiv.org/abs/1904.12787).
+
+56. Gao H, Ji S. **Graph U-Nets**, ICML 2019. [paper](https://arxiv.org/abs/1905.05178).
+
+57. Bojchevski A, Günnemann S. **Adversarial Attacks on Node Embeddings via Graph Poisoning**, ICML 2019. [paper](https://arxiv.org/pdf/1809.01093.pdf).
+
+58. Jeong D, Kwon T, Kim Y, et al. **Graph Neural Network for Music Score Data and Modeling Expressive Piano Performance**. ICML 2019. [paper](http://proceedings.mlr.press/v97/jeong19a/jeong19a.pdf).
+
+59. Zhang G, He H, Katabi D. **Circuit-GNN: Graph Neural Networks for Distributed Circuit Design**. ICML 2019. [paper](http://proceedings.mlr.press/v97/zhang19e/zhang19e.pdf).
+
+60. Alet F, Jeewajee A K, Bauza M, et al. **Graph Element Networks: adaptive, structured computation and memory**, ICML 2019. [paper](https://arxiv.org/abs/1904.09019).
+
+61. Rieck B, Bock C, Borgwardt K. **A Persistent Weisfeiler-Lehman Procedure for Graph Classification**, ICML 2019. [paper](http://bastian.rieck.me/research/ICML2019_P-WL.pdf).
+
+62. Walker I, Glocker B. **Graph Convolutional Gaussian Processes**，ICML 2019. [paper](https://arxiv.org/abs/1905.05739).
+
+63. Yu Y, Chen J, Gao T, et al. **DAG-GNN: DAG Structure Learning with Graph Neural Networks**, ICML 2019. [paper](https://arxiv.org/pdf/1904.10098.pdf).
+
+64. Zhijiang Guo, Yan Zhang and Wei Lu, **Attention Guided Graph Convolutional Networks for Relation Extraction** ACL 2019. [paper](http://www.statnlp.org/paper/2019/attention-guided-graph-convolutional-networks-relation-extraction.html). [coder](https://github.com/Cartus/AGGCN_TACRED).
+
+65. Chang Li, Dan Goldwasser. **Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media** ACL 2019. [paper](https://www.cs.purdue.edu/homes/dgoldwas//downloads/papers/LiG_acl_2019.pdf). 
+
+66. Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-seng Chua, **Maosong SunGraph Neural Networks with Generated Parameters for Relation Extraction** ACL 2019. [paper](https://arxiv.org/abs/1902.00756).  
+
+67. Shikhar Vashishth, Manik Bhandari, Prateek Yadav, Piyush Rai, Chiranjib Bhattacharyya, Partha Talukdar. **Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks** ACL 2019. [paper](https://arxiv.org/abs/1809.04283). 
 
 
 
