@@ -310,6 +310,8 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 38. Sbastien Lerique, Jacob Levy Abitbol, and Mrton Karsai. **Joint embedding of structure and features via graph convolutional networks**. arXiv 2019.  [paper](https://arxiv.org/pdf/1905.08636.pdf).
 
+39. Li G, Müller M, Thabet A, et al. **Can GCNs Go as Deep as CNNs?**. arXiv 2019. [paper](https://arxiv.org/pdf/1904.03751.pdf).
+
 
 
 ## Open source platform on GNN
