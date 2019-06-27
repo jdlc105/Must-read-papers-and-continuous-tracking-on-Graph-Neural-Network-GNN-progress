@@ -15,7 +15,7 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 ***Project Start time: 11 Dec 2018, Latest updated time: 19 June 2019***
  
- ***More papers about GCN models and their applications will come from CVPR 2019, WWW2019, SIGKDD2019, ICML2019 .... We are waiting for the paper to be released.***
+ ***More papers about GCN models and their applications will come from WWW2019, SIGKDD2019, ICML2019 .... We are waiting for the paper to be released.***
 
 
 ## Survey papers:
