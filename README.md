@@ -8,14 +8,14 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention network, Graph auto-encoder,...***
 
-***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (by the date 09 May 2019).*** ***Update: 1, 065 times (by the date 20 May 2019).*** ***Update: 1, 106 times (by the date 27 May 2019).*** ***Update: 1, 227 times (by the date 19 June 2019)***
+***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (by the date 09 May 2019).*** ***Update: 1, 065 times (by the date 20 May 2019).*** ***Update: 1, 106 times (by the date 27 May 2019).*** ***Update: 1, 227 times (by the date 19 June 2019)***, ***Update: 1, 377 times (by the date 8 July 2019)***
 
 
 ***Thanks to so many developers and scientists in Github for giving me so many stars and support！！！ I will continue to make this project better.***
 
-***Project Start time: 11 Dec 2018, Latest updated time: 19 June 2019***
+***Project Start time: 11 Dec 2018, Latest updated time: 8 July 2019***
  
- ***More papers about GCN models and their applications will come from WWW2019, SIGKDD2019, ICML2019 .... We are waiting for the paper to be released.***
+ ***More papers about GCN models and their applications will come from NeurIPS2019 .... We are waiting for the paper to be released.***
 
 
 ## Survey papers:
@@ -226,6 +226,19 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 
 67. Shikhar Vashishth, Manik Bhandari, Prateek Yadav, Piyush Rai, Chiranjib Bhattacharyya, Partha Talukdar. **Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks** ACL 2019. [paper](https://arxiv.org/abs/1809.04283). 
 
+68. Cui Z, Li Z, Wu S, et al. **Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks** WWW 2019. [paper](https://dl.acm.org/citation.cfm?doid=3308558.3313444).
+
+69. Zhang, Chris, et al. **Graph HyperNetworks for Neural Architecture Search.** ICLR 2019. [paper](https://openreview.net/pdf?id=rkgW0oA9FX).
+
+70. Chen, Zhengdao, et al. **Supervised Community Detection with Line Graph Neural Networks.** ICLR 2019. [paper](https://openreview.net/pdf?id=H1g0Z3A9Fm).
+
+71. Maron, Haggai, et al. **Invariant and Equivariant Graph Networks.** ICLR 2019. [paper](https://openreview.net/pdf?id=Syx72jC9tm).
+
+72. Gulcehre, Caglar, et al. **Hyperbolic Attention Networks.** ICLR, 2019. [paper](https://openreview.net/pdf?id=rJxHsjRqFQ).
+
+73. Prates, Marcelo O. R., et al. **Learning to Solve NP-Complete Problems -- A Graph Neural Network for the Decision TSP.** AAAI, 2019. [paper](https://arxiv.org/pdf/1809.02721.pdf).
+
+74. Liu, Ziqi, et al. **GeniePath: Graph Neural Networks with Adaptive Receptive Paths.** AAAI, 2019. [paper](https://arxiv.org/pdf/1802.00910.pdf).
 
 
 ## ArXiv papers:
@@ -311,6 +324,11 @@ Contributed by Allen Bluce, If there is something wrong or GNN-related issue, we
 38. Sbastien Lerique, Jacob Levy Abitbol, and Mrton Karsai. **Joint embedding of structure and features via graph convolutional networks**. arXiv 2019.  [paper](https://arxiv.org/pdf/1905.08636.pdf).
 
 39. Li G, Müller M, Thabet A, et al. **Can GCNs Go as Deep as CNNs?**. arXiv 2019. [paper](https://arxiv.org/pdf/1904.03751.pdf).
+
+40. Ohue M, Ii R, Yanagisawa K, et al. **Molecular activity prediction using graph convolutional deep neural network considering distance on a molecular graph**. arXiv 2019. [paper](https://arxiv.org/pdf/1907.01103.pdf).
+
+41. Gao X, Xiong H, Frossard P. **iPool--Information-based Pooling in Hierarchical Graph Neural Networks**. arXiv 2019. [paper](https://arxiv.org/pdf/1907.00832.pdf).
+
 
 
 
