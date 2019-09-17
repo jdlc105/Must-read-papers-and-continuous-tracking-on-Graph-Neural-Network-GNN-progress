@@ -8,7 +8,7 @@ Contributed by Bentian Li(at NUAA), If there is something wrong or GNN-related i
 
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention network, Graph auto-encoder,...***
 
-***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (by the date 09 May 2019).*** Update: 1, 065 times (by the date 20 May 2019).*** Update: 1, 106 times (by the date 27 May 2019).*** Update: 1, 227 times (by the date 19 June 2019), Update: 1, 377 times (by the date 8 July 2019)***Update: 1, 678 times (by the date 17 Sept. 2019)***
+***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (by the date 09 May 2019).*** Update: 1, 065 times (by the date 20 May 2019); Update: 1, 106 times (by the date 27 May 2019); Update: 1, 227 times (by the date 19 June 2019); Update: 1, 377 times (by the date 8 July 2019); ***Update: 1, 678 times (by the date 17 Sept. 2019)***
 
 
 ***Thanks to so many developers and scientists in Github for giving me so many stars and support！！！ I will continue to make this project better.***
