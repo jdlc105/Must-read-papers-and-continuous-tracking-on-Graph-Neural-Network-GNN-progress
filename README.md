@@ -96,7 +96,6 @@ Contributed by Bentian Li(at NUAA), If there is something wrong or GNN-related i
 
 26. Spier N, Nekolla S, Rupprecht C, et al. **Classification of Polar Maps from Cardiac Perfusion Imaging with Graph-Convolutional Neural Networks**. Scientific reports, 2019. [paper](https://www_nature.gg363.site/articles/s41598-019-43951-8)
 
-27. Hong Y, Kim J, Chen G, et al. **Longitudinal Prediction of Infant Diffusion MRI Data via Graph Convolutional Adversarial Networks**. IEEE transactions on medical imaging, 2019. [paper](https://ieeexplore_ieee.gg363.site/abstract/document/8691605/)
 
 
 ## Conference papers:
