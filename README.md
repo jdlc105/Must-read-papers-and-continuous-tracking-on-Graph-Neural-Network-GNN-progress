@@ -15,7 +15,7 @@ Contributed by Bentian Li(at NUAA), If there is something wrong or GNN-related i
 
 ***Project Start time: 11 Dec 2018, Latest updated time: 17 Sept. 2019***
  
- ***More papers about GCN models and their applications will come from NeurIPS2019 .... We are waiting for the paper to be released.***
+ ***More papers about GNN models and their applications will come from NeurIPS2019 .... We are waiting for the paper to be released.***
 
 
 ## Survey papers:
