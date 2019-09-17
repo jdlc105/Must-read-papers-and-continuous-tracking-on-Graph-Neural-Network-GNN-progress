@@ -88,6 +88,15 @@ Contributed by Bentian Li(at NUAA), If there is something wrong or GNN-related i
 
 22. Khodayar M, Mohammadi S, Khodayar M E, et al. **Convolutional Graph Autoencoder: A Generative Deep Neural Network for Probabilistic Spatio-temporal Solar Irradiance Forecasting**. IEEE Transactions on Sustainable Energy, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8663347)
 
+23. Zhang Q, Chang J, Meng G, et al.  **Learning graph structure via graph convolutional networks**. Pattern Recognition, 2019. [paper](https://www.sciencedirect.com/science/article/pii/S0031320319302432)
+
+24. Xuan P, Pan S, Zhang T, et al. **Graph Convolutional Network and Convolutional Neural Network Based Method for Predicting lncRNA-Disease Associations**. Cells, 2019. [paper](https://www_mdpi.gg363.site/2073-4409/8/9/1012)
+
+25. Sun M, Zhao S, Gilvary C, et al. **Graph convolutional networks for computational drug development and discovery**. Briefings in bioinformatics, 2019. [paper](https://academic_oup.gg363.site/)
+
+26. Spier N, Nekolla S, Rupprecht C, et al. **Classification of Polar Maps from Cardiac Perfusion Imaging with Graph-Convolutional Neural Networks**. Scientific reports, 2019. [paper](https://www_nature.gg363.site/articles/s41598-019-43951-8)
+
+27. Hong Y, Kim J, Chen G, et al. **Longitudinal Prediction of Infant Diffusion MRI Data via Graph Convolutional Adversarial Networks**. IEEE transactions on medical imaging, 2019. [paper](https://ieeexplore_ieee.gg363.site/abstract/document/8691605/)
 
 
 ## Conference papers:
