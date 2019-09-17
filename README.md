@@ -242,51 +242,51 @@ Contributed by Bentian Li(at NUAA), If there is something wrong or GNN-related i
 
 75. Keriven N, Peyré G. **Universal invariant and equivariant graph neural networks**. NeurIPS, 2019. [paper](https://arxiv.gg363.site/abs/1905.04943).
 
-76. Qi Liu, Maximilian Nickel, Douwe Kiela. **Hyperbolic Graph Neural Networks**. NeurIPS, 2019. The paper is not yet available.
+76. Qi Liu, et al. **Hyperbolic Graph Neural Networks**. NeurIPS, 2019. The paper is not yet available.
 
-77. Zhitao Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec. **GNNExplainer: Generating Explanations for Graph Neural Networks**. NeurIPS, 2019. The paper is not yet available.
+77. Zhitao Ying, et al. **GNNExplainer: Generating Explanations for Graph Neural Networks**. NeurIPS, 2019. The paper is not yet available.
 
-78. Yaqin Zhou, Shangqing Liu, Jingkai Siow, Xiaoning Du, Yang Liu. **Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks**. NeurIPS, 2019. The paper is not yet available.
+78. Yaqin Zhou, et al. **Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks**. NeurIPS, 2019. The paper is not yet available.
 
-79. Ehsan Hajiramezanali, Arman Hasanzadeh, Krishna Narayanan, Nick Duffield, Mingyuan Zhou, Xiaoning Qian. **Variational Graph Recurrent Neural Networks**. NeurIPS, 2019. The paper is not yet available.
+79. Ehsan Hajiramezanali, et al. **Variational Graph Recurrent Neural Networks**. NeurIPS, 2019. The paper is not yet available.
 
-80. Sitao Luan (McGill University, Mila) · Mingde Zhao (Mila & McGill University) · Xiao-Wen Chang (McGill University) · Doina Precup (McGill University / Mila / DeepMind Montreal). **Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks**. NeurIPS, 2019. The paper is not yet available.
+80. Sitao Luan, et al. **Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks**. NeurIPS, 2019. The paper is not yet available.
 
-81. Difan Zou (University of California, Los Angeles) · Ziniu Hu (UCLA) · Yewen Wang (UCLA) · Song Jiang (University of California, Los Angeles) · Yizhou Sun (UCLA) · Quanquan Gu (UCLA). **Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks**. NeurIPS, 2019. The paper is not yet available.
+81. Difan Zou, et al. **Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks**. NeurIPS, 2019. The paper is not yet available.
 
-82. Seongjun Yun (Korea university) · Minbyul Jeong (Korea university) · Raehyun Kim (Korea university) · Jaewoo Kang (Korea University) · Hyunwoo Kim (Korea University). **Graph Transformer Networks**. NeurIPS, 2019. The paper is not yet available.
+82. Seongjun Yun, et al. **Graph Transformer Networks**. NeurIPS, 2019. The paper is not yet available.
 
-83. Andrei Nicolicioiu (Bitdefender) · Iulia Duta (Bitdefender) · Marius Leordeanu (Institute of Mathematics of the Romanian Academy). **Recurrent Space-time Graph Neural Networks**. NeurIPS, 2019. The paper is not yet available.
+83. Andrei Nicolicioiu, et al. **Recurrent Space-time Graph Neural Networks**. NeurIPS, 2019. The paper is not yet available.
 
-84. Nima Dehmamy (Northeastern University) · Albert-Laszlo Barabasi (Northeastern University) · Rose Yu (Northeastern University).**Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology**. NeurIPS, 2019. The paper is not yet available.
+84. Nima Dehmamy, et al. **Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology**. NeurIPS, 2019. The paper is not yet available.
 
-85. Maxime Gasse (Polytechnique Montréal) · Didier Chetelat (Polytechnique Montreal) · Nicola Ferroni (University of Bologna) · Laurent Charlin (MILA / U.Montreal) · Andrea Lodi (École Polytechnique Montréal).**Exact Combinatorial Optimization with Graph Convolutional Neural Networks**. NeurIPS, 2019. The paper is not yet available.
+85. Maxime Gasse, et al. **Exact Combinatorial Optimization with Graph Convolutional Neural Networks**. NeurIPS, 2019. The paper is not yet available.
 
-86. Zhengdao Chen (New York University) · Soledad Villar (New York University) · Lei Chen (New York University) · Joan Bruna (NYU).**On the equivalence between graph isomorphism testing and function approximation with GNNs**. NeurIPS, 2019. The paper is not yet available.
+86. Zhengdao Chen, et al. **On the equivalence between graph isomorphism testing and function approximation with GNNs**. NeurIPS, 2019. The paper is not yet available.
 
-87. Vineet Kosaraju (Stanford University) · Amir Sadeghian (Stanford University) · Roberto Martín-Martín (Stanford University) · Ian Reid (University of Adelaide) · Hamid Rezatofighi (Stanford University // University of Adelaide) · Silvio Savarese (Stanford University). **Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks**. NeurIPS, 2019. The paper is not yet available.
+87. Vineet Kosaraju, et al. **Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks**. NeurIPS, 2019. The paper is not yet available.
 
-88. Carl Yang (University of Illinois, Urbana Champaign) · Peiye Zhuang (UIUC) · Wenhan Shi (UIUC) · Alan Luu (UIUC) · Pan Li (Stanford). **Conditional Structure Generation through Graph Variational Generative Adversarial Nets**. NeurIPS, 2019. The paper is not yet available.
+88. Carl Yang, et al.**Conditional Structure Generation through Graph Variational Generative Adversarial Nets**. NeurIPS, 2019. The paper is not yet available.
 
-89. Naganand Yadati (Indian Institute of Science) · Madhav Nimishakavi (Indian Institute of Science) · Prateek Yadav (Indian Institute of Science) · Vikram Nitin (Indian Institute of Science) · Anand Louis (Indian Institute of Science, Bengaluru) · Partha Talukdar (Indian Institute of Science, Bangalore). **HyperGCN: A New Method For Training Graph Convolutional Networks on Hypergraphs**. NeurIPS, 2019. The paper is not yet available.
+89. Naganand Yadati, et al.**HyperGCN: A New Method For Training Graph Convolutional Networks on Hypergraphs**. NeurIPS, 2019. The paper is not yet available.
 
-90. Haggai Maron (NVIDIA Research) · Heli Ben-Hamu (Weizmann Institute of Science) · Hadar Serviansky (Weizmann Institute of Sciences) · Yaron Lipman (Weizmann Institute of Science). **Provably Powerful Graph Networks**. NeurIPS, 2019. The paper is not yet available.
+90. Haggai Maron, et al.**Provably Powerful Graph Networks**. NeurIPS, 2019. The paper is not yet available.
 
-91. Eliya Nachmani (Tel Aviv University and Facebook AI Research) · Lior Wolf (Facebook AI Research)). **Hyper-Graph-Network Decoders for Block Codes**. NeurIPS, 2019. The paper is not yet available.
+91. Eliya Nachmani, et al.**Hyper-Graph-Network Decoders for Block Codes**. NeurIPS, 2019. The paper is not yet available.
 
-92. Hanjun Dai (Georgia Tech) · Yujia Li (DeepMind) · Chenglong Wang (University of Washington) · Rishabh Singh (Google Brain) · Po-Sen Huang (DeepMind) · Pushmeet Kohli (DeepMind). **Learning Transferable Graph Exploration**. NeurIPS, 2019. The paper is not yet available.
+92. Hanjun Dai, et al.**Learning Transferable Graph Exploration**. NeurIPS, 2019. The paper is not yet available.
 
-93. Ryoma Sato (Kyoto University) · Makoto Yamada (Kyoto University/RIKEN AIP) · Hisashi Kashima (Kyoto University/RIKEN Center for AIP).**Approximation Ratios of Graph Neural Networks for Combinatorial Problems**. NeurIPS, 2019. The paper is not yet available.
+93. Ryoma Sato, et al.**Approximation Ratios of Graph Neural Networks for Combinatorial Problems**. NeurIPS, 2019. The paper is not yet available.
 
-94. Boris Knyazev (University of Guelph) · Graham W Taylor (University of Guelph) · Mohamed Amer (RobustAI). **Understanding attention in graph neural networks**. NeurIPS, 2019. The paper is not yet available.
+94. Boris Knyazev, et al.**Understanding attention in graph neural networks**. NeurIPS, 2019. The paper is not yet available.
 
-95. Renjie Liao (University of Toronto) · Yujia Li (DeepMind) · Yang Song (Stanford University) · Shenlong Wang (University of Toronto) · Will Hamilton (McGill) · David Duvenaud (University of Toronto) · Raquel Urtasun (Uber ATG) · Richard Zemel (Vector Institute/University of Toronto).**Efficient Graph Generation with Graph Recurrent Attention Networks**. NeurIPS, 2019. The paper is not yet available.
+95. Renjie Liao, et al.**Efficient Graph Generation with Graph Recurrent Attention Networks**. NeurIPS, 2019. The paper is not yet available.
 
-96. Bryan Wilder (Harvard University) · Eric Ewing (University of Southern California) · Bistra Dilkina (University of Southern California) · Milind Tambe (USC). **End to end learning and optimization on graphs**. NeurIPS, 2019. The paper is not yet available.
+96. Bryan Wilder, et al.**End to end learning and optimization on graphs**. NeurIPS, 2019. The paper is not yet available.
 
-97. Simon Du (Institute for Advanced Study) · Kangcheng Hou (Zhejiang University) · Russ Salakhutdinov (Carnegie Mellon University) · Barnabas Poczos (Carnegie Mellon University) · Ruosong Wang (Carnegie Mellon University) · Keyulu Xu (MIT).**Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels**. NeurIPS, 2019. The paper is not yet available.
+97. Simon Du, et al.**Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels**. NeurIPS, 2019. The paper is not yet available.
 
-98. W. O. K. Asiri Suranga Wijesinghe (The Australian National University) · Qing Wang (Australian National University). **DFNets: Spectral CNNs for Graphs with Feedback-looped Filters**. NeurIPS, 2019. The paper is not yet available.
+98. W. O. K. Asiri Suranga Wijesinghe, et al. **DFNets: Spectral CNNs for Graphs with Feedback-looped Filters**. NeurIPS, 2019. The paper is not yet available.
 
 
 
