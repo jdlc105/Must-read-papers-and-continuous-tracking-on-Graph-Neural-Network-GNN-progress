@@ -386,6 +386,8 @@ Contributed by Bentian Li(at NUAA), If there is something wrong or GNN-related i
 
 41. Gao X, Xiong H, Frossard P. **iPool--Information-based Pooling in Hierarchical Graph Neural Networks**. arXiv 2019. [paper](https://arxiv.org/pdf/1907.00832.pdf).
 
+42. Zhou K, Song Q, Huang X, et al. **Auto-GNN: Neural Architecture Search of Graph Neural Networks**. arXiv 2019.  [paper](https://arxiv.org/pdf/1909.03184.pdf).
+
 
 
 
