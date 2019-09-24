@@ -4,7 +4,7 @@ Many important real-world applications and questions come in the form of graphs,
 
 This project focuses on GNN, lists relevant must-read papers and keeps track of progress.  We look forward to promoting this direction and providing some help to researchers in this direction.
 
-Contributed by Bentian Li(at NUAA), If there is something wrong or GNN-related issue, welcome to contact me via the email (Address: jdlc105@qq.com, lbtjackbluce@gmail.com)
+Contributed by Allen Bluce(Bentian Li at NUAA), If there is something wrong or GNN-related issue, welcome to contact me via the email (Address: jdlc105@qq.com, lbtjackbluce@gmail.com)
 
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention network, Graph auto-encoder,...***
 
