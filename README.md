@@ -13,9 +13,9 @@ Contributed by Bentian Li(at NUAA), If there is something wrong or GNN-related i
 
 ***Thanks to so many developers and scientists in Github for giving me so many stars and support！！！ I will continue to make this project better.***
 
-***Project Start time: 11 Dec 2018, Latest updated time: 17 Sept. 2019***
+***Project Start time: 11 Dec 2018, Latest updated time: 24 Sept. 2019***
  
- ***More papers about GNN models and their applications will come from NeurIPS2019 .... We are waiting for the paper to be released.***
+ ***More papers about GNN models and their applications will come from AAAI2020 .... We are waiting for the paper to be released.***
 
 
 ## Survey papers:
@@ -295,6 +295,50 @@ Contributed by Bentian Li(at NUAA), If there is something wrong or GNN-related i
 97. Simon Du, et al.**Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels**. NeurIPS, 2019. The paper is not yet available.
 
 98. W. O. K. Asiri Suranga Wijesinghe, et al. **DFNets: Spectral CNNs for Graphs with Feedback-looped Filters**. NeurIPS, 2019. The paper is not yet available.
+
+99. Dong Wook Shu, et al.**3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions** ICCV 2019. [paper](https://arxiv.org/abs/1905.06292) 
+
+100. Yujun Cai, et al. **Exploiting Spatial-temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks** ICCV 2019. [paper](https://cse.buffalo.edu/~jsyuan/papers/2019/Exploiting_Spatial-temporal_Relationships_for_3D_Pose_Estimation_via_Graph_Convolutional_Networks.pdf) 
+
+101. Runhao Zeng, et al. **Graph Convolutional Networks for Temporal Action Localization** ICCV 2019. [paper](https://arxiv.org/abs/1909.03252) 
+
+102. Yin Bi, et al. **Graph-Based Object Classification for Neuromorphic Vision Sensing** ICCV 2019. [paper](https://arxiv.org/abs/1908.06648) 
+
+103.Tianshui Chen, et al. **Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition**ICCV 2019. [paper](https://arxiv.org/abs/1908.07325)
+
+104. Linjie Li, et al. **Relation-Aware Graph Attention Network for Visual Question Answering**ICCV 2019. [paper](https://arxiv.org/abs/1903.12314)
+
+105. Jiwoong Park, et al. **Symmetric Graph Convolutional Autoencoder for Unsupervised Graph Representation Learning**ICCV 2019. [paper](https://arxiv.org/abs/1908.02441)
+
+106. Runzhong Wang, et al. **Learning Combinatorial Embedding Networks for Deep Graph Matching**ICCV 2019. [paper](https://arxiv.org/abs/1904.00597)
+
+107. Zhiqiang Tao, et al. **Adversarial Graph Embedding for Ensemble Clustering**IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0494.pdf)
+
+108. Xiaotong Zhang, et al. **Attributed Graph Clustering via Adaptive Graph Convolution**IJCAI 2019. [paper](https://arxiv.org/abs/1906.01210)
+
+109. Jianwen Jiang, et al. **Dynamic Hypergraph Neural Networks**IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0366.pdf)
+
+110. Hogun Park, et al. **Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks**IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0447.pdf)
+
+111. Hao Peng, et al. **Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks**IJCAI 2019. [paper](https://arxiv.org/abs/1906.04580)
+
+112. Chengfeng Xu, et al. **Graph Contextualized Self-Attention Network for Session-based Recommendation**IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0547.pdf)
+
+113. Ruiqing Xu, et al. **Graph Convolutional Network Hashing for Cross-Modal Retrieval**IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0138.pdf)
+
+114. Bingbing Xu, et al. **Graph Convolutional Networks using Heat Kernel for Semi-supervised Learning**IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0267.pdf)
+
+115. Zonghan Wu, et al. **Graph WaveNet for Deep Spatial-Temporal Graph Modeling**IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0264.pdf)
+
+116. Fenyu Hu, et al. **Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification**IJCAI 2019. [paper](https://arxiv.org/abs/1902.06667)
+
+117. Li Zheng, et al. **AddGraph: Anomaly Detection in Dynamic Graph Using Attention-based Temporal GCN**IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0614.pdf)
+
+118. Liang Yang, et al. **Dual Self-Paced Graph Convolutional Network: Towards Reducing Attribute Distortions Induced by Topology**IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0564.pdf)
+
+119. Liang Yang, et al. **Masked Graph Convolutional Network**IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0565.pdf)
+
+120. Xiaofeng Xu, et al. **Learning Image-Specific Attributes by Hyperbolic Neighborhood Graph Propagation**IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0554.pdf)
 
 
 
