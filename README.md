@@ -1,17 +1,17 @@
-# Must-read papers and continuous tracking on Graph Neural Network(GNN) progress
+# Must-read papers and continuous track on Graph Neural Network(GNN) progress
 
 Many important real-world applications and questions come in the form of graphs, such as social network, protein-protein interaction network, brain network, chemical molecular graph and 3D point cloud. Therefore, driven by interdisciplinary research, the neural network model for graph data-oriented has become an emerging research hotspot. Among them, two of the three pioneers of deep learning, Professor ***Yann LeCun (2018 Turing Award Winner)***, Professor ***Yoshua Bengio (2018 Turing Award Winner)*** and famous Professor ***Jure Leskovec*** from Stanford University AI lab also participated in it.
 
 This project focuses on GNN, lists relevant must-read papers and keeps track of progress.  We look forward to promoting this direction and providing some help to researchers in this direction.
 
-Contributed by Allen Bluce(Bentian Li at NUAA), If there is something wrong or GNN-related issue, welcome to contact me via the email (Address: jdlc105@qq.com, lbtjackbluce@gmail.com)
+Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA, If there is something wrong or GNN-related issue, welcome to send email (Address: jdlc105@qq.com, lbtjackbluce@gmail.com).
 
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention network, Graph auto-encoder,...***
 
 ***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (by the date 09 May 2019).*** Update: 1, 065 times (by the date 20 May 2019); Update: 1, 106 times (by the date 27 May 2019); Update: 1, 227 times (by the date 19 June 2019); Update: 1, 377 times (by the date 8 July 2019); ***Update: 1, 678 times (by the date 17 Sept. 2019)***
 
 
-***Thanks to so many developers and scientists in Github for giving me so many stars and support！！！ I will continue to make this project better.***
+***Thanks to so many developers and scientists on Github for giving me so many stars and supports！！！ I will continue to make this project better.***
 
 ***Project Start time: 11 Dec 2018, Latest updated time: 24 Sept. 2019***
  
