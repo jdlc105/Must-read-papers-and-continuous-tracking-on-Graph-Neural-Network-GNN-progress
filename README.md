@@ -485,6 +485,14 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA, If there 
 
   Source: [github](https://github.com/facebookresearch/PyTorch-BigGraph) [paper](https://arxiv.org/abs/1903.12287) 
   
+7. **Angel**
+
+  Angel is developed and maintained by Tencent Inc.
+  
+  Initiation time:2019
+  
+  Source: [github](https://github.com/Angel-ML/angel)
+  
 
 
 ## Appetizer for you：Art Exhibition in the Ultra-High Dimensional Network/Graph Structured Space
