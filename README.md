@@ -8,7 +8,7 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA, If there 
 
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention network, Graph auto-encoder,...***
 
-***GNN and its variants are an emerging and powerful neural network approach. Its application is no longer limited to the original field, which has flourished in many other areas, such as Data Visualization, Image Processing, NLP, Recommendation System, Computer Vision, Bioinformatics, Chemical informatics, Drug Development and Discovery, Smart Transportation***
+***GNN and its variants are an emerging and powerful neural network approach. Its application is no longer limited to the original field, which has flourished in many other areas, such as Data Visualization, Image Processing, NLP, Recommendation System, Computer Vision, Bioinformatics, Chemical informatics, Drug Development and Discovery, Smart Transportation.***
 
 ***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (by the date 09 May 2019).*** Update: 1, 065 times (by the date 20 May 2019); Update: 1, 106 times (by the date 27 May 2019); Update: 1, 227 times (by the date 19 June 2019); Update: 1, 377 times (by the date 8 July 2019); Update: 1, 678 times (by the date 17 Sept. 2019); ***Update: 1, 944 times (by the date 29 Oct. 2019)***
 
