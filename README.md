@@ -13,7 +13,7 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA, If there 
 ***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (by the date 09 May 2019).*** Update: 1, 065 times (by the date 20 May 2019); Update: 1, 106 times (by the date 27 May 2019); Update: 1, 227 times (by the date 19 June 2019); Update: 1, 377 times (by the date 8 July 2019); Update: 1, 678 times (by the date 17 Sept. 2019); ***Update: 1, 944 times (by the date 29 Oct. 2019)***
 
 
-***Thanks to so many developers and scientists on Github for giving me so many stars and supports！！！ We will continue to make this project better.***
+***Thanks for giving us so many stars and supports from many developers and scientists on Github！！！ We will continue to make this project better.***
 
 ***Project Start time: 11 Dec 2018, Latest updated time: 29 Oct. 2019***
  
@@ -344,6 +344,8 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA, If there 
 
 120. Xiaofeng Xu, et al. **Learning Image-Specific Attributes by Hyperbolic Neighborhood Graph Propagation**. IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0554.pdf)
 
+121. Li G, Müller M, Thabet A, et al. **Can GCNs Go as Deep as CNNs?**. ICCV 2019. [paper](https://arxiv.org/pdf/1904.03751.pdf).
+
 
 
 ## ArXiv papers:
@@ -428,7 +430,7 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA, If there 
 
 38. Sbastien Lerique, Jacob Levy Abitbol, and Mrton Karsai. **Joint embedding of structure and features via graph convolutional networks**. arXiv 2019.  [paper](https://arxiv.org/pdf/1905.08636.pdf).
 
-39. Li G, Müller M, Thabet A, et al. **Can GCNs Go as Deep as CNNs?**. arXiv 2019. [paper](https://arxiv.org/pdf/1904.03751.pdf).
+39. Chen D, Lin Y, Li W, et al. **Measuring and Relieving the Over-smoothing Problem for Graph Neural Networks from the Topological View**. arXiv 2019. [paper](https://arxiv.gg363.site/abs/1909.03211)
 
 40. Ohue M, Ii R, Yanagisawa K, et al. **Molecular activity prediction using graph convolutional deep neural network considering distance on a molecular graph**. arXiv 2019. [paper](https://arxiv.org/pdf/1907.01103.pdf).
 
