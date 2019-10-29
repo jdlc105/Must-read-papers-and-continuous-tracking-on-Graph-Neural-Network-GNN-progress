@@ -8,12 +8,12 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA, If there 
 
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention network, Graph auto-encoder,...***
 
-***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (by the date 09 May 2019).*** Update: 1, 065 times (by the date 20 May 2019); Update: 1, 106 times (by the date 27 May 2019); Update: 1, 227 times (by the date 19 June 2019); Update: 1, 377 times (by the date 8 July 2019); ***Update: 1, 678 times (by the date 17 Sept. 2019)***
+***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (by the date 09 May 2019).*** Update: 1, 065 times (by the date 20 May 2019); Update: 1, 106 times (by the date 27 May 2019); Update: 1, 227 times (by the date 19 June 2019); Update: 1, 377 times (by the date 8 July 2019); Update: 1, 678 times (by the date 17 Sept. 2019); ***Update: 1, 944 times (by the date 29 Oct. 2019)***
 
 
-***Thanks to so many developers and scientists on Github for giving me so many stars and supports！！！ I will continue to make this project better.***
+***Thanks to so many developers and scientists on Github for giving me so many stars and supports！！！ We will continue to make this project better.***
 
-***Project Start time: 11 Dec 2018, Latest updated time: 24 Sept. 2019***
+***Project Start time: 11 Dec 2018, Latest updated time: 29 Oct. 2019***
  
  ***More papers about GNN models and their applications will come from AAAI2020 .... We are waiting for the paper to be released.***
 
@@ -95,6 +95,8 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA, If there 
 25. Sun M, Zhao S, Gilvary C, et al. **Graph convolutional networks for computational drug development and discovery**. Briefings in bioinformatics, 2019. [paper](https://academic_oup.gg363.site/)
 
 26. Spier N, Nekolla S, Rupprecht C, et al. **Classification of Polar Maps from Cardiac Perfusion Imaging with Graph-Convolutional Neural Networks**. Scientific reports, 2019. [paper](https://www_nature.gg363.site/articles/s41598-019-43951-8)
+
+27. Heyuan Shi, et al. **Hypergraph-Induced Convolutional Networks for Visual Classification**. IEEE Transactions on Neural Networks and Learning Systems, 2019. [paper](https://ieeexplore_ieee.gg363.site/abstract/document/8478794)
 
 
 
