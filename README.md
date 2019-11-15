@@ -499,7 +499,14 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA, If there 
   
   Source: [github](https://github.com/Angel-ML/angel)
   
+8. **Plato** --**NEW!**
 
+  Plato is developed and maintained by Tencent Inc.
+  
+  Initiation time:2019
+  
+  Source: [github](https://github.com/tencent/plato)
+  
 
 ## Appetizer for you：Art Exhibition in the Ultra-High Dimensional Network/Graph Structured Space
 
