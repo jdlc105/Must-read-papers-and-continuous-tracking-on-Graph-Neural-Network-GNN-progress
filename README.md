@@ -100,6 +100,11 @@ Contributed by Allen Bluce(Bentian Li at NUAA) and Yunxia Lin at NUAA, If there 
 
 27. Heyuan Shi, et al. **Hypergraph-Induced Convolutional Networks for Visual Classification**. IEEE Transactions on Neural Networks and Learning Systems, 2019. [paper](https://ieeexplore_ieee.gg363.site/abstract/document/8478794)
 
+28. S.Pan, et al. **Learning Graph Embedding With Adversarial Training Methods**. IEEE Transactions on Cybernetics, 2019. [paper](https://ieeexplore.ieee.org/document/8822591)
+
+29. D. Grattarola, et al. **Change Detection in Graph Streams by Learning Graph Embeddings on Constant-Curvature Manifolds**. IEEE Transactions on Neural Networks and Learning Systems. [paper](https://ieeexplore.ieee.org/document/8782142)
+
+
 
 
 ## Conference papers:
