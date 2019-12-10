@@ -4,7 +4,7 @@ Many important real-world applications and questions come in the form of graphs,
 
 This project focuses on GNN, lists relevant must-read papers and keeps track of progress.  We look forward to promoting this direction and providing some help to researchers in this direction.
 
-Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-related issue, welcome to send email (Address: jdlc105@qq.com, lbtjackbluce@gmail.com).
+Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is something wrong or GNN-related issue, welcome to send email (Address: jdlc105@qq.com, lbtjackbluce@gmail.com).
 
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention network, Graph auto-encoder,...***
 
@@ -350,6 +350,23 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 120. Xiaofeng Xu, et al. **Learning Image-Specific Attributes by Hyperbolic Neighborhood Graph Propagation**. IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0554.pdf)
 
 121. Li G, Müller M, Thabet A, et al. **Can GCNs Go as Deep as CNNs?**. ICCV 2019. [paper](https://arxiv.org/pdf/1904.03751.pdf).
+
+122. Park C, Lee C, Bahng H, et al. **STGRAT: A Spatio-Temporal Graph Attention Network for Traffic Forecasting**. AAAI 2020. [paper](https://arxiv.org/abs/1911.13181).
+
+123. Liu Y, Wang X, Wu S, et al. **Independence Promoted Graph Disentangled Networks**. AAAI 2020. [paper](https://arxiv.org/abs/1911.11430).
+
+123. Shi H, Fan H, Kwok J T. **Effective Decoding in Graph Auto-Encoder using Triadic Closure**. AAAI 2020. [paper](https://arxiv.org/pdf/1911.11322.pdf).
+
+124. Wang X, Wang R, Shi C, et al. **Multi-Component Graph Convolutional Collaborative Filtering**. AAAI 2020. [paper](https://arxiv.org/pdf/1911.10699.pdf).
+
+125. Su J, Beling P A, Guo R, et al. **Graph Convolution Networks for Probabilistic Modeling of Driving Acceleration**. AAAI 2020. [paper](https://arxiv.org/pdf/1911.09837.pdf).
+
+126. Claudio Gallicchio and Alessio Micheli. **Fast and Deep Graph Neural Networks**. AAAI 2020. [paper](https://arxiv.org/pdf/1911.08941.pdf).
+
+127. Peng W, Hong X, Chen H, et al. **Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching**. AAAI 2020. [paper](https://arxiv.org/pdf/1911.04131.pdf).
+
+128. Paliwal A, Loos S, Rabe M, et al. **Graph Representations for Higher-Order Logic and Theorem Proving**. AAAI 2020. [paper](https://arxiv.org/pdf/1905.10006.pdf).
+
 
 
 
