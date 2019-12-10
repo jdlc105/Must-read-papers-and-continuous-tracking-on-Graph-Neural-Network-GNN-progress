@@ -141,7 +141,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 16. Beck, Daniel Edward Robert, Gholamreza Haffari and Trevor Cohn. **Graph-to-Sequence Learning using Gated Graph Neural Networks.** ACL 2018. [paper](https://arxiv.org/pdf/1806.09835.pdf)
 
-17. Marcheggiani D , Bastings J , Titov I . **Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks**. NAACL 2018. [paper](https://arxiv.org/pdf/1804.08313.pdf)
+17. Yu B, Yin H, Zhu Z. **Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting**. IJCAI 2018. [paper](https://arxiv.xilesou.top/pdf/1709.04875.pdf)
 
 18. Chen J , Zhu J , Song L . **Stochastic Training of Graph Convolutional Networks with Variance Reduction**. ICML 2018. [paper](http://proceedings.mlr.press/v80/chen18p.html)
 
