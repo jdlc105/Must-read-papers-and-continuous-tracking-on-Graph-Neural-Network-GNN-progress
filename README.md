@@ -399,7 +399,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 144. Yuyu Zhang, et al. **Efficient Probabilistic Logic Reasoning with Graph Neural Networks**. ICLR 2020. [paper](https://openreview.net/pdf?id=rJg76kStwH)
 
-145. Amir hosein Khasahmadi, et al. **MEMORY-BASED GRAPH NETWORKS**. ICLR 2020. [paper](https://openreview.net/pdf?id=r1laNeBYPB)
+145. Amir hosein Khasahmadi, et al. **Memory-based graph networks**. ICLR 2020. [paper](https://openreview.net/pdf?id=r1laNeBYPB)
 
 
 ## ArXiv papers:
