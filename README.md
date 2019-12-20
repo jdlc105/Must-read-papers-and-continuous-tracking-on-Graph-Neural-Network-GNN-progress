@@ -367,7 +367,39 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 128. Paliwal A, Loos S, Rabe M, et al. **Graph Representations for Higher-Order Logic and Theorem Proving**. AAAI 2020. [paper](https://arxiv.org/pdf/1905.10006.pdf).
 
+129. Kenta Oono, et al. **Graph Neural Networks Exponentially Lose Expressive Power for Node Classification**. ICLR 2020. [paper](https://openreview.net/pdf?id=S1ldO2EFPr).
 
+130. Muhan Zhang, et al. **Inductive Matrix Completion Based on Graph Neural Networks**. ICLR 2020. [paper](https://openreview.net/pdf?id=ByxxgCEYDS).
+
+131. Pablo Barceló, et al. **The Logical Expressiveness of Graph Neural Networks**. ICLR 2020. [paper](https://openreview.net/pdf?id=r1lZ7AEKvB)
+
+132. Weihua Hu, et al. **Strategies for Pre-training Graph Neural Networks**. ICLR 2020. [paper](https://openreview.net/pdf?id=HJlWWJSFDH)
+
+133. Hongbin Pei, et al. **Geom-GCN: Geometric Graph Convolutional Networks**. ICLR 2020. [paper](https://openreview.net/pdf?id=S1e2agrFvS)
+
+134. Ze Ye, et al. **Curvature Graph Network**. ICLR 2020. [paper](https://openreview.net/pdf?id=BylEqnVFDB)
+
+135. Andreas Loukas, et al. **Curvature Graph Network**. ICLR 2020. [paper](https://openreview.net/forum?id=B1l2bp4YwS)
+
+136. Federico Errica, et al. **A Fair Comparison of Graph Neural Networks for Graph Classification**. ICLR 2020. [paper](https://openreview.net/pdf?id=HygDF6NFPB)
+
+137. Kai Zhang, et al. **Adaptive Structural Fingerprints for Graph Attention Networks**. ICLR 2020. [paper](https://openreview.net/pdf?id=BJxWx0NYPr)
+
+138. Shikhar Vashishth, et al. **Composition-based Multi-Relational Graph Convolutional Networks**. ICLR 2020. [paper](https://openreview.net/pdf?id=BylA_C4tPr)
+
+139. Jiayi Wei, et al. **LambdaNet: Probabilistic Type Inference using Graph Neural Networks**. ICLR 2020. [paper](https://openreview.net/pdf?id=Hkx6hANtwH)
+
+140. Jiechuan Jiang, et al. **Graph Convolutional Reinforcement Learning**. ICLR 2020. [paper](https://openreview.net/pdf?id=HkxdQkSYDB)
+
+141. Yifan Hou, et al. **Measuring and Improving the Use of Graph Information in Graph Neural Networks**. ICLR 2020. [paper](https://openreview.net/pdf?id=rkeIIkHKvS)
+
+142. Ruochi Zhang, et al. **Hyper-SAGNN: a self-attention based graph neural network for hypergraphs**. ICLR 2020. [paper](https://openreview.net/pdf?id=ryeHuJBtPH)
+
+143. Yu Rong, et al. **DropEdge: Towards Deep Graph Convolutional Networks on Node Classification**. ICLR 2020. [paper](https://openreview.net/pdf?id=Hkx1qkrKPr)
+
+144. Yuyu Zhang, et al. **Efficient Probabilistic Logic Reasoning with Graph Neural Networks**. ICLR 2020. [paper](https://openreview.net/pdf?id=rJg76kStwH)
+
+145. Amir hosein Khasahmadi, et al. **MEMORY-BASED GRAPH NETWORKS**. ICLR 2020. [paper](https://openreview.net/pdf?id=r1laNeBYPB)
 
 
 ## ArXiv papers:
