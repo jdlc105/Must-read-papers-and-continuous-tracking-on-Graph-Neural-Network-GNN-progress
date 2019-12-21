@@ -17,7 +17,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 ***Project Start time: 11 Dec 2018, Latest updated time: 9 Dec. 2019***
 
- ***More papers about GNN models and their applications will come from AAAI2020, ICLR2020 .... We are waiting for more paper to be released.***
+ ***New papers about GNN models and their applications have come from AAAI2020, ICLR2020 .... We are waiting for more paper to be released.***
 
 
 ## Survey papers:
