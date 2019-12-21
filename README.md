@@ -10,7 +10,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 ***GNN and its variants are an emerging and powerful neural network approach. Its application is no longer limited to the original field. It has flourished in many other areas, such as Data Visualization, Image Processing, NLP, Recommendation System, Computer Vision, Bioinformatics, Chemical informatics, Drug Development and Discovery, Smart Transportation.***
 
-***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); ***Update: 2,232 times (on 9 Dec. 2019)***
+***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); ***Update: 2, 232 times (on 9 Dec. 2019)***
 
 
 ***Thanks for giving us so many stars and supports from many developers and scientists on Github！！！ We will continue to make this project better.***
@@ -379,7 +379,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 134. Ze Ye, et al. **Curvature Graph Network**. ICLR 2020. [paper](https://openreview.net/pdf?id=BylEqnVFDB)
 
-135. Andreas Loukas, et al. **Curvature Graph Network**. ICLR 2020. [paper](https://openreview.net/forum?id=B1l2bp4YwS)
+135. Andreas Loukas, et al. **What graph neural networks cannot learn: depth vs width**. ICLR 2020. [paper](https://openreview.net/forum?id=B1l2bp4YwS)
 
 136. Federico Errica, et al. **A Fair Comparison of Graph Neural Networks for Graph Classification**. ICLR 2020. [paper](https://openreview.net/pdf?id=HygDF6NFPB)
 
