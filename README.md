@@ -569,6 +569,14 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
   
   Source: [github](https://github.com/PaddlePaddle/PGL)
   
+10. **OGB**--**NEW!** 
+
+  Open Graph Benchmark(OGB) is developed and maintained by Standford University.
+   
+  Initiation time:2019
+  
+  Source: [github](http://ogb.stanford.edu)
+  
 
 ## Appetizer for you：Art Exhibition in the Ultra-High Dimensional Network/Graph Structured Space
 
