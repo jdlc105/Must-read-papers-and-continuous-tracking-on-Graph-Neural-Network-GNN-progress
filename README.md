@@ -10,12 +10,12 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 ***GNN and its variants are an emerging and powerful neural network approach. Its application is no longer limited to the original field. It has flourished in many other areas, such as Data Visualization, Image Processing, NLP, Recommendation System, Computer Vision, Bioinformatics, Chemical informatics, Drug Development and Discovery, Smart Transportation.***
 
-***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); ***Update: 2, 232 times (on 9 Dec. 2019)***
+***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); ***Update: 2, 677 times (on 2 Feb. 2020).***
 
 
 ***Thanks for giving us so many stars and supports from many developers and scientists on Github！！！ We will continue to make this project better.***
 
-***Project Start time: 11 Dec 2018, Latest updated time: 9 Dec. 2019***
+***Project Start time: 11 Dec 2018, Latest updated time: 2 Feb. 2020***
 
  ***New papers about GNN models and their applications have come from AAAI2020, ICLR2020 .... We are waiting for more paper to be released.***
 
@@ -259,51 +259,51 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 75. Keriven N, Peyré G. **Universal invariant and equivariant graph neural networks**. NeurIPS, 2019. [paper](https://arxiv.gg363.site/abs/1905.04943).
 
-76. Qi Liu, et al. **Hyperbolic Graph Neural Networks**. NeurIPS, 2019. The paper is not yet available.
+76. Qi Liu, et al. **Hyperbolic Graph Neural Networks**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/9033-hyperbolic-graph-neural-networks.pdf).
 
-77. Zhitao Ying, et al. **GNNExplainer: Generating Explanations for Graph Neural Networks**. NeurIPS, 2019. The paper is not yet available.
+77. Zhitao Ying, et al. **GNNExplainer: Generating Explanations for Graph Neural Networks**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/9123-gnnexplainer-generating-explanations-for-graph-neural-networks.pdf).
 
-78. Yaqin Zhou, et al. **Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks**. NeurIPS, 2019. The paper is not yet available.
+78. Yaqin Zhou, et al. **Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/9209-devign-effective-vulnerability-identification-by-learning-comprehensive-program-semantics-via-graph-neural-networks.pdf).
 
-79. Ehsan Hajiramezanali, et al. **Variational Graph Recurrent Neural Networks**. NeurIPS, 2019. The paper is not yet available.
+79. Ehsan Hajiramezanali, et al. **Variational Graph Recurrent Neural Networks**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/9254-variational-graph-recurrent-neural-networks.pdf).
 
-80. Sitao Luan, et al. **Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks**. NeurIPS, 2019. The paper is not yet available.
+80. Sitao Luan, et al. **Break the Ceiling: Stronger Multi-scale Deep Graph Convolutional Networks**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/9276-break-the-ceiling-stronger-multi-scale-deep-graph-convolutional-networks.pdf).
 
-81. Difan Zou, et al. **Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks**. NeurIPS, 2019. The paper is not yet available.
+81. Difan Zou, et al. **Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/9303-layer-dependent-importance-sampling-for-training-deep-and-large-graph-convolutional-networks.pdf).
 
-82. Seongjun Yun, et al. **Graph Transformer Networks**. NeurIPS, 2019. The paper is not yet available.
+82. Seongjun Yun, et al. **Graph Transformer Networks**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/9367-graph-transformer-networks.pdf).
 
-83. Andrei Nicolicioiu, et al. **Recurrent Space-time Graph Neural Networks**. NeurIPS, 2019. The paper is not yet available.
+83. Andrei Nicolicioiu, et al. **Recurrent Space-time Graph Neural Networks**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/9444-recurrent-space-time-graph-neural-networks.pdf).
 
-84. Nima Dehmamy, et al. **Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology**. NeurIPS, 2019. The paper is not yet available.
+84. Nima Dehmamy, et al. **Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/9675-understanding-the-representation-power-of-graph-neural-networks-in-learning-graph-topology.pdf).
 
-85. Maxime Gasse, et al. **Exact Combinatorial Optimization with Graph Convolutional Neural Networks**. NeurIPS, 2019. The paper is not yet available.
+85. Maxime Gasse, et al. **Exact Combinatorial Optimization with Graph Convolutional Neural Networks**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/9690-exact-combinatorial-optimization-with-graph-convolutional-neural-networks.pdf).
 
-86. Zhengdao Chen, et al. **On the equivalence between graph isomorphism testing and function approximation with GNNs**. NeurIPS, 2019. The paper is not yet available.
+86. Zhengdao Chen, et al. **On the equivalence between graph isomorphism testing and function approximation with GNNs**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/9718-on-the-equivalence-between-graph-isomorphism-testing-and-function-approximation-with-gnns.pdf).
 
-87. Vineet Kosaraju, et al. **Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks**. NeurIPS, 2019. The paper is not yet available.
+87. Vineet Kosaraju, et al. **Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/8308-social-bigat-multimodal-trajectory-forecasting-using-bicycle-gan-and-graph-attention-networks.pdf).
 
-88. Carl Yang, et al.**Conditional Structure Generation through Graph Variational Generative Adversarial Nets**. NeurIPS, 2019. The paper is not yet available.
+88. Carl Yang, et al.**Conditional Structure Generation through Graph Variational Generative Adversarial Nets**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/8415-conditional-structure-generation-through-graph-variational-generative-adversarial-nets.pdf).
 
-89. Naganand Yadati, et al.**HyperGCN: A New Method For Training Graph Convolutional Networks on Hypergraphs**. NeurIPS, 2019. The paper is not yet available.
+89. Naganand Yadati, et al.**HyperGCN: A New Method For Training Graph Convolutional Networks on Hypergraphs**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/8430-hypergcn-a-new-method-for-training-graph-convolutional-networks-on-hypergraphs.pdf).
 
-90. Haggai Maron, et al.**Provably Powerful Graph Networks**. NeurIPS, 2019. The paper is not yet available.
+90. Haggai Maron, et al.**Provably Powerful Graph Networks**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/8488-provably-powerful-graph-networks.pdf).
 
-91. Eliya Nachmani, et al.**Hyper-Graph-Network Decoders for Block Codes**. NeurIPS, 2019. The paper is not yet available.
+91. Eliya Nachmani, et al.**Hyper-Graph-Network Decoders for Block Codes**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/8504-hyper-graph-network-decoders-for-block-codes.pdf).
 
-92. Hanjun Dai, et al.**Learning Transferable Graph Exploration**. NeurIPS, 2019. The paper is not yet available.
+92. Hanjun Dai, et al.**Learning Transferable Graph Exploration**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/8521-learning-transferable-graph-exploration.pdf).
 
-93. Ryoma Sato, et al.**Approximation Ratios of Graph Neural Networks for Combinatorial Problems**. NeurIPS, 2019. The paper is not yet available.
+93. Ryoma Sato, et al.**Approximation Ratios of Graph Neural Networks for Combinatorial Problems**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/8662-approximation-ratios-of-graph-neural-networks-for-combinatorial-problems.pdf).
 
 94. Boris Knyazev, et al.**Understanding attention in graph neural networks**. NeurIPS, 2019. The paper is not yet available.
 
-95. Renjie Liao, et al.**Efficient Graph Generation with Graph Recurrent Attention Networks**. NeurIPS, 2019. The paper is not yet available.
+95. Renjie Liao, et al.**Efficient Graph Generation with Graph Recurrent Attention Networks**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/8678-efficient-graph-generation-with-graph-recurrent-attention-networks.pdf).
 
-96. Bryan Wilder, et al.**End to end learning and optimization on graphs**. NeurIPS, 2019. The paper is not yet available.
+96. Bryan Wilder, et al.**End to end learning and optimization on graphs**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/8715-end-to-end-learning-and-optimization-on-graphs.pdf).
 
-97. Simon Du, et al.**Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels**. NeurIPS, 2019. The paper is not yet available.
+97. Simon Du, et al.**Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/8809-graph-neural-tangent-kernel-fusing-graph-neural-networks-with-graph-kernels.pdf).
 
-98. W. O. K. Asiri Suranga Wijesinghe, et al. **DFNets: Spectral CNNs for Graphs with Feedback-looped Filters**. NeurIPS, 2019. The paper is not yet available.
+98. W. O. K. Asiri Suranga Wijesinghe, et al. **DFNets: Spectral CNNs for Graphs with Feedback-looped Filters**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/8834-dfnets-spectral-cnns-for-graphs-with-feedback-looped-filters.pdf).
 
 99. Dong Wook Shu, et al.**3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions**. ICCV 2019. [paper](https://arxiv.org/abs/1905.06292) 
 
