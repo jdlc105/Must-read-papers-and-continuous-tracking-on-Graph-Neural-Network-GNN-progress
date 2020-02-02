@@ -295,7 +295,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 93. Ryoma Sato, et al.**Approximation Ratios of Graph Neural Networks for Combinatorial Problems**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/8662-approximation-ratios-of-graph-neural-networks-for-combinatorial-problems.pdf).
 
-94. Boris Knyazev, et al.**Understanding attention in graph neural networks**. NeurIPS, 2019. The paper is not yet available.
+94. Boris Knyazev, et al.**Understanding Attention and Generalization in Graph Neural Networks**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/8673-understanding-attention-and-generalization-in-graph-neural-networks.pdf).
 
 95. Renjie Liao, et al.**Efficient Graph Generation with Graph Recurrent Attention Networks**. NeurIPS, 2019. [paper](http://papers.nips.cc/paper/8678-efficient-graph-generation-with-graph-recurrent-attention-networks.pdf).
 
