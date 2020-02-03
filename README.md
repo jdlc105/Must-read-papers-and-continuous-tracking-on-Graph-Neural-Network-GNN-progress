@@ -102,9 +102,19 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 28. S.Pan, et al. **Learning Graph Embedding With Adversarial Training Methods**. IEEE Transactions on Cybernetics, 2019. [paper](https://ieeexplore.ieee.org/document/8822591)
 
-29. D. Grattarola, et al. **Change Detection in Graph Streams by Learning Graph Embeddings on Constant-Curvature Manifolds**. IEEE Transactions on Neural Networks and Learning Systems. [paper](https://ieeexplore.ieee.org/document/8782142)
+29. D. Grattarola, et al. **Change Detection in Graph Streams by Learning Graph Embeddings on Constant-Curvature Manifolds**. IEEE Transactions on Neural Networks and Learning Systems. 2019. [paper](https://ieeexplore.ieee.org/document/8782142)
 
+30. Kan Guo, et al. **Optimized Graph Convolution Recurrent Neural Network for Traffic Prediction**.  IEEE Transactions on Intelligent Transportation Systems. 2020. [paper](https://ieeexplore.ieee.org/document/8959420)
 
+31. Ruiz L, et al. **Invariance-preserving localized activation functions for graph neural networks**. IEEE Transactions on Signal Processing, 2020. [paper](https://ieeexplore.ieee.org/document/8911416)
+
+32.Li J, et al. **Neural Inductive Matrix Completion with Graph Convolutional Networks for miRNA-disease Association Prediction**. Bioinformatics, 2020. [paper](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz965/5697092)
+
+33. Bingzhi Chen, et al. **Label Co-occurrence Learning with Graph Convolutional Networks for Multi-label Chest X-ray Image Classification**. IEEE Journal of Biomedical and Health Informatics, 2020. [paper](https://ieeexplore.ieee.org/document/8961143)
+
+34. Kunjin Chen, et al. **Fault Location in Power Distribution Systems via Deep Graph Convolutional Networks**. IEEE Journal on Selected Areas in Communications, 2020. [paper](https://ieeexplore.ieee.org/document/8892483)
+
+35. Manessi, Franco, et al. **Dynamic graph convolutional networks**. PATTERN RECOGNITION, 2020. [paper](https://sciencedirect.xilesou.top/science/article/pii/S0031320319303036)
 
 
 ## Conference papers:
