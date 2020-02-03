@@ -108,7 +108,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 31. Ruiz L, et al. **Invariance-preserving localized activation functions for graph neural networks**. IEEE Transactions on Signal Processing, 2020. [paper](https://ieeexplore.ieee.org/document/8911416)
 
-32.Li J, et al. **Neural Inductive Matrix Completion with Graph Convolutional Networks for miRNA-disease Association Prediction**. Bioinformatics, 2020. [paper](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz965/5697092)
+32. Li J, et al. **Neural Inductive Matrix Completion with Graph Convolutional Networks for miRNA-disease Association Prediction**. Bioinformatics, 2020. [paper](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btz965/5697092)
 
 33. Bingzhi Chen, et al. **Label Co-occurrence Learning with Graph Convolutional Networks for Multi-label Chest X-ray Image Classification**. IEEE Journal of Biomedical and Health Informatics, 2020. [paper](https://ieeexplore.ieee.org/document/8961143)
 
