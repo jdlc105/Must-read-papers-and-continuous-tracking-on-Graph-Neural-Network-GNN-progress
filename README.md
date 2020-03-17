@@ -10,14 +10,15 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 ***GNN and its variants are an emerging and powerful neural network approach. Its application is no longer limited to the original field. It has flourished in many other areas, such as Data Visualization, Image Processing, NLP, Recommendation System, Computer Vision, Bioinformatics, Chemical informatics, Drug Development and Discovery, Smart Transportation.***
 
-***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); ***Update: 2, 677 times (on 2 Feb. 2020).***
+***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).***Update: 3, 018 times (on 17 March. 2020).***
+
 
 
 ***Thanks for giving us so many stars and supports from many developers and scientists on Github！！！ We will continue to make this project better.***
 
-***Project Start time: 11 Dec 2018, Latest updated time: 2 Feb. 2020***
+***Project Start time: 11 Dec 2018, Latest updated time: 17 March. 2020***
 
- ***New papers about GNN models and their applications have come from AAAI2020, ICLR2020 .... We are waiting for more paper to be released.***
+ ***New papers about GNN models and their applications have come from CVPR2020, WWW2020 .... We are waiting for more paper to be released.***
 
 
 ## Survey papers:
@@ -411,6 +412,24 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 145. Amir hosein Khasahmadi, et al. **Memory-based graph networks**. ICLR 2020. [paper](https://openreview.net/pdf?id=r1laNeBYPB)
 
+146. Jiangke Lin, et al. **Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks**. CVPR 2020. [paper](https://arxiv.org/pdf/2003.05653.pdf)
+
+147. Oytun Ulutan, et al. **VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions**. CVPR 2020. [paper](https://arxiv.org/pdf/2003.05541.pdf)
+
+148. Qiangeng Xu, et al. **Grid-GCN for Fast and Scalable Point Cloud Learning**. CVPR 2020. [paper](https://arxiv.org/pdf/1912.02984.pdf)
+
+149. Abduallah Mohamed and Kun Qian, **Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction**. CVPR 2020. [paper](https://arxiv.org/pdf/2002.11927.pdf)
+
+150. Kaihua Zhang, et al. **Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection**. CVPR 2020. [paper](https://arxiv.org/pdf/2003.06167.pdf)
+
+151. Jiaming Shen, et al. **TaxoExpan: Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network**. WWW 2020. [paper](https://arxiv.org/pdf/2001.09522.pdf)
+
+152. Deyu Bo, et al. **Structural Deep Clustering Network**. WWW 2020. [paper](https://arxiv.org/pdf/2002.01633.pdf)
+
+153. Xinyu Fu, et al. **MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding**. WWW 2020. [paper](https://arxiv.org/pdf/2002.01680.pdf)
+
+154. Man Wu, et al. **Unsupervised Domain Adaptive Graph Convolutional Networks**. WWW 2020. [paper](https://www.researchgate.net/publication/338844424_Unsupervised_Domain_Adaptive_Graph_Convolutional_Networks)
+
 
 ## ArXiv papers:
 
@@ -502,7 +521,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 42. Zhou K, Song Q, Huang X, et al. **Auto-GNN: Neural Architecture Search of Graph Neural Networks**. arXiv 2019.  [paper](https://arxiv.org/pdf/1909.03184.pdf).
 
-
+43. Vijay Prakash Dwivedi, et al. **Benchmarking Graph Neural Networks**. arXiv 2020.  [paper](https://arxiv.org/pdf/2003.00982.pdf).
 
 
 ## Open source platform on GNN
@@ -563,7 +582,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
   
   Source: [github](https://github.com/Angel-ML/angel)
   
-8. **Plato** --**NEW!**
+8. **Plato**
 
   Plato is developed and maintained by Tencent Inc.
   
@@ -571,7 +590,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
   
   Source: [github](https://github.com/tencent/plato)
   
- 9. **PGL** --**NEW!**
+ 9. **PGL**
 
   PGL is developed and maintained by Baidu Inc.
   
@@ -579,13 +598,21 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
   
   Source: [github](https://github.com/PaddlePaddle/PGL)
   
-10. **OGB**--**NEW!** 
+10. **OGB**
 
   Open Graph Benchmark(OGB) is developed and maintained by Standford University.
    
   Initiation time:2019
   
   Source: [github](http://ogb.stanford.edu)
+
+11. **Benchmarking GNNs**--**New**
+
+  Benchmarking GNNs is developed and maintained by Nanyang Technological University.
+   
+  Initiation time:2020
+  
+  Source: [github](https://github.com/graphdeeplearning/benchmarking-gnns)
   
 
 ## Appetizer for you：Art Exhibition in the Ultra-High Dimensional Network/Graph Structured Space
