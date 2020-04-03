@@ -618,7 +618,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
   
   Source: [github](https://github.com/graphdeeplearning/benchmarking-gnns)
 
-12. **Graph-Learn**
+12. **Graph-Learn**--**New**
 
   Graph-Learn is developed and maintained by Alibaba Group.
 
