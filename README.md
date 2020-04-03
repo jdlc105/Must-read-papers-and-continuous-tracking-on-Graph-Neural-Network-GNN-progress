@@ -412,23 +412,25 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 145. Amir hosein Khasahmadi, et al. **Memory-based graph networks**. ICLR 2020. [paper](https://openreview.net/pdf?id=r1laNeBYPB)
 
-146. Jiangke Lin, et al. **Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks**. CVPR 2020. [paper](https://arxiv.org/pdf/2003.05653.pdf)
+146. Zeng, Hanqing, et al. **GraphSAINT: Graph Sampling Based Inductive Learning Method.** ICLR 2020. [paper](https://arxiv.org/pdf/1907.04931.pdf)
 
-147. Oytun Ulutan, et al. **VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions**. CVPR 2020. [paper](https://arxiv.org/pdf/2003.05541.pdf)
+147. Jiangke Lin, et al. **Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks**. CVPR 2020. [paper](https://arxiv.org/pdf/2003.05653.pdf)
 
-148. Qiangeng Xu, et al. **Grid-GCN for Fast and Scalable Point Cloud Learning**. CVPR 2020. [paper](https://arxiv.org/pdf/1912.02984.pdf)
+148. Oytun Ulutan, et al. **VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions**. CVPR 2020. [paper](https://arxiv.org/pdf/2003.05541.pdf)
 
-149. Abduallah Mohamed and Kun Qian, **Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction**. CVPR 2020. [paper](https://arxiv.org/pdf/2002.11927.pdf)
+149. Qiangeng Xu, et al. **Grid-GCN for Fast and Scalable Point Cloud Learning**. CVPR 2020. [paper](https://arxiv.org/pdf/1912.02984.pdf)
 
-150. Kaihua Zhang, et al. **Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection**. CVPR 2020. [paper](https://arxiv.org/pdf/2003.06167.pdf)
+150. Abduallah Mohamed and Kun Qian, **Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction**. CVPR 2020. [paper](https://arxiv.org/pdf/2002.11927.pdf)
 
-151. Jiaming Shen, et al. **TaxoExpan: Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network**. WWW 2020. [paper](https://arxiv.org/pdf/2001.09522.pdf)
+151. Kaihua Zhang, et al. **Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection**. CVPR 2020. [paper](https://arxiv.org/pdf/2003.06167.pdf)
 
-152. Deyu Bo, et al. **Structural Deep Clustering Network**. WWW 2020. [paper](https://arxiv.org/pdf/2002.01633.pdf)
+152. Jiaming Shen, et al. **TaxoExpan: Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network**. WWW 2020. [paper](https://arxiv.org/pdf/2001.09522.pdf)
 
-153. Xinyu Fu, et al. **MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding**. WWW 2020. [paper](https://arxiv.org/pdf/2002.01680.pdf)
+153. Deyu Bo, et al. **Structural Deep Clustering Network**. WWW 2020. [paper](https://arxiv.org/pdf/2002.01633.pdf)
 
-154. Man Wu, et al. **Unsupervised Domain Adaptive Graph Convolutional Networks**. WWW 2020. [paper](https://www.researchgate.net/publication/338844424_Unsupervised_Domain_Adaptive_Graph_Convolutional_Networks)
+154. Xinyu Fu, et al. **MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding**. WWW 2020. [paper](https://arxiv.org/pdf/2002.01680.pdf)
+
+155. Man Wu, et al. **Unsupervised Domain Adaptive Graph Convolutional Networks**. WWW 2020. [paper](https://www.researchgate.net/publication/338844424_Unsupervised_Domain_Adaptive_Graph_Convolutional_Networks)
 
 
 ## ArXiv papers:
@@ -523,6 +525,8 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 43. Vijay Prakash Dwivedi, et al. **Benchmarking Graph Neural Networks**. arXiv 2020.  [paper](https://arxiv.org/pdf/2003.00982.pdf).
 
+44. Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung. **Universal Self-Attention Network for Graph Classification**. arXiv 2020.  [paper](https://arxiv.org/pdf/1909.11855.pdf)
+
 
 ## Open source platform on GNN
 
@@ -613,6 +617,14 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
   Initiation time:2020
   
   Source: [github](https://github.com/graphdeeplearning/benchmarking-gnns)
+
+12. **Graph-Learn**
+
+  Graph-Learn is developed and maintained by Alibaba Group.
+
+  Initiation time:2020
+
+  Source: [github](https://github.com/alibaba/graph-learn)
   
 
 ## Appetizer for you：Art Exhibition in the Ultra-High Dimensional Network/Graph Structured Space
