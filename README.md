@@ -4,26 +4,26 @@ Many important real-world applications and questions come in the form of graphs,
 
 This project focuses on GNN, lists relevant must-read papers and keeps track of progress.  We look forward to promoting this direction and providing some help to researchers in this direction.
 
-Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is something wrong or GNN-related issue, welcome to send email (Address: jdlc105@qq.com, lbtjackbluce@gmail.com).
+Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-related issue, welcome to send email (Address: jdlc105@qq.com, lbtjackbluce@gmail.com).
 
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention network, Graph auto-encoder, Graph convolutional reinforcement learning, Graph capsule neural network....***
 
 ***GNN and its variants are an emerging and powerful neural network approach. Its application is no longer limited to the original field. It has flourished in many other areas, such as Data Visualization, Image Processing, NLP, Recommendation System, Computer Vision, Bioinformatics, Chemical informatics, Drug Development and Discovery, Smart Transportation.***
 
-***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).***Update: 3, 018 times (on 17 March. 2020).***
+***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).Update: 3, 018 times (on 17 March. 2020). ***Update: 3,560 times (on 27 May. 2020).***
 
 
 
 ***Thanks for giving us so many stars and supports from many developers and scientists on Github！！！ We will continue to make this project better.***
 
-***Project Start time: 11 Dec 2018, Latest updated time: 17 March. 2020***
+***Project Start time: 11 Dec 2018, Latest updated time: 27 May. 2020***
 
- ***New papers about GNN models and their applications have come from CVPR2020, WWW2020 .... We are waiting for more paper to be released.***
+ ***New papers about GNN models and their applications have come from KDD2020, CVPR2020, WWW2020 .... We are waiting for more paper to be released.***
 
 
 ## Survey papers:
 
-1. Ziwei Zhang, Peng Cui, Wenwu Zhu, **Deep Learning on Graphs: A Survey**, ArXiv, 2018. [paper](https://arxiv.org/pdf/1812.04202.pdf).
+1. Ziwei Zhang, Peng Cui, Wenwu Zhu, **Deep Learning on Graphs: A Survey**, IEEE Transactions on Knowledge and Data Engineering, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9039675).
  
  ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig1.jpg)
  
@@ -35,7 +35,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
  
  **Some typical application of GNN[2] from Tsinghua University**.
  
- 3. Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu(Fellow,IEEE), **A Comprehensive Survey on Graph Neural Networks**, ArXiv, 2019. [paper](https://arxiv.org/pdf/1901.00596v1.pdf).
+ 3. Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu(Fellow,IEEE), **A Comprehensive Survey on Graph Neural Networks**, IEEE Transactions on Neural Networks and Learning Systems, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9046288).
  
  ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig5.jpg)
  
@@ -117,6 +117,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 35. Manessi, Franco, et al. **Dynamic graph convolutional networks**. PATTERN RECOGNITION, 2020. [paper](https://sciencedirect.xilesou.top/science/article/pii/S0031320319303036)
 
+36. Ruiz, Luana, et al. **Invariance-Preserving Localized Activation Functions for Graph Neural Networks**. IEEE TRANSACTIONS ON SIGNAL PROCESSING, 2020. [paper](https://ieeexplore.ieee.org/document/8911416)
 
 ## Conference papers:
 
@@ -431,6 +432,15 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 154. Xinyu Fu, et al. **MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding**. WWW 2020. [paper](https://arxiv.org/pdf/2002.01680.pdf)
 
 155. Man Wu, et al. **Unsupervised Domain Adaptive Graph Convolutional Networks**. WWW 2020. [paper](https://www.researchgate.net/publication/338844424_Unsupervised_Domain_Adaptive_Graph_Convolutional_Networks)
+
+156. Wei Jin, et al. **Graph Structure Learning for Robust Graph Neural Networks**. KDD 2020. [paper](https://arxiv.org/pdf/2005.10203.pdf), [code](https://github.com/ChandlerBang/Pro-GNN).
+
+157. Zonghan Wu, et al. **Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks**. KDD 2020. [paper](https://shiruipan.github.io/publication/kdd-2020-wu/kdd-2020-wu.pdf).
+
+158. Zhen Yang, et al. **Understanding Negative Sampling in Graph Representation Learning**. KDD 2020. [paper](https://arxiv.org/pdf/2005.09863.pdf).
+
+159. Menghan Wang, et al. **M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems**. KDD 2020. [paper](https://arxiv.org/pdf/2005.10110.pdf).
+
 
 
 ## ArXiv papers:
