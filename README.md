@@ -432,14 +432,21 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 155. Man Wu, et al. **Unsupervised Domain Adaptive Graph Convolutional Networks**. WWW 2020. [paper](https://www.researchgate.net/publication/338844424_Unsupervised_Domain_Adaptive_Graph_Convolutional_Networks)
 
-156. Wei Jin, et al. **Graph Structure Learning for Robust Graph Neural Networks**. KDD 2020. [paper](https://arxiv.org/pdf/2005.10203.pdf), [code](https://github.com/ChandlerBang/Pro-GNN).
+156. Yiwei Sun, et al. **Adversarial Attacks on Graph Neural Networks via Node Injections: A Hierarchical Reinforcement Learning Approach**. WWW 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380149)
 
-157. Zonghan Wu, et al. **Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks**. KDD 2020. [paper](https://shiruipan.github.io/publication/kdd-2020-wu/kdd-2020-wu.pdf).
+157. Xiaoyang Wang, et al. **Traffic Flow Prediction via Spatial Temporal Graph Neural Network**. WWW 2020. [paper](https://doi.org/10.1145/3366423.3380186)
 
-158. Zhen Yang, et al. **Understanding Negative Sampling in Graph Representation Learning**. KDD 2020. [paper](https://arxiv.org/pdf/2005.09863.pdf).
+158. Qiaoyu Tan, et al. **Learning to Hash with Graph Neural Networks for Recommender Systems**. WWW 2020. [paper](https://doi.org/10.1145/3366423.3380266)
 
-159. Menghan Wang, et al. **M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems**. KDD 2020. [paper](https://arxiv.org/pdf/2005.10110.pdf).
+159. Liang Qu, et al. **Continuous-Time Link Prediction via Temporal Dependent Graph Neural Network**. WWW 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380073)
 
+160. Wei Jin, et al. **Graph Structure Learning for Robust Graph Neural Networks**. KDD 2020. [paper](https://arxiv.org/pdf/2005.10203.pdf), [code](https://github.com/ChandlerBang/Pro-GNN).
+
+161. Zonghan Wu, et al. **Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks**. KDD 2020. [paper](https://shiruipan.github.io/publication/kdd-2020-wu/kdd-2020-wu.pdf).
+
+162. Zhen Yang, et al. **Understanding Negative Sampling in Graph Representation Learning**. KDD 2020. [paper](https://arxiv.org/pdf/2005.09863.pdf).
+
+163. Menghan Wang, et al. **M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems**. KDD 2020. [paper](https://arxiv.org/pdf/2005.10110.pdf).
 
 
 ## ArXiv papers:
