@@ -24,25 +24,12 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 ## Survey papers:
 
 1. Ziwei Zhang, Peng Cui, Wenwu Zhu, **Deep Learning on Graphs: A Survey**, IEEE Transactions on Knowledge and Data Engineering, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9039675).
- 
- ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig1.jpg)
- 
- **The categorization of deep learning methods on graphs[1] from Tsinghua University**.
 
 2. Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun, **Graph Neural Networks: A Review of Methods and Applications**, ArXiv, 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf).
-
- ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig2.jpg)
- 
- **Some typical application of GNN[2] from Tsinghua University**.
  
  3. Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu(Fellow,IEEE), **A Comprehensive Survey on Graph Neural Networks**, IEEE Transactions on Neural Networks and Learning Systems, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9046288).
  
- ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig5.jpg)
- 
- **Some open-source codes of the state-of-the-art methods[3]**.
- 
- 4. Battaglia P W, Hamrick J B, Bapst V, et al. **Relational inductive biases, deep learning, and graph networks**, arXiv 2018. [paper](http://xueshu.baidu.com/s?wd=paperuri%3A%28965a67685f0a5180ada2c6adaa15dc38%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1806.01261&ie=utf-8&sc_us=8121954972779087681&sc_as_para=sc_lib%3A)
-
+ 4. Battaglia P W, Hamrick J B, Bapst V, et al. **Relational inductive biases, deep learning, and graph networks**, arXiv 2018. [paper](https://arxiv.org/pdf/1806.01261.pdf)
 
 
 ## Journal papers:
