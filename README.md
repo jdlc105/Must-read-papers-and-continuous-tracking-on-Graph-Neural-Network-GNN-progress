@@ -115,9 +115,8 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 34. Kunjin Chen, et al. **Fault Location in Power Distribution Systems via Deep Graph Convolutional Networks**. IEEE Journal on Selected Areas in Communications, 2020. [paper](https://ieeexplore.ieee.org/document/8892483)
 
-35. Manessi, Franco, et al. **Dynamic graph convolutional networks**. PATTERN RECOGNITION, 2020. [paper](https://sciencedirect.xilesou.top/science/article/pii/S0031320319303036)
+35. Manessi, Franco, et al. **Dynamic graph convolutional networks**. Pattern Recognition, 2020. [paper](https://sciencedirect.xilesou.top/science/article/pii/S0031320319303036)
 
-36. Ruiz, Luana, et al. **Invariance-Preserving Localized Activation Functions for Graph Neural Networks**. IEEE TRANSACTIONS ON SIGNAL PROCESSING, 2020. [paper](https://ieeexplore.ieee.org/document/8911416)
 
 ## Conference papers:
 
