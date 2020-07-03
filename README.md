@@ -10,15 +10,15 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 ***GNN and its variants are an emerging and powerful neural network approach. Its application is no longer limited to the original field. It has flourished in many other areas, such as Data Visualization, Image Processing, NLP, Recommendation System, Computer Vision, Bioinformatics, Chemical informatics, Drug Development and Discovery, Smart Transportation.***
 
-***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).Update: 3, 018 times (on 17 March. 2020). ***Update: 3,560 times (on 27 May. 2020).***
+***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).Update: 3, 018 times (on 17 March. 2020); Update: 3,560 times (on 27 May. 2020); ***Update: 4,060 times (on 3 July. 2020).***
 
 
 
 ***Thanks for giving us so many stars and supports from many developers and scientists on Github！！！ We will continue to make this project better.***
 
-***Project Start time: 11 Dec 2018, Latest updated time: 27 May. 2020***
+***Project Start time: 11 Dec 2018, Latest updated time: 3 July. 2020***
 
- ***New papers about GNN models and their applications have come from KDD2020, CVPR2020, WWW2020 .... We are waiting for more paper to be released.***
+ ***New papers about GNN models and their applications have come from ICML2020, IJCAI2020, KDD2020, CVPR2020, WWW2020 .... We are waiting for more paper to be released.***
 
 
 ## Survey papers:
@@ -434,6 +434,54 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 162. Zhen Yang, et al. **Understanding Negative Sampling in Graph Representation Learning**. KDD 2020. [paper](https://arxiv.org/pdf/2005.09863.pdf).
 
 163. Menghan Wang, et al. **M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems**. KDD 2020. [paper](https://arxiv.org/pdf/2005.10110.pdf).
+
+164. Louis-Pascal A. C. Xhonneux, et al. **Continuous Graph Neural Networks**. ICML 2020. [paper](https://arxiv.org/pdf/1912.00967.pdf).
+
+165. Marc Brockschmidt, et al. **GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=5897).
+
+166. Arman Hasanzadeh, et al. **Bayesian Graph Neural Networks with Adaptive Connection Sampling**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=6755).
+
+167. Filipe de Avila Belbute-Peres, et al. **Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=6802).
+
+168. Ilay Luz, et al. **Learning Algebraic Multigrid Using Graph Neural Networks**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=6369).
+
+169. Vikas K Garg, et al. **Generalization and Representational Limits of Graph Neural Networks**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=6249).
+
+170. Shuai Zhang, et al. **Fast Learning of Graph Neural Networks with Guaranteed Generalizability: One-hidden-layer Case**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=6527).
+
+171. Filippo, et al. **Maria BianchiSpectral Clustering with Graph Neural Networks for Graph Pooling**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=6018).
+
+172. Ming Chen, et al. **Simple and Deep Graph Convolutional Networks**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=6111).
+
+173. Yuning You, et al. **When Does Self-Supervision Help Graph Convolutional Networks?**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=5947).
+
+174. Gregor Bachmann, et al. **Constant Curvature Graph Convolutional Networks**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=6615).
+
+175. Wenhui Yu, et al. **Graph Convolutional Network for Recommendation with Low-pass Collaborative Filters**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=5840).
+
+176. Hongmin Zhu, et al. **Bilinear Graph Neural Network with Neighbor Interactions**. IJCAI 2020. [paper](https://arxiv.org/abs/2002.03575).
+
+177. Shuo Zhang, et al. **Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation**. IJCAI 2020. [paper](https://arxiv.org/abs/1907.02204).
+
+178. Kaixiong Zhou, et al. **Multi-Channel Graph Neural Networks**. IJCAI 2020. [paper to appear]().
+
+179. George Dasoulas, et al. **Coloring Graph Neural Networks for Node Disambiguation**. IJCAI 2020. [paper](https://arxiv.org/abs/1912.06058).
+
+180. Xuan Lin, et al. **KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction**. IJCAI 2020. [paper to appear]().
+
+181. Yuan Zhuang, et al. **Smart Contract Vulnerability Detection using Graph Neural Network**. IJCAI 2020. [paper to appear]().
+
+182. Ziyu Jia, et al. **GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification**. IJCAI 2020. [paper to appear]().
+
+183. Zhichao Huang, et al. **MR-GCN: Multi-Relational Graph Convolutional Networks based on Generalized Tensor Product**. IJCAI 2020. [paper to appear]().
+
+184. Rongzhou Huang, et al. **LSGCN: Long Short-Term Traffic Prediction with Graph Convolutional Networks**. IJCAI 2020. [paper to appear]().
+
+185. Min Shi, et al. **Multi-Class Imbalanced Graph Convolutional Network Learning**. IJCAI 2020. [paper to appear]().
+
+186. Dongxiao He, et al. **Community-Centric Graph Convolutional Network for Unsupervised Community Detection**. IJCAI 2020. [paper to appear]().
+
+
 
 
 ## ArXiv papers:
