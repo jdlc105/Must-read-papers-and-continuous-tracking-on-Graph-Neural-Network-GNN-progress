@@ -23,17 +23,21 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 ## Survey papers:
 
-1. Ziwei Zhang, Peng Cui, Wenwu Zhu, **Deep Learning on Graphs: A Survey**, IEEE Transactions on Knowledge and Data Engineering, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9039675).
+1. Bronstein M M, Bruna J, LeCun Y, et al. **Geometric deep learning: going beyond euclidean data**. IEEE Signal Processing Magazine, 2017, 34(4): 18-42. [paper](https://ieeexplore.ieee.org/abstract/document/7974879/)
 
 2. Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun, **Graph Neural Networks: A Review of Methods and Applications**, ArXiv, 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf).
- 
- 3. Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu(Fellow,IEEE), **A Comprehensive Survey on Graph Neural Networks**, IEEE Transactions on Neural Networks and Learning Systems, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9046288).
- 
- 4. Battaglia P W, Hamrick J B, Bapst V, et al. **Relational inductive biases, deep learning, and graph networks**, arXiv 2018. [paper](https://arxiv.org/pdf/1806.01261.pdf)
 
- 5. Chen Z, Chen F, Zhang L, et al. **Bridging the Gap between Spatial and Spectral Domains: A Survey on Graph Neural Networks**. arXiv preprint. 2020. [paper](https://arxiv.org/pdf/2002.11867.pdf)
+3. Battaglia P W, Hamrick J B, Bapst V, et al. **Relational inductive biases, deep learning, and graph networks**, arXiv 2018. [paper](https://arxiv.org/pdf/1806.01261.pdf)
  
- 6. Abadal S, Jain A, Guirado R, et al. **Computing Graph Neural Networks: A Survey from Algorithms to Accelerators**. arXiv preprint. 2020. [paper](https://arxiv.org/abs/2010.00130)
+4. Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu(Fellow,IEEE), **A Comprehensive Survey on Graph Neural Networks**, IEEE Transactions on Neural Networks and Learning Systems, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9046288).
+  
+5. Ziwei Zhang, Peng Cui, Wenwu Zhu, **Deep Learning on Graphs: A Survey**, IEEE Transactions on Knowledge and Data Engineering, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9039675).
+
+6. Chen Z, Chen F, Zhang L, et al. **Bridging the Gap between Spatial and Spectral Domains: A Survey on Graph Neural Networks**. arXiv preprint. 2020. [paper](https://arxiv.org/pdf/2002.11867.pdf)
+ 
+7. Abadal S, Jain A, Guirado R, et al. **Computing Graph Neural Networks: A Survey from Algorithms to Accelerators**. arXiv preprint. 2020. [paper](https://arxiv.org/abs/2010.00130)
+
+8. Lamb L, Garcez A, Gori M, et al. **Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective**. arXiv preprint. 2020. [paper](https://arxiv.org/pdf/2003.00330.pdf)
 
 ## Journal papers:
 
@@ -110,6 +114,8 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 36. Jiang X, Zhu R, Li S, et al. **Co-embedding of Nodes and Edges with Graph Neural Networks**. IEEE Transactions on Pattern Analysis and Machine Intelligence. [paper](https://pubmed.ncbi.nlm.nih.gov/33052851/)
 
 37. Wang Z, Ji S. **Second-order pooling for graph neural networks**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9104936)
+
+38. Indro Spinelli, et al. **Adaptive Propagation Graph Convolutional Network**. IEEE Transactions on Neural Networks and Learning Systems, 2020. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206045)
 
 ## Conference papers:
 
