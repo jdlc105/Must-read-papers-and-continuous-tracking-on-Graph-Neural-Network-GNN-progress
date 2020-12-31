@@ -1,24 +1,24 @@
 # Must-read papers and continuous track on Graph Neural Network(GNN) progress
 
-Many important real-world applications and questions come in the form of graphs, such as social network, protein-protein interaction network, brain network, chemical molecular graph and 3D point cloud. Therefore, driven by interdisciplinary research, the neural network model for graph data-oriented has become an emerging research hotspot. Among them, two of the three pioneers of deep learning, Professor ***Yann LeCun (2018 Turing Award Winner)***, Professor ***Yoshua Bengio (2018 Turing Award Winner)*** and famous Professor ***Jure Leskovec*** from Stanford University AI lab also participated in it.
+Many important real-world applications and questions come in the form of graphs, such as social network, protein-protein interaction network, brain network, chemical molecular graph and 3D point cloud. Therefore, driven by the above interdisciplinary research, the neural network model for graph data-oriented has become an emerging research hotspot. Among them, two of the three pioneers of deep learning, Professor ***Yann LeCun (2018 Turing Award Winner)***, Professor ***Yoshua Bengio (2018 Turing Award Winner)*** and famous Professor ***Jure Leskovec*** from Stanford University AI lab also participated in it.
 
 This project focuses on GNN, lists relevant must-read papers and keeps track of progress.  We look forward to promoting this direction and providing some help to researchers in this direction.
 
-Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-related issue, welcome to send email (Address: jdlc105@qq.com, lbtjackbluce@gmail.com).
+Contributed by Allen Bluce (Dr. Bentian Li) and Anne Bluce (Dr. Yunxia Lin), If there is something wrong or GNN-related issue, welcome to send email (Address: jdlc105@qq.com, lbtjackbluce@gmail.com).
 
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention network, Graph auto-encoder, Graph convolutional reinforcement learning, Graph capsule neural network....***
 
 ***GNN and its variants are an emerging and powerful neural network approach. Its application is no longer limited to the original field. It has flourished in many other areas, such as Data Visualization, Image Processing, NLP, Recommendation System, Computer Vision, Bioinformatics, Chemical informatics, Drug Development and Discovery, Smart Transportation.***
 
-***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).Update: 3, 018 times (on 17 March. 2020); Update: 3,560 times (on 27 May. 2020); Update: 4,060 times (on 3 July. 2020); ***Update: 5,371 times (on 25 Oct. 2020).***
+***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).Update: 3, 018 times (on 17 March. 2020); Update: 3,560 times (on 27 May. 2020); Update: 4,060 times (on 3 July. 2020); Update: 5,371 times (on 25 Oct. 2020).***Update: 6,258 times (on 31 Dec. 2020).
 
 
 
-***Thanks for giving us so many stars and supports from many developers and scientists on Github！！！ We will continue to make this project better.***
+***Thanks for giving us so many stars and supports from the developers and scientists on Github around the world！！！ We will continue to make this project better.***
 
-***Project Start time: 11 Dec 2018, Latest updated time: 25 Oct. 2020***
+***Project Start time: 11 Dec 2018, Latest updated time: 31 Dec. 2020***
 
- ***New papers about GNN models and their applications have come from ICML2020, IJCAI2020, KDD2020, CVPR2020, WWW2020 .... We are waiting for more paper to be released.***
+ ***New papers about GNN models and their applications have come from NeurIPS2020, AAAI2021 .... We are waiting for more paper to be released.***
 
 
 ## Survey papers:
@@ -493,7 +493,73 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 186. Dongxiao He, et al. **Community-Centric Graph Convolutional Network for Unsupervised Community Detection**. IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/486).
 
+187. Luana Ruiz et al. **Graphon Neural Networks and the Transferability of Graph Neural Networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/12bcd658ef0a540cabc36cdf2b1046fd-Abstract.html)
 
+188. Diego Mesquita et al. **Rethinking pooling in graph neural networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/1764183ef03fc7324eb58c3842bd9a57-Abstract.html)
+
+189. Petar Veličković et al. **Pointer Graph Networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/176bf6219855a6eb1f3a30903e34b6fb-Abstract.html)
+
+190. Andreas Loukas.  **How hard is to distinguish graphs with graph neural networks?**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/23685a2431acad7789c1e3d43ea1522c-Abstract.html)
+
+191. Shangchen Zhou et al. **Cross-Scale Internal Graph Neural Network for Image Super-Resolution**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/23ad3e314e2a2b43b4c720507cec0723-Abstract.html)
+
+192. Jiaqi Ma et al.  **Towards More Practical Adversarial Attacks on Graph Neural Networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/32bb90e8976aab5298d5da10fe66f21d-Abstract.html)
+
+193. Kaixiong Zhou et al. **Towards Deeper Graph Neural Networks with Differentiable Group Normalization**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/33dd6dba1d56e826aac1cbf23cdcca87-Abstract.html)
+
+194. Benjamin Sanchez-Lengeling et al. **Evaluating Attribution for Graph Neural Networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/417fbbf2e9d5a28a855a11894b2e795a-Abstract.html)
+
+195. Ziqi Liu et al. **Bandit Samplers for Training Graph Neural Networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/4cea2358d3cc5f8cd32397ca9bc51b94-Abstract.html)
+
+196. Jiong Zhu et al. **Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/58ae23d878a47004366189884c2f8440-Abstract.html)
+
+197. Emily Alsentzer et al. **Subgraph Neural Networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/5bca8566db79f3788be9efd96c9ed70d-Abstract.html)
+
+198. Zhen Zhang et al. **Factor Graph Neural Networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/61c66a2f4e6e10dc9c16ddf9d19745d6-Abstract.html)
+
+199. Xiang Zhang et al. **GNNGuard: Defending Graph Neural Networks against Adversarial Attacks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/690d83983a63aa1818423fd6edd3bfdb-Abstract.html)
+
+200. Zhengdao Chen et al. **Can Graph Neural Networks Count Substructures?**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/75877cb75154206c4e65e76b88a12712-Abstract.html)
+
+201. Fangda Gu et al. **Implicit Graph Neural Networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/8b5c8441a8ff8e151b191c53c1842a38-Abstract.html)
+
+202. Minh Vu et al. **PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/8fb134f258b1f7865a6ab2d935a897c9-Abstract.html)
+
+203. Simon Geisler et al. **Reliable Graph Neural Networks via Robust Aggregation**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/99e314b1b43706773153e7ef375fc68c-Abstract.html)
+
+204. Clément Vignac et al. **Building powerful and equivariant graph neural networks with structural message-passing**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/a32d7eeaae19821fd9ce317f3ce952a7-Abstract.html)
+
+205. Ming Chen et al. **Scalable Graph Neural Networks via Bidirectional Propagation**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/a7789ef88d599b8df86bbee632b2994d-Abstract.html)
+
+206. Giannis Nikolentzos et al. **Random Walk Graph Neural Networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/ba95d78a7c942571185308775a97a3a0-Abstract.html)
+
+207. Zheng Ma et al. **Path Integral Based Convolution and Pooling for Graph Neural Networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/be53d253d6bc3258a8160556dda3e9b2-Abstract.html)
+
+208. Jiaxuan You et al. **Design Space for Graph Neural Networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/c5c3d4fe6b2cc463c7d7ecba17cc9de7-Abstract.html)
+
+209. Defu Cao et al. **Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/cdf6581cb7aca4b7e19ef136c6e601a5-Abstract.html)
+
+210. Kenta Oono et al. **Optimization and Generalization Analysis of Transduction through Gradient Boosting and Application to Multi-scale Graph Neural Networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/dab49080d80c724aad5ebf158d63df41-Abstract.html)
+
+211. Yu Chen et al. **Iterative Deep Graph Learning for Graph Neural Networks: Better and Robust Node Embeddings**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/e05c7ba4e087beea9410929698dc41a6-Abstract.html)
+
+212. Dongsheng Luo et al. **Parameterized Explainer for Graph Neural Network**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/e37b08dd3015330dcbb5d6663667b8b8-Abstract.html)
+
+213. Martin Klissarov et al. **Reward Propagation Using Graph Convolutional Networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/970627414218ccff3497cb7a784288f5-Abstract.html)
+
+214. Yimeng Min et al. **Scattering GCN: Overcoming Oversmoothness in Graph Convolutional Networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/a6b964c0bb675116a15ef1325b01ff45-Abstract.html)
+
+215. LEI BAI et al. **Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/ce1aad92b939420fc17005e5461e6f48-Abstract.html)
+
+216. Moshe Eliasof et al. **DiffGCN: Graph Convolutional Networks via Differential Operators and Algebraic Multigrid Pooling**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/d16a974d4d6d0d71b29bfbfe045f1da7-Abstract.html)
+
+217. Pantelis Elinas et al.  **Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/d882050bb9eeba930974f596931be527-Abstract.html)
+
+218. Yiding Yang et al. **Factorizable Graph Convolutional Networks**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/ea3502c3594588f0e9d5142f99c66627-Abstract.html)
+
+219. Nicolas Keriven et al. **Convergence and Stability of Graph Convolutional Networks on Large Random Graphs**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/f5a14d4963acf488e3a24780a84ac96c-Abstract.html)
+
+220. Chen K, Niu M, Chen Q. **A Hierarchical Reasoning Graph Neural Network for The Automatic Scoring of Answer Transcriptions in Video Job Interviews**. AAAI 2021. [paper](https://arxiv.org/abs/2012.11960)
 
 
 ## ArXiv papers:
@@ -673,7 +739,7 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
   
   Source: [github](http://ogb.stanford.edu)
 
-11. **Benchmarking GNNs**--**New**
+11. **Benchmarking GNNs**
 
   Benchmarking GNNs is developed and maintained by Nanyang Technological University.
    
@@ -681,7 +747,7 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
   
   Source: [github](https://github.com/graphdeeplearning/benchmarking-gnns)
 
-12. **Graph-Learn**--**New**
+12. **Graph-Learn**
 
   Graph-Learn is developed and maintained by Alibaba Group.
 
@@ -689,6 +755,16 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
   Source: [github](https://github.com/alibaba/graph-learn)
   
+13. **AutoGL (Auto Graph Learning)** **New**
+
+  AutoGL is developed and maintained by Tsinghua University.
+
+  Initiation time:2020
+
+  Source: [github](https://github.com/THUMNLab/AutoGL)
+
+
+
 
 ## Appetizer for you：Art Exhibition in the Ultra-High Dimensional Network/Graph Structured Space
 
