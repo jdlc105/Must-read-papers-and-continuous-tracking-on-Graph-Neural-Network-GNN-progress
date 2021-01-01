@@ -115,7 +115,7 @@ Contributed by Allen Bluce (Dr. Bentian Li) and Anne Bluce (Dr. Yunxia Lin), If 
 
 37. Wang Z, Ji S. **Second-order pooling for graph neural networks**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9104936)
 
-38. Indro Spinelli, et al. **Adaptive Propagation Graph Convolutional Network**. IEEE Transactions on Neural Networks and Learning Systems, 2020. [paper]((https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206045)
+38. Indro Spinelli, et al. **Adaptive Propagation Graph Convolutional Network**. IEEE Transactions on Neural Networks and Learning Systems, 2020. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206045)
 
 39. Zhou Fan, et al. **Reinforced Spatiotemporal Attentive Graph Neural Networks for Traffic Forecasting**.  IEEE Internet of Things Journal, 2020. [paper](https://ieeexplore-ieee-org.flyyouth.top/abstract/document/9003261)
 
