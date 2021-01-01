@@ -10,13 +10,13 @@ Contributed by Allen Bluce (Dr. Bentian Li) and Anne Bluce (Dr. Yunxia Lin), If 
 
 ***GNN and its variants are an emerging and powerful neural network approach. Its application is no longer limited to the original field. It has flourished in many other areas, such as Data Visualization, Image Processing, NLP, Recommendation System, Computer Vision, Bioinformatics, Chemical informatics, Drug Development and Discovery, Smart Transportation.***
 
-***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).Update: 3, 018 times (on 17 March. 2020); Update: 3,560 times (on 27 May. 2020); Update: 4,060 times (on 3 July. 2020); Update: 5,371 times (on 25 Oct. 2020). **Update: 6,258 times (on 31 Dec. 2020)**.
+***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).Update: 3, 018 times (on 17 March. 2020); Update: 3,560 times (on 27 May. 2020); Update: 4,060 times (on 3 July. 2020); Update: 5,371 times (on 25 Oct. 2020). **Update: 6,258 times (on 01 Jan. 2021)**.
 
 
 
 ***Thanks for giving us so many stars and supports from the developers and scientists on Github around the world！！！ We will continue to make this project better.***
 
-***Project Start time: 11 Dec 2018, Latest updated time: 31 Dec. 2020***
+***Project Start time: 11 Dec 2018, Latest updated time: 01 Jan. 2021***
 
  ***New papers about GNN models and their applications have come from NeurIPS2020, AAAI2021 .... We are waiting for more paper to be released.***
 
@@ -115,7 +115,18 @@ Contributed by Allen Bluce (Dr. Bentian Li) and Anne Bluce (Dr. Yunxia Lin), If 
 
 37. Wang Z, Ji S. **Second-order pooling for graph neural networks**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9104936)
 
-38. Indro Spinelli, et al. **Adaptive Propagation Graph Convolutional Network**. IEEE Transactions on Neural Networks and Learning Systems, 2020. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206045)
+38. Indro Spinelli, et al. **Adaptive Propagation Graph Convolutional Network**. IEEE Transactions on Neural Networks and Learning Systems, 2020. [paper]((https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206045)
+
+39. Zhou Fan, et al. **Reinforced Spatiotemporal Attentive Graph Neural Networks for Traffic Forecasting**.  IEEE Internet of Things Journal, 2020. [paper](https://ieeexplore-ieee-org.flyyouth.top/abstract/document/9003261)
+
+40. Wang S H, et al. **Covid-19 classification by FGCNet with deep feature fusion from graph convolutional network and convolutional neural network.** Information Fusion, 2020. [paper](https://www-sciencedirect-com.flyyouth.top/science/article/pii/S1566253520303705)
+
+41. Ruiz, Luana et al. **Gated Graph Recurrent Neural Networks**, IEEE Transactions on Signal Processing. [paper](https://arxiv.org/abs/2002.01038)
+
+42. Gama, Fernando et al. **Stability Properties of Graph Neural Networks**, IEEE Transactions on Signal Processing. [paper](https://arxiv.org/abs/1905.04497)
+
+43. He, Xin et al. **MV-GNN: Multi-View Graph Neural Network for Compression Artifacts Reduction**, IEEE Transactions on Image Processing. [paper](https://ieeexplore-ieee-org.flyyouth.top/abstract/document/9096540/)
+
 
 ## Conference papers:
 
