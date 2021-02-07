@@ -1,4 +1,4 @@
-# Must-read papers and continuous track on Graph Neural Network(GNN) progress
+# Must-read papers and continuous track on Graph Neural Network (GNN) progress
 
 Many important real-world applications and questions come in the form of graphs, such as social network, protein-protein interaction network, brain network, chemical molecular graph and 3D point cloud. Therefore, driven by the above interdisciplinary research, the neural network model for graph data-oriented has become an emerging research hotspot. Among them, two of the three pioneers of deep learning, Professor ***Yann LeCun (2018 Turing Award Winner)***, Professor ***Yoshua Bengio (2018 Turing Award Winner)*** and famous Professor ***Jure Leskovec*** from Stanford University AI lab also participated in it.
 
@@ -14,7 +14,7 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 ***(1) The representative work--Semi-supervised classification with graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).Update: 3, 018 times (on 17 March. 2020); Update: 3,560 times (on 27 May. 2020); Update: 4,060 times (on 3 July. 2020); Update: 5,371 times (on 25 Oct. 2020). Update: 6,258 times (on 01 Jan. 2021).**Update: 6,672 times (on 07 Feb. 2021)**; 
 
-c***(2)The representative survey--"A Comprehensive Survey on Graph Neural Networks, TNNLS, 2020***. **Update: 1,142 times (on 07 Feb. 2021)**
+***(2)The representative survey--"A Comprehensive Survey on Graph Neural Networks, TNNLS, 2020***. **Update: 1,142 times in Google Scholar (on 07 Feb. 2021)**
 
 
 ***Thanks for giving us so many stars and supports from the developers and scientists on Github around the world！！！ We will continue to make this project better.***
