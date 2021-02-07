@@ -4,21 +4,23 @@ Many important real-world applications and questions come in the form of graphs,
 
 This project focuses on GNN, lists relevant must-read papers and keeps track of progress.  We look forward to promoting this direction and providing some help to researchers in this direction.
 
-Contributed by Allen Bluce (Dr. Bentian Li) and Anne Bluce (Dr. Yunxia Lin), If there is something wrong or GNN-related issue, welcome to send email (Address: jdlc105@qq.com, lbtjackbluce@gmail.com).
+Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-related issue, welcome to send email (Address: jdlc105@qq.com, lbtjackbluce@gmail.com).
 
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention network, Graph auto-encoder, Graph convolutional reinforcement learning, Graph capsule neural network....***
 
 ***GNN and its variants are an emerging and powerful neural network approach. Its application is no longer limited to the original field. It has flourished in many other areas, such as Data Visualization, Image Processing, NLP, Recommendation System, Computer Vision, Bioinformatics, Chemical informatics, Drug Development and Discovery, Smart Transportation.***
 
-***Very hot research topic: the representative work--Graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).Update: 3, 018 times (on 17 March. 2020); Update: 3,560 times (on 27 May. 2020); Update: 4,060 times (on 3 July. 2020); Update: 5,371 times (on 25 Oct. 2020). **Update: 6,258 times (on 01 Jan. 2021)**.
+***Very hot research topic: 
+(1) The representative work--Semi-supervised classification with graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).Update: 3, 018 times (on 17 March. 2020); Update: 3,560 times (on 27 May. 2020); Update: 4,060 times (on 3 July. 2020); Update: 5,371 times (on 25 Oct. 2020). Update: 6,258 times (on 01 Jan. 2021).**Update: 6,672 times (on 07 Feb. 2021)**
 
+**(2)The representative survey--"A Comprehensive Survey on Graph Neural Networks, TNNLS, 2020. **Update: 1,142 times (on 07 Feb. 2021)**
 
 
 ***Thanks for giving us so many stars and supports from the developers and scientists on Github around the world！！！ We will continue to make this project better.***
 
-***Project Start time: 11 Dec 2018, Latest updated time: 01 Jan. 2021***
+***Project Start time: 11 Dec 2018, Latest updated time: 07 Feb. 2021***
 
- ***New papers about GNN models and their applications have come from NeurIPS2020, AAAI2021 .... We are waiting for more paper to be released.***
+ ***New papers about GNN models and their applications have come from AAAI2021 .... We are waiting for more paper to be released.***
 
 
 ## Survey papers:
@@ -571,6 +573,72 @@ Contributed by Allen Bluce (Dr. Bentian Li) and Anne Bluce (Dr. Yunxia Lin), If 
 219. Nicolas Keriven et al. **Convergence and Stability of Graph Convolutional Networks on Large Random Graphs**. NeurIPS 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/f5a14d4963acf488e3a24780a84ac96c-Abstract.html)
 
 220. Chen K, Niu M, Chen Q. **A Hierarchical Reasoning Graph Neural Network for The Automatic Scoring of Answer Transcriptions in Video Job Interviews**. AAAI 2021. [paper](https://arxiv.org/abs/2012.11960)
+
+221. Liang Yang, et al. **Why Do Attributes Propagate in Graph Convolutional Neural Networks?**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+
+222. Xueyang Fu, et al. **Rain Streak Removal via Dual Graph Convolutional Network**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+
+223. Inhwan Bae et al. **Disentangled Multi-Relational Graph Convolutional Network for Pedestrian Trajectory Prediction**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+
+224. Xin Xia et al. **Self-Supervised Hypergraph Convolutional Networks for Session-Based Recommendation**. AAAI 2021, [paper](https://arxiv.org/abs/2012.06852)
+
+225. Sheng Wan et al. **Contrastive and Generative Graph Convolutional Networks for Graph-Based SemiSupervised Learning**. AAAI 2021, [paper](https://arxiv.org/abs/2009.07111)
+
+226. Zhan Chen et al. **Multi-Scale Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+
+227. Xin Chen et al. **Fitting the Search Space of Weight-Sharing NAS with Graph Convolutional Networks**. AAAI 2021, [paper](https://arxiv.org/abs/2004.08423)
+
+228. Qingbao Huang et al. **Story Ending Generation with Multi-Level Graph Convolutional Networks over Dependency Trees**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+
+229. Heng Chang et al. **Power up! Robust Graph Convolutional Network via Graph Powering**. AAAI 2021, [paper](https://people.eecs.berkeley.edu/~sojoudi/Robust_GCN.pdf)
+
+230. Deyu Bo et al. **Beyond Low-Frequency Information in Graph Convolutional Networks**. AAAI 2021, [paper](https://arxiv.org/abs/2101.00797)
+
+231. Han Yang et al. **Rethinking Graph Regularization for Graph Neural Networks**. AAAI 2021, [paper](https://arxiv.org/abs/2009.02027)
+
+232. Tong Zhao et al. **Data Augmentation for Graph Neural Networks**. AAAI 2021, [paper](https://arxiv.org/abs/2006.06830)
+
+233. Jiaxuan You et al. **Identity-Aware Graph Neural Networks**. AAAI 2021, [paper](https://arxiv.org/abs/2101.10320)
+
+234. Yuanfu Lu et al. **Learning to Pre-Train Graph Neural Networks**. AAAI 2021, [paper](http://shichuan.org/doc/101.pdf)
+
+235. Q Li et al. **Learning Graph Neural Networks with Approximate Gradient Descent**. AAAI 2021, [paper](https://arxiv.org/abs/2012.03429)
+
+236. Yuankai Wu et al. **Inductive Graph Neural Networks for Spatiotemporal Kriging**. AAAI 2021, [paper](https://arxiv.org/abs/2006.07527)
+
+237. Jiong Zhu et al. **Graph Neural Networks with Heterophily**. AAAI 2021, [paper](https://arxiv.org/abs/2009.13566)
+
+238. Mengzhang Li et al. **Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting**. AAAI 2021, [paper](https://arxiv.org/abs/2012.09641)
+
+239. Shengsheng Qian et al. **Dual Adversarial Graph Neural Networks for Multi-Label Cross-Modal Retrieval**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+
+240. Mengzhang Li et al. **Graph Neural Network-Based Anomaly Detection in Multivariate Time Series**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+
+241. Fan Zhou et al. **Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay**. AAAI 2021, [paper](https://arxiv.org/abs/2012.06002)
+
+242. Georgios Panagopoulos et al. **Transfer Graph Neural Networks for Pandemic Forecasting**. AAAI 2021, [paper](https://www.researchgate.net/publication/344294392_Transfer_Graph_Neural_Networks_for_Pandemic_Forecasting)
+
+243. Uday Shankar Shanthamallu et al. **Uncertainty-Matching Graph Neural Networks to Defend against Poisoning Attacks**. AAAI 2021, [paper](https://arxiv.org/abs/2009.14455)
+
+244. Jianan Zhao et al. **Heterogeneous Graph Structure Learning for Graph Neural Networks**. AAAI 2021, [paper](http://shichuan.org/doc/100.pdf)
+
+245. Yanan Zhang et al. **PC-RGNN: Point Cloud Completion and Graph Neural Network for 3D Object Detection**. AAAI 2021, [paper](https://arxiv.org/abs/2012.10412)
+
+246. Tengfei Song et al. **Uncertain Graph Neural Networks for Facial Action Unit Detection**. AAAI 2021, [paper](https://www.researchgate.net/publication/346853340_Uncertain_Graph_Neural_Networks_for_Facial_Action_Unit_Detection)
+
+247. Li Sun et al. **Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+
+248. Binghui Wang et al. **Semi-Supervised Node Classification on Graphs: Markov Random Fields vs. Graph Neural Networks**. AAAI 2021, [paper](https://arxiv.org/abs/2012.13085)
+
+249. Arijit Sehanobish et al. **Gaining Insight into SARS-CoV-2 Infection and COVID-19 Severity Using Self-Supervised Edge Features and Graph Neural Networks**. AAAI 2021, [paper](https://arxiv.org/abs/2006.12971)
+
+250. Utkarsh Desai et al. **Graph Neural Network to Dilute Outliers for Refactoring Monolith Application**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+
+251. Huihui Liu et al. **Overcoming Catastrophic Forgetting in Graph Neural Networks**. AAAI 2021, [paper](https://arxiv.org/abs/2012.06002)
+
+252. Yuhang Yao et al. **Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks**. AAAI 2021, [paper](https://arxiv.org/abs/2012.08740)
+
+253. Daizong Liu et al. **Spatiotemporal Graph Neural Network Based Mask Reconstruction for Video Object Segmentation**. AAAI 2021, [paper](https://arxiv.org/abs/2012.05499)
 
 
 ## ArXiv papers:
