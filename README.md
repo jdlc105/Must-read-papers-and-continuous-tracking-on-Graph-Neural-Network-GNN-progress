@@ -11,9 +11,10 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 ***GNN and its variants are an emerging and powerful neural network approach. Its application is no longer limited to the original field. It has flourished in many other areas, such as Data Visualization, Image Processing, NLP, Recommendation System, Computer Vision, Bioinformatics, Chemical informatics, Drug Development and Discovery, Smart Transportation.***
 
 ***Very hot research topic: 
-(1) The representative work--Semi-supervised classification with graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).Update: 3, 018 times (on 17 March. 2020); Update: 3,560 times (on 27 May. 2020); Update: 4,060 times (on 3 July. 2020); Update: 5,371 times (on 25 Oct. 2020). Update: 6,258 times (on 01 Jan. 2021).**Update: 6,672 times (on 07 Feb. 2021)**
 
-**(2)The representative survey--"A Comprehensive Survey on Graph Neural Networks, TNNLS, 2020. **Update: 1,142 times (on 07 Feb. 2021)**
+***(1) The representative work--Semi-supervised classification with graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).Update: 3, 018 times (on 17 March. 2020); Update: 3,560 times (on 27 May. 2020); Update: 4,060 times (on 3 July. 2020); Update: 5,371 times (on 25 Oct. 2020). Update: 6,258 times (on 01 Jan. 2021).**Update: 6,672 times (on 07 Feb. 2021)**; 
+
+c***(2)The representative survey--"A Comprehensive Survey on Graph Neural Networks, TNNLS, 2020***. **Update: 1,142 times (on 07 Feb. 2021)**
 
 
 ***Thanks for giving us so many stars and supports from the developers and scientists on Github around the world！！！ We will continue to make this project better.***
