@@ -21,7 +21,7 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 ***Project Start time: 11 Dec 2018, Latest updated time: 16 June. 2021***
 
- ***New papers about GNN models and their applications have come from ICML2021,.... We are waiting for more paper to be released.***
+ ***New papers about GNN models and their applications have come from ICML2021, CVPR2021, ICLR2021.... We are waiting for more paper to be released.***
 
 
 ## Survey papers:
@@ -124,11 +124,17 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 40. Wang S H, et al. **Covid-19 classification by FGCNet with deep feature fusion from graph convolutional network and convolutional neural network.** Information Fusion, 2020. [paper](https://www-sciencedirect-com.flyyouth.top/science/article/pii/S1566253520303705)
 
-41. Ruiz, Luana et al. **Gated Graph Recurrent Neural Networks**, IEEE Transactions on Signal Processing. [paper](https://arxiv.org/abs/2002.01038)
+41. Ruiz, Luana et al. **Gated Graph Recurrent Neural Networks**, IEEE Transactions on Signal Processing. 2020. [paper](https://arxiv.org/abs/2002.01038)
 
-42. Gama, Fernando et al. **Stability Properties of Graph Neural Networks**, IEEE Transactions on Signal Processing. [paper](https://arxiv.org/abs/1905.04497)
+42. Gama, Fernando et al. **Stability Properties of Graph Neural Networks**, IEEE Transactions on Signal Processing. 2020. [paper](https://arxiv.org/abs/1905.04497)
 
-43. He, Xin et al. **MV-GNN: Multi-View Graph Neural Network for Compression Artifacts Reduction**, IEEE Transactions on Image Processing. [paper](https://ieeexplore-ieee-org.flyyouth.top/abstract/document/9096540/)
+43. He, Xin et al. **MV-GNN: Multi-View Graph Neural Network for Compression Artifacts Reduction**, IEEE Transactions on Image Processing. 2020. [paper](https://ieeexplore-ieee-org.flyyouth.top/abstract/document/9096540/)
+
+44. Holzinger A, et al. **Towards multi-modal causability with Graph Neural Networks enabling information fusion for explainable AI**, Information Fusion, 2021. [paper](https://www-sciencedirect-com.cam.80599.net/science/article/pii/S1566253521000142)
+
+45. Bianchi F M, et al. **Graph neural networks with convolutional arma filters**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. [paper](https://ieeexplore.7648.top/abstract/document/9336270/)
+
+46. Chowdhury A, et al. **Unfolding wmmse using graph neural networks for efficient power allocation**. IEEE Transactions on Wireless Communications, 2021. [paper](https://ieeexplore.7648.top/abstract/document/9403959/)
 
 
 ## Conference papers:
@@ -650,6 +656,35 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 257. Henderson R et al. **Improving Molecular Graph Neural Network Explainability with Orthonormalization and Induced Sparsity**. ICML 2021. [paper](https://arxiv.org/pdf/2105.04854.pdf)
 
 258. Fey M et al. **GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings**. ICML 2021. [paper](https://arxiv.org/pdf/2106.05609.pdf)
+
+259. Guo-Sen Xie et al. **Scale-Aware Graph Neural Network for Few-Shot Semantic Segmentation**. CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Scale-Aware_Graph_Neural_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2021_paper.pdf)
+
+260. Kai Fischer et al. **StickyPillars: Robust and Efficient Feature Matching on Point Clouds Using Graph Neural Networks**. CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Fischer_StickyPillars_Robust_and_Efficient_Feature_Matching_on_Point_Clouds_Using_CVPR_2021_paper.pdf)
+
+261. Yiding Yang et al. **Learning Dynamics via Graph Neural Networks for Human Pose Estimation and Tracking**. CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Learning_Dynamics_via_Graph_Neural_Networks_for_Human_Pose_Estimation_CVPR_2021_paper.pdf)
+
+262. Guillaume Jaume et al. **Quantifying Explainers of Graph Neural Networks in Computational Pathology**. CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jaume_Quantifying_Explainers_of_Graph_Neural_Networks_in_Computational_Pathology_CVPR_2021_paper.pdf)
+
+263. Shaofei Cai, et al. **Rethinking Graph Neural Architecture Search From Message-Passing**. CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Cai_Rethinking_Graph_Neural_Architecture_Search_From_Message-Passing_CVPR_2021_paper.pdf)
+
+264. Yongcheng Jing, et al. **Amalgamating Knowledge From Heterogeneous Graph Neural Networks**. CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jing_Amalgamating_Knowledge_From_Heterogeneous_Graph_Neural_Networks_CVPR_2021_paper.pdf)
+
+265. Mehdi Bahri, et al. **Binary Graph Neural Networks**. CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Bahri_Binary_Graph_Neural_Networks_CVPR_2021_paper.pdf)
+
+266. Liushuai Shi, et al. **SGCN: Sparse Graph Convolution Network for Pedestrian Trajectory Prediction**. CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_SGCN_Sparse_Graph_Convolution_Network_for_Pedestrian_Trajectory_Prediction_CVPR_2021_paper.pdf)
+
+267. Dongyu She, et al. **Hierarchical Layout-Aware Graph Convolutional Network for Unified Aesthetics Assessment**. CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/She_Hierarchical_Layout-Aware_Graph_Convolutional_Network_for_Unified_Aesthetics_Assessment_CVPR_2021_paper.pdf)
+
+268. Jindou Dai, et al. **A Hyperbolic-to-Hyperbolic Graph Convolutional Network**. CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_A_Hyperbolic-to-Hyperbolic_Graph_Convolutional_Network_CVPR_2021_paper.pdf)
+
+269. Junfu Wang, et al. **Bi-GCN: Binary Graph Convolutional Network**. CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Bi-GCN_Binary_Graph_Convolutional_Network_CVPR_2021_paper.pdf)
+
+270. Razvan Caramalau, et al. **Sequential Graph Convolutional Network for Active Learning**. CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Caramalau_Sequential_Graph_Convolutional_Network_for_Active_Learning_CVPR_2021_paper.pdf)
+
+271. Keyulu Xu, et al. **How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks**. ICLR 2021. [paper](https://openreview.net/pdf?id=UH-cmocLJC)
+
+272. Waiss Azizian, et al. **Expressive Power of Invariant and Equivariant Graph Neural Networks**. ICLR 2021. [paper](https://openreview.net/pdf?id=lxHgXYN4bwl)
+
 
 
 
