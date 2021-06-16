@@ -1,6 +1,6 @@
 # Must-read papers and continuous track on Graph Neural Network (GNN) progress
 
-Many important real-world applications and questions come in the form of graphs, such as social network, protein-protein interaction network, brain network, chemical molecular graph and 3D point cloud. Therefore, driven by the above interdisciplinary research, the neural network model for graph data-oriented has become an emerging research hotspot. Among them, two of the three pioneers of deep learning, Professor ***Yann LeCun (2018 Turing Award Winner)***, Professor ***Yoshua Bengio (2018 Turing Award Winner)*** and famous Professor ***Jure Leskovec*** from Stanford University AI lab also participated in it.
+Many important real-world applications and questions come in the form of graphs, such as social network, protein-protein interaction network, brain network, chemical molecular graph and 3D point cloud. Therefore, driven by the above interdisciplinary research, the neural network model for graph data-oriented has become an emerging research hotspot. Among them, two of the three pioneers of deep learning, Professor ***Yann LeCun (2018 Turing Award Winner)***, Professor ***Yoshua Bengio (2018 Turing Award Winner)*** and famous Professor ***such as Michael Bronstein (Imperial College London), Xavier Bresson (National University of Singapore), Jure Leskovec (Stanford University), Yizhou Sun (University of California, Los Angeles)*** also participated in it.
 
 This project focuses on GNN, lists relevant must-read papers and keeps track of progress.  We look forward to promoting this direction and providing some help to researchers in this direction.
 
@@ -12,16 +12,16 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 ***Very hot research topic: 
 
-***(1) The representative work--Semi-supervised classification with graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).Update: 3, 018 times (on 17 March. 2020); Update: 3,560 times (on 27 May. 2020); Update: 4,060 times (on 3 July. 2020); Update: 5,371 times (on 25 Oct. 2020). Update: 6,258 times (on 01 Jan. 2021).**Update: 6,672 times (on 07 Feb. 2021)**; 
+***(1) The representative work--Semi-supervised classification with graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).Update: 3, 018 times (on 17 March. 2020); Update: 3,560 times (on 27 May. 2020); Update: 4,060 times (on 3 July. 2020); Update: 5,371 times (on 25 Oct. 2020). Update: 6,258 times (on 01 Jan. 2021). Update: 6,672 times (on 07 Feb. 2021). **Update: 8,454 times (on 16 June. 2021)**; 
 
-***(2)The representative survey--"A Comprehensive Survey on Graph Neural Networks, TNNLS, 2020***. **Update: 1,142 times in Google Scholar (on 07 Feb. 2021)**
+***(2)The representative survey--"A Comprehensive Survey on Graph Neural Networks, TNNLS, 2020***. Update: 1,142 times in Google Scholar (on 07 Feb. 2021). **Update: 1,644 times in Google Scholar (on 16 June. 2021)**
 
 
 ***Thanks for giving us so many stars and supports from the developers and scientists on Github around the world！！！ We will continue to make this project better.***
 
-***Project Start time: 11 Dec 2018, Latest updated time: 07 Feb. 2021***
+***Project Start time: 11 Dec 2018, Latest updated time: 16 June. 2021***
 
- ***New papers about GNN models and their applications have come from AAAI2021 .... We are waiting for more paper to be released.***
+ ***New papers about GNN models and their applications have come from ICML2021,.... We are waiting for more paper to be released.***
 
 
 ## Survey papers:
@@ -640,6 +640,17 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 252. Yuhang Yao et al. **Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks**. AAAI 2021, [paper](https://arxiv.org/abs/2012.08740)
 
 253. Daizong Liu et al. **Spatiotemporal Graph Neural Network Based Mask Reconstruction for Video Object Segmentation**. AAAI 2021, [paper](https://arxiv.org/abs/2012.05499)
+
+254. Cai T et al. **Graphnorm: A principled approach to accelerating graph neural network training**. ICML 2021. [paper](https://arxiv.org/pdf/2009.03294.pdf)
+
+255. Baranwal A et al. **Graph Convolution for Semi-Supervised Classification: Improved Linear Separability and Out-of-Distribution Generalization**. ICML 2021. [paper](https://arxiv.org/pdf/2102.06966.pdf)
+
+256. Hang M et al. **A Collective Learning Framework to Boost GNN Expressiveness**. ICML 2021. [paper](https://arxiv.org/pdf/2003.12169.pdf)
+
+257. Henderson R et al. **Improving Molecular Graph Neural Network Explainability with Orthonormalization and Induced Sparsity**. ICML 2021. [paper](https://arxiv.org/pdf/2105.04854.pdf)
+
+258. Fey M et al. **GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings**. ICML 2021. [paper](https://arxiv.org/pdf/2106.05609.pdf)
+
 
 
 ## ArXiv papers:
