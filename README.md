@@ -134,7 +134,9 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 45. Bianchi F M, et al. **Graph neural networks with convolutional arma filters**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. [paper](https://ieeexplore.7648.top/abstract/document/9336270/)
 
-46. Chowdhury A, et al. **Unfolding wmmse using graph neural networks for efficient power allocation**. IEEE Transactions on Wireless Communications, 2021. [paper](https://ieeexplore.7648.top/abstract/document/9403959/)
+46. Bentian Li, et al. **Dual Mutual Robust Graph Convolutional Network for Weakly Supervised Node Classification in Social Networks of Internet of People**. IEEE Internet of Things Journal, 2021. [paper](https://ieeexplore.ieee.org/document/9463468)
+
+47. Chowdhury A, et al. **Unfolding wmmse using graph neural networks for efficient power allocation**. IEEE Transactions on Wireless Communications, 2021. [paper](https://ieeexplore.7648.top/abstract/document/9403959/)
 
 
 ## Conference papers:
