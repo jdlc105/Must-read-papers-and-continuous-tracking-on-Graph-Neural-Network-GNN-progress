@@ -710,6 +710,8 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 283. **AutoGCL: Automated Graph Contrastive Learning via Learnable View Generators**. AAAI 2022. [paper](https://arxiv.org/pdf/2109.10259.pdf)
 
+284. **Adversarial Graph Contrastive Learning with Information Regularization**. AAAI 2022. [paper](https://arxiv.org/pdf/2202.06491.pdf)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN applications proposed in 2022** 
 
