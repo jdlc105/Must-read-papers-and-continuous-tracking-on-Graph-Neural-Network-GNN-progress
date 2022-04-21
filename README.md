@@ -684,6 +684,7 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 272. Waiss Azizian, et al. **Expressive Power of Invariant and Equivariant Graph Neural Networks**. ICLR 2021. [paper](https://openreview.net/pdf?id=lxHgXYN4bwl)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN methods proposed in 2022** 
 
 273. **Learning from the Dark: Boosting Graph Convolutional Neural Networks with Diverse Negative Samples**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-4442.DuanW.pdf)
@@ -708,6 +709,7 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 283. **AutoGCL: Automated Graph Contrastive Learning via Learnable View Generators**. AAAI 2022. [paper](https://arxiv.org/pdf/2109.10259.pdf)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN applications proposed in 2022** 
 
 **Hybrid Graph Neural Networks for Few-Shot Learning**. AAAI 2022. [paper](https://arxiv.org/pdf/2112.06538.pdf)
