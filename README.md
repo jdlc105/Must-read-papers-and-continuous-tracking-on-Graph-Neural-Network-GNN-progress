@@ -684,10 +684,11 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 272. Waiss Azizian, et al. **Expressive Power of Invariant and Equivariant Graph Neural Networks**. ICLR 2021. [paper](https://openreview.net/pdf?id=lxHgXYN4bwl)
 
+**Progress in 2022**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN methods proposed in 2022** 
 
-273. **Learning from the Dark: Boosting Graph Convolutional Neural Networks with Diverse Negative Samples**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-4442.DuanW.pdf)
+274. **Learning from the Dark: Boosting Graph Convolutional Neural Networks with Diverse Negative Samples**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-4442.DuanW.pdf)
 
 274. **Block Modeling-Guided Graph Convolutional Neural Networks**. AAAI 2022. [paper](https://arxiv.org/pdf/2112.13507.pdf)
 
