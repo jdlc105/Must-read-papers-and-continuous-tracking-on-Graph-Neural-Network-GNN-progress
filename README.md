@@ -136,11 +136,11 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 47. Chowdhury A, et al. **Unfolding wmmse using graph neural networks for efficient power allocation**. IEEE Transactions on Wireless Communications, 2021. [paper](https://ieeexplore.7648.top/abstract/document/9403959/)
 
 
-**Progress in 2022**
+**Progress in 2022 in Journal Paper**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN methods proposed in 2022** 
 
-49. **Deep Constraint-Based Propagation in Graph Neural Networks**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9405452)
+48. **Deep Constraint-Based Propagation in Graph Neural Networks**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9405452)
 
 50. **Learning Deep Graph Representations via Convolutional Neural Networks**. IEEE Transactions on Knowledge and Data Engineering, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9158338)
 
@@ -149,7 +149,7 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 **Novel GNN-based applications proposed in 2022** 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-53. **A Graph Neural Network-Based Digital Twin for Network Slicing Management**. IEEE Transactions on Industrial Informatics, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9310275)
+51. **A Graph Neural Network-Based Digital Twin for Network Slicing Management**. IEEE Transactions on Industrial Informatics, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9310275)
 
 53. **Low-Complexity Recruitment for Collaborative Mobile Crowdsourcing Using Graph Neural Networks**. IEEE Internet of Things Journal, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9446513)
 
@@ -706,7 +706,7 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 272. Waiss Azizian, et al. **Expressive Power of Invariant and Equivariant Graph Neural Networks**. ICLR 2021. [paper](https://openreview.net/pdf?id=lxHgXYN4bwl)
 
-**Progress in 2022**
+**Progress in 2022 in Conference Paper**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN methods proposed in 2022** 
 
