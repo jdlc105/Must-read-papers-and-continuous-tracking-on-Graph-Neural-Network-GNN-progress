@@ -710,26 +710,58 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 283. **AutoGCL: Automated Graph Contrastive Learning via Learnable View Generators**. AAAI 2022. [paper](https://arxiv.org/pdf/2109.10259.pdf)
 
-284. **Adversarial Graph Contrastive Learning with Information Regularization**. AAAI 2022. [paper](https://arxiv.org/pdf/2202.06491.pdf)
+284. **Adversarial Graph Contrastive Learning with Information Regularization**. WWW 2022. [paper](https://arxiv.org/pdf/2202.06491.pdf)
+
+285. **Confidence May Cheat: Self-Training on Graph Neural Networks under Distribution Shift**. WWW 2022. [paper](https://arxiv.org/pdf/2201.11349.pdf)
+
+286. **Curvature Graph Generative Adversarial Networks**. WWW 2022. [paper](https://arxiv.org/pdf/2203.01604.pdf)
+
+287. **Dual Space Graph Contrastive Learning**. WWW 2022. [paper](https://arxiv.org/pdf/2201.07409.pdf)
+
+288. **GBK-GNN: Gated Bi-Kernel Graph Neural Network for Modeling Both Homophily and Heterophily**. WWW 2022. [paper](https://arxiv.org/pdf/2110.15777.pdf)
+
+289. **Geometric Graph Representation Learning via Maximizing Rate Reduction**. WWW 2022. [paper](https://arxiv.org/pdf/2202.06241.pdf)
+
+290. **Graph Communal Contrastive Learning**. WWW 2022. [paper](https://arxiv.org/pdf/2110.14863.pdf)
+
+291. **Graph Neural Networks Beyond Compromise Between Attribute and Topology**. WWW 2022. [paper](https://yangliang.github.io/pdf/www22.pdf)
+
+292. **Graph-adaptive Rectified Linear Unit for Graph Neural Networks**. WWW 2022. [paper](https://arxiv.org/pdf/2202.06281.pdf)
+
+293. **Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily**. WWW 2022. [paper](https://arxiv.org/pdf/2202.06281.pdf)
+
+294. **Polarized Graph Neural Networks**. WWW 2022. [Temporarily unavailable]
+
+295. **On Size-Oriented Long-Tailed Graph Classification of Graph Neural Networks**. WWW 2022. [paper](https://zemin-liu.github.io/papers/SOLT-GNN-WWW-22.pdf)
+
+296. **SimGRACE: A Simple Framework for Graph Contrastive Learning without Data Augmentation**. WWW 2022. [paper](https://arxiv.org/pdf/2202.03104.pdf)
+
+297. **Towards Unsupervised Deep Graph Structure Learning**. WWW 2022. [paper](https://arxiv.org/pdf/2201.06367.pdf)
+
+298. **Expressiveness and Approximation Properties of Graph Neural Networks**. ICLR 2022. [paper](https://openreview.net/pdf?id=wIzUeM3TAU)
+
+299. **A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"**. ICLR 2022. [paper](https://openreview.net/pdf?id=uxgg9o7bI_3)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN applications proposed in 2022** 
 
-**Hybrid Graph Neural Networks for Few-Shot Learning**. AAAI 2022. [paper](https://arxiv.org/pdf/2112.06538.pdf)
+300. **Hybrid Graph Neural Networks for Few-Shot Learning**. AAAI 2022. [paper](https://arxiv.org/pdf/2112.06538.pdf)
 
-**Qubit Routing Using Graph Neural Network Aided Monte Carlo Tree Search**. AAAI 2022. [paper](https://arxiv.org/pdf/2104.01992.pdf)
+300. **Qubit Routing Using Graph Neural Network Aided Monte Carlo Tree Search**. AAAI 2022. [paper](https://arxiv.org/pdf/2104.01992.pdf)
 
-**CausalGNN: Causal-Based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AISI-6475.WangL.pdf)
+300. **CausalGNN: Causal-Based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AISI-6475.WangL.pdf)
 
-**LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-51.GoodgeA.pdf)
+300. **LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-51.GoodgeA.pdf)
 
-**DDGCN: Dual Dynamic Graph Convolutional Networks for Rumor Detection on Social Media**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-6370.SunM.pdf)
+300. **DDGCN: Dual Dynamic Graph Convolutional Networks for Rumor Detection on Social Media**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-6370.SunM.pdf)
 
-**Low-Pass Graph Convolutional Network for Recommendation**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-3643.WenhuiY.pdf)
+300. **Low-Pass Graph Convolutional Network for Recommendation**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-3643.WenhuiY.pdf)
 
-**Learning to Detect 3D Facial Landmarks via Heatmap Regression with Graph Convolutional Network**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-4116.WangY.pdf)
+300. **Learning to Detect 3D Facial Landmarks via Heatmap Regression with Graph Convolutional Network**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-4116.WangY.pdf)
 
-**GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction**. AAAI 2022. [paper](https://arxiv.org/pdf/2109.11730.pdf)
+300. **GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction**. AAAI 2022. [paper](https://arxiv.org/pdf/2109.11730.pdf)
+
+300. **AUC-oriented Graph Neural Network for Fraud Detection**. WWW 2022. [paper](https://ponderly.github.io/pub/AOGNN_WWW2022.pdf)
 
 
 ## ArXiv papers:
