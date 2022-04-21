@@ -137,7 +137,7 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 
 **Progress in 2022 in Journal Paper**
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN methods proposed in 2022** 
 
 48. **Deep Constraint-Based Propagation in Graph Neural Networks**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9405452)
@@ -146,8 +146,8 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 
 51. **On Inductive–Transductive Learning With Graph Neural Networks**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9335498)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN-based applications proposed in 2022** 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 51. **A Graph Neural Network-Based Digital Twin for Network Slicing Management**. IEEE Transactions on Industrial Informatics, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9310275)
 
