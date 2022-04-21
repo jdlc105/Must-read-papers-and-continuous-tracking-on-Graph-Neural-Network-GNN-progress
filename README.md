@@ -136,6 +136,28 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 47. Chowdhury A, et al. **Unfolding wmmse using graph neural networks for efficient power allocation**. IEEE Transactions on Wireless Communications, 2021. [paper](https://ieeexplore.7648.top/abstract/document/9403959/)
 
 
+**Progress in 2022**
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Novel GNN methods proposed in 2022** 
+
+49. **Deep Constraint-Based Propagation in Graph Neural Networks**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9405452)
+
+50. **Learning Deep Graph Representations via Convolutional Neural Networks**. IEEE Transactions on Knowledge and Data Engineering, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9158338)
+
+51. **On Inductive–Transductive Learning With Graph Neural Networks**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9335498)
+
+**Novel GNN-based applications proposed in 2022** 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+53. **A Graph Neural Network-Based Digital Twin for Network Slicing Management**. IEEE Transactions on Industrial Informatics, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9310275)
+
+53. **Low-Complexity Recruitment for Collaborative Mobile Crowdsourcing Using Graph Neural Networks**. IEEE Internet of Things Journal, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9446513)
+
+53. **Resilient UAV Swarm Communications With Graph Convolutional Neural Network**. IEEE Journal on Selected Areas in Communications, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9618911)
+
+53. **A Graph Neural Network Framework for Social Recommendations**. IEEE Transactions on Knowledge and Data Engineering, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139346)
+
+
 ## Conference papers:
 
 1. Duvenaud D, Maclaurin D, Aguilera-Iparraguirre J, et al. **Convolutional networks on graphs for learning molecular fingerprints**, NeurIPS(NIPS) 2015.  [paper](http://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf). [code](https://github.com/HIPS/neural-fingerprint).
@@ -743,9 +765,9 @@ Contributed by Allen Bluce and Anne Bluce, If there is something wrong or GNN-re
 299. **A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"**. ICLR 2022. [paper](https://openreview.net/pdf?id=uxgg9o7bI_3)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Novel GNN applications proposed in 2022** 
+**Novel GNN-based applications proposed in 2022** 
 
-300. **Hybrid Graph Neural Networks for Few-Shot Learning**. AAAI 2022. [paper](https://arxiv.org/pdf/2112.06538.pdf)
+302. **Hybrid Graph Neural Networks for Few-Shot Learning**. AAAI 2022. [paper](https://arxiv.org/pdf/2112.06538.pdf)
 
 300. **Qubit Routing Using Graph Neural Network Aided Monte Carlo Tree Search**. AAAI 2022. [paper](https://arxiv.org/pdf/2104.01992.pdf)
 
