@@ -41,6 +41,9 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 9. **Self-Supervised Learning of Graph Neural Networks: A Unified Review**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. [paper](https://ieeexplore.m7h.net/document/9764632)
 
+10. **Survey on Graph Neural Network Acceleration: An Algorithmic Perspective**. IJCAI 2022. [paper](https://www.ijcai.org/proceedings/2022/0772.pdf)
+
+
 ## Journal papers:
 
 1. F. Scarselli, M. Gori, A.C. Tsoi, M. Hagenbuchner, G. Monfardini, **The graph neural network model**, IEEE Transactions on Neural Networks(IEEE Transactions on Neural Networks and Learning Systems), 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287&tag=1).
@@ -183,7 +186,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN-based applications proposed in 2023** 
 
-61. **Combining Graph Neural Networks With Expert Knowledge for Smart Contract Vulnerability Detection**. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.m7h.net/stamp/stamp.jsp?tp=&arnumber=9477066)
+63. **Combining Graph Neural Networks With Expert Knowledge for Smart Contract Vulnerability Detection**. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.m7h.net/stamp/stamp.jsp?tp=&arnumber=9477066)
 
 53. **Bundle Recommendation and Generation With Graph Neural Networks**. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.m7h.net/document/9546546)
 
@@ -831,7 +834,6 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 299. **Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification**. IJCAI 2022. [paper](https://www.ijcai.org/proceedings/2022/0272.pdf)
 
-299. **Survey on Graph Neural Network Acceleration: An Algorithmic Perspective**. IJCAI 2022. [paper](https://www.ijcai.org/proceedings/2022/0772.pdf)
 
 
 
