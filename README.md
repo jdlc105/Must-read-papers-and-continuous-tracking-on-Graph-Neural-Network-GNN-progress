@@ -778,9 +778,13 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 299. **Graph Neural Network Training and Data Tiering**. KDD 2022. [paper](https://dl-acm-org.ndfpz.top/doi/pdf/10.1145/3534678.3539038)
 
+299. **Model Degradation Hinders Deep Graph Neural Networks**. KDD 2022. [paper](https://dl-acm-org.geray.top/doi/pdf/10.1145/3534678.3539374)
 
+299. **Improving Social Network Embedding via New Second-Order Continuous Graph Neural Networks**. KDD 2022. [paper](https://dl-acm-org.geray.top/doi/pdf/10.1145/3534678.3539415)
 
+299. **Graph Neural Networks with Node-wise Architecture**. KDD 2022. [paper](https://dl-acm-org.geray.top/doi/pdf/10.1145/3534678.3539387)
 
+299. **GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks**. KDD 2022. [paper](https://dl-acm-org.geray.top/doi/pdf/10.1145/3534678.3539249)
 
 
 
@@ -793,7 +797,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN-based applications proposed in 2022** 
 
-301. **Hybrid Graph Neural Networks for Few-Shot Learning**. AAAI 2022. [paper](https://arxiv.org/pdf/2112.06538.pdf)
+300. **Hybrid Graph Neural Networks for Few-Shot Learning**. AAAI 2022. [paper](https://arxiv.org/pdf/2112.06538.pdf)
 
 300. **Qubit Routing Using Graph Neural Network Aided Monte Carlo Tree Search**. AAAI 2022. [paper](https://arxiv.org/pdf/2104.01992.pdf)
 
