@@ -786,9 +786,19 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 299. **GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks**. KDD 2022. [paper](https://dl-acm-org.geray.top/doi/pdf/10.1145/3534678.3539249)
 
+299. **How does Heterophily Impact the Robustness of Graph Neural Networks? Theoretical Connections and Practical Implications**. KDD 2022. [paper](https://dl-acm-org.geray.top/doi/pdf/10.1145/3534678.3539418)
 
+299. **Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute Leakage**. KDD 2022. [paper](https://dl-acm-org.ndfpz.top/doi/pdf/10.1145/3534678.3539404)
 
+299. **Hierarchical Diffusion Scattering Graph Neural Network**. IJCAI 2022. [paper](https://www.ijcai.org/proceedings/2022/0519.pdf)
 
+299. **RAW-GNN: RAndom Walk Aggregation based Graph Neural Network**. IJCAI 2022. [paper](https://www.ijcai.org/proceedings/2022/0293.pdf)
+
+299. **Survey on Graph Neural Network Acceleration: An Algorithmic Perspective**. IJCAI 2022. [paper](https://www.ijcai.org/proceedings/2022/0772.pdf)
+
+299. **Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification**. IJCAI 2022. [paper](https://www.ijcai.org/proceedings/2022/0272.pdf)
+
+299. **Survey on Graph Neural Network Acceleration: An Algorithmic Perspective**. IJCAI 2022. [paper](https://www.ijcai.org/proceedings/2022/0772.pdf)
 
 
 
@@ -797,43 +807,43 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN-based applications proposed in 2022** 
 
-300. **Hybrid Graph Neural Networks for Few-Shot Learning**. AAAI 2022. [paper](https://arxiv.org/pdf/2112.06538.pdf)
+299. **Hybrid Graph Neural Networks for Few-Shot Learning**. AAAI 2022. [paper](https://arxiv.org/pdf/2112.06538.pdf)
 
-300. **Qubit Routing Using Graph Neural Network Aided Monte Carlo Tree Search**. AAAI 2022. [paper](https://arxiv.org/pdf/2104.01992.pdf)
+299. **Qubit Routing Using Graph Neural Network Aided Monte Carlo Tree Search**. AAAI 2022. [paper](https://arxiv.org/pdf/2104.01992.pdf)
 
-300. **CausalGNN: Causal-Based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AISI-6475.WangL.pdf)
+299. **CausalGNN: Causal-Based Graph Neural Networks for Spatio-Temporal Epidemic Forecasting**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AISI-6475.WangL.pdf)
 
-300. **LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-51.GoodgeA.pdf)
+299. **LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-51.GoodgeA.pdf)
 
-300. **DDGCN: Dual Dynamic Graph Convolutional Networks for Rumor Detection on Social Media**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-6370.SunM.pdf)
+299. **DDGCN: Dual Dynamic Graph Convolutional Networks for Rumor Detection on Social Media**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-6370.SunM.pdf)
 
-300. **Low-Pass Graph Convolutional Network for Recommendation**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-3643.WenhuiY.pdf)
+299. **Low-Pass Graph Convolutional Network for Recommendation**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-3643.WenhuiY.pdf)
 
-300. **Learning to Detect 3D Facial Landmarks via Heatmap Regression with Graph Convolutional Network**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-4116.WangY.pdf)
+299. **Learning to Detect 3D Facial Landmarks via Heatmap Regression with Graph Convolutional Network**. AAAI 2022. [paper](https://www.aaai.org/AAAI22Papers/AAAI-4116.WangY.pdf)
 
-300. **GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction**. AAAI 2022. [paper](https://arxiv.org/pdf/2109.11730.pdf)
+299. **GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction**. AAAI 2022. [paper](https://arxiv.org/pdf/2109.11730.pdf)
 
-300. **AUC-oriented Graph Neural Network for Fraud Detection**. WWW 2022. [paper](https://ponderly.github.io/pub/AOGNN_WWW2022.pdf)
+299. **AUC-oriented Graph Neural Network for Fraud Detection**. WWW 2022. [paper](https://ponderly.github.io/pub/AOGNN_WWW2022.pdf)
 
-300. **Molecular Representation Learning via Heterogeneous Motif Graph Neural Networks**. ICML 2022. [paper](https://proceedings.mlr.press/v162/yu22a/yu22a.pdf)
+299. **Molecular Representation Learning via Heterogeneous Motif Graph Neural Networks**. ICML 2022. [paper](https://proceedings.mlr.press/v162/yu22a/yu22a.pdf)
 
-300. **Rethinking Graph Neural Networks for Anomaly Detection**. ICML 2022. [paper](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf)
+299. **Rethinking Graph Neural Networks for Anomaly Detection**. ICML 2022. [paper](https://proceedings.mlr.press/v162/tang22b/tang22b.pdf)
 
-300. **DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting**. ICML 2022. [paper](https://proceedings.mlr.press/v162/lan22a/lan22a.pdf)
+299. **DSTAGNN: Dynamic Spatial-Temporal Aware Graph Neural Network for Traffic Flow Forecasting**. ICML 2022. [paper](https://proceedings.mlr.press/v162/lan22a/lan22a.pdf)
 
-300. **Motif Prediction with Graph Neural Networks**. KDD 2022. [paper](https://dl-acm-org.nhobg.top/doi/pdf/10.1145/3534678.3539343)
+299. **Motif Prediction with Graph Neural Networks**. KDD 2022. [paper](https://dl-acm-org.nhobg.top/doi/pdf/10.1145/3534678.3539343)
 
-300. **Graph Neural Networks in Life Sciences: Opportunities and Solutions**. KDD 2022. [paper](https://dl-acm-org.nhobg.top/doi/pdf/10.1145/3534678.3542628)
+299. **Graph Neural Networks in Life Sciences: Opportunities and Solutions**. KDD 2022. [paper](https://dl-acm-org.nhobg.top/doi/pdf/10.1145/3534678.3542628)
 
+299. **Graph2Route: A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction**. KDD 2022. [paper](https://dl-acm-org.ndfpz.top/doi/pdf/10.1145/3534678.3539084)
 
+299. **Recipe2Vec: Multi-modal Recipe Representation Learning with Graph Neural Networks**. IJCAI 2022. [paper](https://www.ijcai.org/proceedings/2022/0482.pdf)
 
+299. **Self-supervised Graph Neural Networks for Multi-behavior Recommendation**. IJCAI 2022. [paper](https://www.ijcai.org/proceedings/2022/0285.pdf)
 
+299. **RouteNet-Erlang: A Graph Neural Network for Network Performance Evaluation**. IEEE INFORCOM 2022. [paper](https://ieeexplore.ieee.org/document/9796944)
 
-
-
-
-
-
+299. **PolyWorld: Polygonal Building Extraction with Graph Neural Networks in Satellite Images**. CVPR 2022. [paper](https://ieeexplore.ieee.org/document/9880425)
 
 
 
