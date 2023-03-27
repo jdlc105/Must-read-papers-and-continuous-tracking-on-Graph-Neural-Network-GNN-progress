@@ -39,10 +39,21 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 8. Lamb L, Garcez A, Gori M, et al. **Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective**. arXiv preprint. 2020. [paper](https://arxiv.org/pdf/2003.00330.pdf)
 
+9. **Computing graph neural networks: A survey from algorithms to accelerators**. ACM Computing Surveys, 2021. [paper](https://dl-acm-org.ilyvt.top/doi/pdf/10.1145/3477141)
+
+9. **Survey on Graph Neural Network Acceleration: An Algorithmic Perspective**. IJCAI 2022. [paper](https://www.ijcai.org/proceedings/2022/0772.pdf)
+
+9. **Graph neural networks in recommender systems: a survey**. ACM Computing Surveys, 2022. [paper](https://dl-acm-org.ilyvt.top/doi/pdf/10.1145/3535101)
+
+9. **Trustworthy graph neural networks: Aspects, methods and trends**. arXiv preprint, 2022. [paper](https://arxiv.org/pdf/2205.07424.pdf)
+
+9. **Explainability in Graph Neural Networks: A Taxonomic Survey**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022. [paper](https://ieeexplore.m7h.net/abstract/document/9875989)
+
+9. **Graph Lifelong Learning: A Survey**. IEEE Computational Intelligence Magazine, 2023. [paper](https://ieeexplore.m7h.net/abstract/document/10026151)
+
+9. **A Comprehensive Survey of Graph-level Learning**. arXiv preprint, 2023. [paper](https://arxiv.org/pdf/2301.05860.pdf)
+
 9. **Self-Supervised Learning of Graph Neural Networks: A Unified Review**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. [paper](https://ieeexplore.m7h.net/document/9764632)
-
-10. **Survey on Graph Neural Network Acceleration: An Algorithmic Perspective**. IJCAI 2022. [paper](https://www.ijcai.org/proceedings/2022/0772.pdf)
-
 
 ## Journal papers:
 
@@ -842,7 +853,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN-based applications proposed in 2022** 
 
-319. **Hybrid Graph Neural Networks for Few-Shot Learning**. AAAI 2022. [paper](https://arxiv.org/pdf/2112.06538.pdf)
+318. **Hybrid Graph Neural Networks for Few-Shot Learning**. AAAI 2022. [paper](https://arxiv.org/pdf/2112.06538.pdf)
 
 299. **Qubit Routing Using Graph Neural Network Aided Monte Carlo Tree Search**. AAAI 2022. [paper](https://arxiv.org/pdf/2104.01992.pdf)
 
