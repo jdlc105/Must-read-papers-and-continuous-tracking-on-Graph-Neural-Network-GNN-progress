@@ -157,6 +157,39 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 53. **A Graph Neural Network Framework for Social Recommendations**. IEEE Transactions on Knowledge and Data Engineering, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139346)
 
+**Progress in 2023 in Journal Paper**
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+**Novel GNN methods proposed in 2023** 
+
+53. **Higher-Order Interaction Goes Neural: A Substructure Assembling Graph Attention Network for Graph Classification**. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.m7h.net/stamp/stamp.jsp?tp=&arnumber=9516965)
+
+53. **Higher-Order Attribute-Enhancing Heterogeneous Graph Neural Networks**. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.m7h.net/stamp/stamp.jsp?tp=&arnumber=9415142)
+
+53. **Self-Supervised Learning of Graph Neural Networks: A Unified Review**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. [paper](https://ieeexplore.m7h.net/document/9764632)
+
+53. **Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. [paper](https://ieeexplore.m7h.net/document/9721082)
+
+53. **Neighbor-Anchoring Adversarial Graph Neural Networks**. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.m7h.net/document/9453132)
+
+53. **HGNAS++: Efficient Architecture Search for Heterogeneous Graph Neural Networks**. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.m7h.net/stamp/stamp.jsp?tp=&arnumber=10040227)
+
+53. **Multi-View Tensor Graph Neural Networks Through Reinforced Aggregation**. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.m7h.net/document/9711926)
+
+53. **Bag of Tricks for Training Deeper Graph Neural Networks: A Comprehensive Benchmark Study**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. [paper](https://ieeexplore.m7h.net/document/9773017/)
+
+53. **Reinforced Causal Explainer for Graph Neural Networks**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. [paper](https://ieeexplore.m7h.net/document/9763330)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Novel GNN-based applications proposed in 2023** 
+
+53. **Combining Graph Neural Networks With Expert Knowledge for Smart Contract Vulnerability Detection**. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.m7h.net/stamp/stamp.jsp?tp=&arnumber=9477066)
+
+53. **Bundle Recommendation and Generation With Graph Neural Networks**. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.m7h.net/document/9546546)
+
+53. **Integrating Multi-Label Contrastive Learning With Dual Adversarial Graph Neural Networks for Cross-Modal Retrieval**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. [paper](https://ieeexplore.m7h.net/document/9815553)
+
+
 
 ## Conference papers:
 
@@ -807,7 +840,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN-based applications proposed in 2022** 
 
-299. **Hybrid Graph Neural Networks for Few-Shot Learning**. AAAI 2022. [paper](https://arxiv.org/pdf/2112.06538.pdf)
+319. **Hybrid Graph Neural Networks for Few-Shot Learning**. AAAI 2022. [paper](https://arxiv.org/pdf/2112.06538.pdf)
 
 299. **Qubit Routing Using Graph Neural Network Aided Monte Carlo Tree Search**. AAAI 2022. [paper](https://arxiv.org/pdf/2104.01992.pdf)
 
