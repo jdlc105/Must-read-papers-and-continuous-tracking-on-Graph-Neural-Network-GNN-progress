@@ -39,6 +39,8 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 8. Lamb L, Garcez A, Gori M, et al. **Graph Neural Networks Meet Neural-Symbolic Computing: A Survey and Perspective**. arXiv preprint. 2020. [paper](https://arxiv.org/pdf/2003.00330.pdf)
 
+9. **Self-Supervised Learning of Graph Neural Networks: A Unified Review**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. [paper](https://ieeexplore.m7h.net/document/9764632)
+
 ## Journal papers:
 
 1. F. Scarselli, M. Gori, A.C. Tsoi, M. Hagenbuchner, G. Monfardini, **The graph neural network model**, IEEE Transactions on Neural Networks(IEEE Transactions on Neural Networks and Learning Systems), 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287&tag=1).
@@ -161,11 +163,9 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN methods proposed in 2023** 
 
-53. **Higher-Order Interaction Goes Neural: A Substructure Assembling Graph Attention Network for Graph Classification**. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.m7h.net/stamp/stamp.jsp?tp=&arnumber=9516965)
+55. **Higher-Order Interaction Goes Neural: A Substructure Assembling Graph Attention Network for Graph Classification**. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.m7h.net/stamp/stamp.jsp?tp=&arnumber=9516965)
 
 53. **Higher-Order Attribute-Enhancing Heterogeneous Graph Neural Networks**. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.m7h.net/stamp/stamp.jsp?tp=&arnumber=9415142)
-
-53. **Self-Supervised Learning of Graph Neural Networks: A Unified Review**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. [paper](https://ieeexplore.m7h.net/document/9764632)
 
 53. **Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. [paper](https://ieeexplore.m7h.net/document/9721082)
 
@@ -183,7 +183,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN-based applications proposed in 2023** 
 
-53. **Combining Graph Neural Networks With Expert Knowledge for Smart Contract Vulnerability Detection**. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.m7h.net/stamp/stamp.jsp?tp=&arnumber=9477066)
+61. **Combining Graph Neural Networks With Expert Knowledge for Smart Contract Vulnerability Detection**. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.m7h.net/stamp/stamp.jsp?tp=&arnumber=9477066)
 
 53. **Bundle Recommendation and Generation With Graph Neural Networks**. IEEE Transactions on Knowledge and Data Engineering, 2023. [paper](https://ieeexplore.m7h.net/document/9546546)
 
