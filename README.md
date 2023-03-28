@@ -21,7 +21,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
  ***New papers about GNN models and their applications have come from ICML2022, KDD2022,... We are waiting for more paper to be released.***
 
 
-## Survey papers:
+## + Survey papers in red:
 
 1. Bronstein M M, Bruna J, LeCun Y, et al. **Geometric deep learning: going beyond euclidean data**. IEEE Signal Processing Magazine, 2017, 34(4): 18-42. [paper](https://ieeexplore.ieee.org/abstract/document/7974879/)
 
