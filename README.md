@@ -646,21 +646,21 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 220. Chen K, Niu M, Chen Q. **A Hierarchical Reasoning Graph Neural Network for The Automatic Scoring of Answer Transcriptions in Video Job Interviews**. AAAI 2021. [paper](https://arxiv.org/abs/2012.11960)
 
-221. Liang Yang, et al. **Why Do Attributes Propagate in Graph Convolutional Neural Networks?**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+221. Liang Yang, et al. **Why Do Attributes Propagate in Graph Convolutional Neural Networks?**. AAAI 2021, [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16588)
 
-222. Xueyang Fu, et al. **Rain Streak Removal via Dual Graph Convolutional Network**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+222. Xueyang Fu, et al. **Rain Streak Removal via Dual Graph Convolutional Network**. AAAI 2021, [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16224)
 
-223. Inhwan Bae et al. **Disentangled Multi-Relational Graph Convolutional Network for Pedestrian Trajectory Prediction**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+223. Inhwan Bae et al. **Disentangled Multi-Relational Graph Convolutional Network for Pedestrian Trajectory Prediction**. AAAI 2021, [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16174)
 
 224. Xin Xia et al. **Self-Supervised Hypergraph Convolutional Networks for Session-Based Recommendation**. AAAI 2021, [paper](https://arxiv.org/abs/2012.06852)
 
 225. Sheng Wan et al. **Contrastive and Generative Graph Convolutional Networks for Graph-Based SemiSupervised Learning**. AAAI 2021, [paper](https://arxiv.org/abs/2009.07111)
 
-226. Zhan Chen et al. **Multi-Scale Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+226. Zhan Chen et al. **Multi-Scale Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition**. AAAI 2021, [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16197)
 
 227. Xin Chen et al. **Fitting the Search Space of Weight-Sharing NAS with Graph Convolutional Networks**. AAAI 2021, [paper](https://arxiv.org/abs/2004.08423)
 
-228. Qingbao Huang et al. **Story Ending Generation with Multi-Level Graph Convolutional Networks over Dependency Trees**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+228. Qingbao Huang et al. **Story Ending Generation with Multi-Level Graph Convolutional Networks over Dependency Trees**. AAAI 2021, [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17545)
 
 229. Heng Chang et al. **Power up! Robust Graph Convolutional Network via Graph Powering**. AAAI 2021, [paper](https://people.eecs.berkeley.edu/~sojoudi/Robust_GCN.pdf)
 
@@ -698,13 +698,13 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 246. Tengfei Song et al. **Uncertain Graph Neural Networks for Facial Action Unit Detection**. AAAI 2021, [paper](https://www.researchgate.net/publication/346853340_Uncertain_Graph_Neural_Networks_for_Facial_Action_Unit_Detection)
 
-247. Li Sun et al. **Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+247. Li Sun et al. **Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs**. AAAI 2021, [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16563))
 
 248. Binghui Wang et al. **Semi-Supervised Node Classification on Graphs: Markov Random Fields vs. Graph Neural Networks**. AAAI 2021, [paper](https://arxiv.org/abs/2012.13085)
 
 249. Arijit Sehanobish et al. **Gaining Insight into SARS-CoV-2 Infection and COVID-19 Severity Using Self-Supervised Edge Features and Graph Neural Networks**. AAAI 2021, [paper](https://arxiv.org/abs/2006.12971)
 
-250. Utkarsh Desai et al. **Graph Neural Network to Dilute Outliers for Refactoring Monolith Application**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+250. Utkarsh Desai et al. **Graph Neural Network to Dilute Outliers for Refactoring Monolith Application**. AAAI 2021, [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16079))
 
 251. Huihui Liu et al. **Overcoming Catastrophic Forgetting in Graph Neural Networks**. AAAI 2021, [paper](https://arxiv.org/abs/2012.06002)
 
