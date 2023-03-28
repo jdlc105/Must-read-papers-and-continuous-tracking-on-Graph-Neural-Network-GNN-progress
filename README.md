@@ -20,8 +20,10 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
  ***New papers about GNN models and their applications have come from ICML2022, KDD2022,... We are waiting for more paper to be released.***
 
+```diff
 + this will be highlighted in green
 - this will be highlighted in red
+```
 
 ## Survey papers:
 
