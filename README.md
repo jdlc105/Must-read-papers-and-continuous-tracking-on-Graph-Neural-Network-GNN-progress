@@ -22,7 +22,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 
 
-## - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Survey papers`:
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Survey papers`:
 
 1. Bronstein M M, Bruna J, LeCun Y, et al. **Geometric deep learning: going beyond euclidean data**. IEEE Signal Processing Magazine, 2017, 34(4): 18-42. [paper](https://ieeexplore.ieee.org/abstract/document/7974879/)
 
