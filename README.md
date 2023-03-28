@@ -174,11 +174,11 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 53. **A Graph Neural Network Framework for Social Recommendations**. IEEE Transactions on Knowledge and Data Engineering, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139346)
 
-**
+***
 ```diff
-+ Progress in 2023 in Journal Paper
++ _Progress in 2023 in Journal Paper_
 ```
-**
+***
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN methods proposed in 2023** 
 
