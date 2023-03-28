@@ -20,18 +20,9 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
  ***New papers about GNN models and their applications have come from ICML2022, KDD2022,... We are waiting for more paper to be released.***
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
 
 
-
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
-
-## Survey papers:
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `## Survey papers`:
 
 1. Bronstein M M, Bruna J, LeCun Y, et al. **Geometric deep learning: going beyond euclidean data**. IEEE Signal Processing Magazine, 2017, 34(4): 18-42. [paper](https://ieeexplore.ieee.org/abstract/document/7974879/)
 
@@ -183,7 +174,9 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 53. **A Graph Neural Network Framework for Social Recommendations**. IEEE Transactions on Knowledge and Data Engineering, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139346)
 
-**Progress in 2023 in Journal Paper**
+```diff
++ **Progress in 2023 in Journal Paper**
+```
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN methods proposed in 2023** 
 
