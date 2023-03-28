@@ -534,27 +534,27 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 164. Louis-Pascal A. C. Xhonneux, et al. **Continuous Graph Neural Networks**. ICML 2020. [paper](https://arxiv.org/pdf/1912.00967.pdf).
 
-165. Marc Brockschmidt, et al. **GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=5897).
+165. Marc Brockschmidt, et al. **GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation**. ICML 2020. [paper](https://proceedings.mlr.press/v119/brockschmidt20a.html).
 
-166. Arman Hasanzadeh, et al. **Bayesian Graph Neural Networks with Adaptive Connection Sampling**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=6755).
+166. Arman Hasanzadeh, et al. **Bayesian Graph Neural Networks with Adaptive Connection Sampling**. ICML 2020. [paper](https://proceedings.mlr.press/v119/hasanzadeh20a.html).
 
-167. Filipe de Avila Belbute-Peres, et al. **Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=6802).
+167. Filipe de Avila Belbute-Peres, et al. **Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction**. ICML 2020. [paper](https://proceedings.mlr.press/v119/de-avila-belbute-peres20a.html).
 
-168. Ilay Luz, et al. **Learning Algebraic Multigrid Using Graph Neural Networks**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=6369).
+168. Ilay Luz, et al. **Learning Algebraic Multigrid Using Graph Neural Networks**. ICML 2020. [paper](http://proceedings.mlr.press/v119/luz20a.html).
 
-169. Vikas K Garg, et al. **Generalization and Representational Limits of Graph Neural Networks**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=6249).
+169. Vikas K Garg, et al. **Generalization and Representational Limits of Graph Neural Networks**. ICML 2020. [paper](http://proceedings.mlr.press/v119/garg20c.html).
 
-170. Shuai Zhang, et al. **Fast Learning of Graph Neural Networks with Guaranteed Generalizability: One-hidden-layer Case**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=6527).
+170. Shuai Zhang, et al. **Fast Learning of Graph Neural Networks with Guaranteed Generalizability: One-hidden-layer Case**. ICML 2020. [paper](http://proceedings.mlr.press/v119/zhang20y.html).
 
-171. Filippo, et al. **Maria BianchiSpectral Clustering with Graph Neural Networks for Graph Pooling**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=6018).
+171. Filippo, et al. **Spectral Clustering with Graph Neural Networks for Graph Pooling**. ICML 2020. [paper](https://proceedings.mlr.press/v119/bianchi20a.html).
 
-172. Ming Chen, et al. **Simple and Deep Graph Convolutional Networks**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=6111).
+172. Ming Chen, et al. **Simple and Deep Graph Convolutional Networks**. ICML 2020. [paper](https://proceedings.mlr.press/v119/chen20v.html).
 
-173. Yuning You, et al. **When Does Self-Supervision Help Graph Convolutional Networks?**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=5947).
+173. Yuning You, et al. **When Does Self-Supervision Help Graph Convolutional Networks?**. ICML 2020. [paper](http://proceedings.mlr.press/v119/you20a.html).
 
-174. Gregor Bachmann, et al. **Constant Curvature Graph Convolutional Networks**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=6615).
+174. Gregor Bachmann, et al. **Constant Curvature Graph Convolutional Networks**. ICML 2020. [paper](http://proceedings.mlr.press/v119/bachmann20a.html).
 
-175. Wenhui Yu, et al. **Graph Convolutional Network for Recommendation with Low-pass Collaborative Filters**. ICML 2020. [paper to appear](https://icml.cc/Conferences/2020/Schedule?showEvent=5840).
+175. Wenhui Yu, et al. **Graph Convolutional Network for Recommendation with Low-pass Collaborative Filters**. ICML 2020. [paper](http://proceedings.mlr.press/v119/yu20e.html).
 
 176. Hongmin Zhu, et al. **Bilinear Graph Neural Network with Neighbor Interactions**. IJCAI 2020. [paper](https://arxiv.org/abs/2002.03575).
 
