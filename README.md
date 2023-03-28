@@ -173,11 +173,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 53. **A Graph Neural Network Framework for Social Recommendations**. IEEE Transactions on Knowledge and Data Engineering, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139346)
 
-***
-```diff
-+ _Progress in 2023 in Journal Paper_
-```
-***
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN methods proposed in 2023** 
 
@@ -208,8 +204,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 53. **Integrating Multi-Label Contrastive Learning With Dual Adversarial Graph Neural Networks for Cross-Modal Retrieval**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. [paper](https://ieeexplore.m7h.net/document/9815553)
 
 
-
-## Conference papers:
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Conference papers`:
 
 1. Duvenaud D, Maclaurin D, Aguilera-Iparraguirre J, et al. **Convolutional networks on graphs for learning molecular fingerprints**, NeurIPS(NIPS) 2015.  [paper](http://papers.nips.cc/paper/5954-convolutional-networks-on-graphs-for-learning-molecular-fingerprints.pdf). [code](https://github.com/HIPS/neural-fingerprint).
 
@@ -898,8 +893,8 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 
 
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `ArXiv papers`:
 
-## ArXiv papers:
 
 1. Li Y, Tarlow D, Brockschmidt M, et al. **Gated graph sequence neural networks**. arXiv 2015. [paper](https://arxiv.org/abs/1511.05493)
 
@@ -993,8 +988,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 44. Dai Quoc Nguyen, Tu Dinh Nguyen, Dinh Phung. **Universal Self-Attention Network for Graph Classification**. arXiv 2020.  [paper](https://arxiv.org/pdf/1909.11855.pdf)
 
-
-## Open source platform on GNN
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Open source platforms on GNN`:
 
 1. **Deep Graph Library（DGL)**
 
@@ -1103,7 +1097,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 
 
-## Appetizer for you：Art Exhibition in the Ultra-High Dimensional Network/Graph Structured Space
+## Appetizer：Art Exhibition in Network/Graph Structured Data
 
   ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig3.gif)
  
