@@ -56,7 +56,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 9. **Self-Supervised Learning of Graph Neural Networks: A Unified Review**. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023. [paper](https://ieeexplore.m7h.net/document/9764632)
 
-## Journal papers:
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Journal papers`:
 
 1. F. Scarselli, M. Gori, A.C. Tsoi, M. Hagenbuchner, G. Monfardini, **The graph neural network model**, IEEE Transactions on Neural Networks(IEEE Transactions on Neural Networks and Learning Systems), 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287&tag=1).
 
@@ -152,8 +152,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 47. Chowdhury A, et al. **Unfolding wmmse using graph neural networks for efficient power allocation**. IEEE Transactions on Wireless Communications, 2021. [paper](https://ieeexplore.7648.top/abstract/document/9403959/)
 
-
-**Progress in 2022 in Journal Paper**
+### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Progress in 2022 in Journal Paper`:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN methods proposed in 2022** 
 
