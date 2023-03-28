@@ -1,24 +1,22 @@
 # Must-read papers and continuous track on Graph Neural Network (GNN) progress
 
-Many important real-world applications and issues come in the form of graphs, such as social network, protein-protein interaction network, brain network, chemical molecular graph and 3D point cloud. Therefore, driven by the above interdisciplinary research, the neural network model for graph data-oriented has become an emerging research hotspot. Among them, two of the three pioneers of deep learning, Professor ***Yann LeCun (2018 Turing Award Winner)***, Professor ***Yoshua Bengio (2018 Turing Award Winner)*** and famous Professor ***such as Michael Bronstein (Imperial College London), Xavier Bresson (National University of Singapore), Jure Leskovec (Stanford University), Philip S. Yu (University of Illinois at Chicago), Yizhou Sun (University of California, Los Angeles)*** also participated in it.
-
-This project focuses on GNN, which lists relevant must-read papers and keeps track of progress. Note that actual overall progress in GNN should include, but not be limited to, these papers. We look forward to promoting this direction and providing several helps to researchers in this direction.
+Many important real-world applications and issues come in the form of graphs, such as social network, protein-protein interaction network, brain network, chemical molecular graph and 3D point cloud. Therefore, driven by the above interdisciplinary research, the neural network model for graph data has become an emerging research hotspot. ***GNN and its variants are an emerging and powerful neural network model. Its applications are no longer limited to the original field of social network. It has flourished in many other areas, such as Data Visualization, Image Processing, NLP, Recommendation System, Computer Vision, Bioinformatics, Chemical informatics, Drug Development and Discovery, Smart Transportation.*** This project focuses on GNN, which lists relevant must-read papers and keeps track of progress. Note that actual overall progress in GNN should include, but not be limited to, these papers. We look forward to promoting this direction and providing several helps to researchers in this direction.
 
 Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is something wrong or GNN-related issue, welcome to send email (Address: jdlc105@qq.com, lbtjackbluce@gmail.com).
 
 ***Technology Keyword: Graph Neural Network, Graph convolutional network, Graph network, Graph attention network, Graph auto-encoder, Graph convolutional reinforcement learning, Graph capsule neural network....***
 
-***GNN and its variants are an emerging and powerful neural network approach. Its applications are no longer limited to the original field. It has flourished in many other areas, such as Data Visualization, Image Processing, NLP, Recommendation System, Computer Vision, Bioinformatics, Chemical informatics, Drug Development and Discovery, Smart Transportation.***
-
-***Very hot research topic: 
-
+```diff
++ Very hot research topic:
+```
 ***The most representative work--Semi-supervised classification with graph convolutional networks (GCNs) proposed by T.N. Kipf and M. Welling (ICLR2017 [5] in conference paper list) has been cited 1,020 times in Google Scholar (on 09 May 2019).*** Update: 1, 065 times (on 20 May 2019); Update: 1, 106 times (on 27 May 2019); Update: 1, 227 times (on 19 June 2019); Update: 1, 377 times (on 8 July 2019); Update: 1, 678 times (on 17 Sept. 2019); Update: 1, 944 times (on 29 Oct. 2019); Update: 2, 232 times (on 9 Dec. 2019); Update: 2, 677 times (on 2 Feb. 2020).Update: 3, 018 times (on 17 March. 2020); Update: 3,560 times (on 27 May. 2020); Update: 4,060 times (on 3 July. 2020); Update: 5,371 times (on 25 Oct. 2020). Update: 6,258 times (on 01 Jan. 2021). Update: 6,672 times (on 07 Feb. 2021). Update: 8,454 times (on 16 June. 2021). Update: 14,251 times (on 21 April. 2022). **Update: 22,270 times (on 27 March. 2023)**; 
 
-***Thanks for giving us so many stars and supports from the developers and scientists on Github around the world！！！ We will continue to make this project better.***
+***Project Start time: 11 Dec 2018, Latest updated time: 27 March. 2023***. Thanks for giving us so many stars and supports from the developers and scientists on Github around the world！！！ We will continue to make this project better. 
 
-***Project Start time: 11 Dec 2018, Latest updated time: 27 March. 2023***
-
- ***New papers about GNN models and their applications have come from ICML2022, KDD2022,... We are waiting for more paper to be released.***
+```diff
++ News:
+```
+***Recent Papers about GNN models and their applications have come from ICML2022, KDD2022,... We are waiting for more paper to be released.***
 
 
 
