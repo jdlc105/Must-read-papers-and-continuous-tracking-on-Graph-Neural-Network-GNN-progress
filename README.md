@@ -173,7 +173,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 53. **A Graph Neural Network Framework for Social Recommendations**. IEEE Transactions on Knowledge and Data Engineering, 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139346)
 
-
+### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Progress in 2023 in Journal Paper`:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN methods proposed in 2023** 
 
@@ -752,7 +752,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 272. Waiss Azizian, et al. **Expressive Power of Invariant and Equivariant Graph Neural Networks**. ICLR 2021. [paper](https://openreview.net/pdf?id=lxHgXYN4bwl)
 
-**Progress in 2022 in Conference Paper**
+### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Progress in 2022 in Conference Paper`:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Novel GNN methods proposed in 2022** 
 
@@ -1096,8 +1096,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 
 
-
-## Appetizer：Art Exhibition in Network/Graph Structured Data
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Appetizer：Art Exhibition in Network/Graph Structured Data`:
 
   ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig3.gif)
  
