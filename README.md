@@ -682,9 +682,9 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 238. Mengzhang Li et al. **Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting**. AAAI 2021, [paper](https://arxiv.org/abs/2012.09641)
 
-239. Shengsheng Qian et al. **Dual Adversarial Graph Neural Networks for Multi-Label Cross-Modal Retrieval**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+239. Shengsheng Qian et al. **Dual Adversarial Graph Neural Networks for Multi-Label Cross-Modal Retrieval**. AAAI 2021, [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16345)
 
-240. Mengzhang Li et al. **Graph Neural Network-Based Anomaly Detection in Multivariate Time Series**. AAAI 2021, [The paper has not yet been released](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/edit/master/README.md)
+240. Mengzhang Li et al. **Graph Neural Network-Based Anomaly Detection in Multivariate Time Series**. AAAI 2021, [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16523)
 
 241. Fan Zhou et al. **Overcoming Catastrophic Forgetting in Graph Neural Networks with Experience Replay**. AAAI 2021, [paper](https://arxiv.org/abs/2012.06002)
 
