@@ -1092,7 +1092,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 
 
-## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Appetizer：Art Exhibition in Network/Graph Structured Data`:
+## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Appetizer：Art Exhibition of Network/Graph Structured Data`:
 
   ![image](https://github.com/jdlc105/Must-read-papers-and-continuous-tracking-on-Graph-Neural-Network-GNN-progress/blob/master/Fig3.gif)
  
