@@ -14,10 +14,8 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 ***Project Start time: 11 Dec 2018, Latest updated time: 28 March 2023***. Thanks for giving us so many stars and supports from the developers and scientists on Github around the world！！！ We will continue to make this project better. 
 
 ```diff
-+ News:
++ News: Recent Papers about GNN models and their applications have come from ICML2022, KDD2022,... We are waiting for more paper to be released.
 ```
-***Recent Papers about GNN models and their applications have come from ICML2022, KDD2022,... We are waiting for more paper to be released.***
-
 
 
 ## ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Survey papers`:
