@@ -328,6 +328,8 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
 
 63. Yu Y, Chen J, Gao T, et al. **DAG-GNN: DAG Structure Learning with Graph Neural Networks**, ICML 2019. [paper](https://arxiv.org/pdf/1904.10098.pdf).
 
+64. Tzeng R, Wu S. **Distributed, Egocentric Representations of Graphs for Detecting Critical Structures**, ICML 2019. [paper](http://proceedings.mlr.press/v97/tzeng19a.html).
+
 64. Zhijiang Guo, Yan Zhang and Wei Lu, **Attention Guided Graph Convolutional Networks for Relation Extraction** ACL 2019. [paper](http://www.statnlp.org/paper/2019/attention-guided-graph-convolutional-networks-relation-extraction.html). [coder](https://github.com/Cartus/AGGCN_TACRED).
 
 65. Chang Li, Dan Goldwasser. **Encoding Social Information with Graph Convolutional Networks for Political Perspective Detection in News Media** ACL 2019. [paper](https://www.cs.purdue.edu/homes/dgoldwas//downloads/papers/LiG_acl_2019.pdf). 
