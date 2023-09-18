@@ -30,7 +30,7 @@ Contributed by Allen Bluce (Bentian Li) and Anne Bluce (Yunxia Lin), If there is
   
 5. Ziwei Zhang, Peng Cui, Wenwu Zhu, **Deep Learning on Graphs: A Survey**, IEEE Transactions on Knowledge and Data Engineering, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9039675).
 
-6. Chen Z, Chen F, Zhang L, et al. **Bridging the Gap between Spatial and Spectral Domains: A Survey on Graph Neural Networks**. arXiv preprint. 2020. [paper](https://arxiv.org/pdf/2002.11867.pdf)
+6. Chen Z, Chen F, Zhang L, et al. **Bridging the Gap between Spatial and Spectral Domains: A Unified Framework for Graph Neural Networks**. ACM Computing Survey, 2023, to appear. [paper](https://arxiv.org/abs/2107.10234)
  
 7. Abadal S, Jain A, Guirado R, et al. **Computing Graph Neural Networks: A Survey from Algorithms to Accelerators**. arXiv preprint. 2020. [paper](https://arxiv.org/abs/2010.00130)
 
